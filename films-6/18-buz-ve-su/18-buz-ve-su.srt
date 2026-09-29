@@ -1,0 +1,161 @@
+1
+00:00:05,550 --> 00:00:12,885
+Brrr, kış geldi! Kışın su boruları neden
+patlar? Dondurucuda unutulan şişe neden
+
+2
+00:00:12,885 --> 00:00:13,527
+çatlar?
+
+3
+00:00:14,377 --> 00:00:22,031
+Önce suyun iki hâline bakalım. Sıvı su
+akar, kabın şeklini alır. Buz katıdır,
+
+4
+00:00:22,031 --> 00:00:24,516
+belirli bir şekli vardır.
+
+5
+00:00:25,266 --> 00:00:32,153
+Deney: Plastik bardağa 100 g su koyup
+seviyesini işaretledim. Hacmi 100 cm³.
+
+6
+00:00:32,153 --> 00:00:33,784
+Şimdi dondurucuya!
+
+7
+00:00:34,434 --> 00:00:42,867
+Donunca buz, çizginin üstüne çıktı! Hacmi
+yaklaşık 109 cm³ oldu. Kütlesi ise hâlâ
+
+8
+00:00:42,867 --> 00:00:43,492
+100 g.
+
+9
+00:00:44,142 --> 00:00:53,200
+Buzun yoğunluğu: 100 ÷ 109 ≈ 0,92 g/cm³.
+Suyunki 1 g/cm³. Buz, sudan az yoğundur.
+
+10
+00:00:54,050 --> 00:01:01,644
+Su donunca hacmi artar. Borular ve kapalı
+şişeler bu yüzden çatlar. Dondurucuya cam
+
+11
+00:01:01,644 --> 00:01:03,108
+şişe koymayalım!
+
+12
+00:01:03,958 --> 00:01:11,624
+Suya bir buz küpü bırakıyorum. Yüzüyor!
+Büyük kısmı suyun içinde, küçük bir kısmı
+
+13
+00:01:11,624 --> 00:01:12,476
+dışarıda.
+
+14
+00:01:13,126 --> 00:01:19,508
+Eski modelimde katının tanecikleri daha
+sıkıydı. Buna göre buz batmalıydı. Kanıt
+
+15
+00:01:19,508 --> 00:01:21,103
+modelimle çelişiyor!
+
+16
+00:01:21,753 --> 00:01:27,399
+Modelimi yeniliyorum: Su donarken
+tanecikler düzenli ama daha boşluklu
+
+17
+00:01:27,399 --> 00:01:31,352
+dizilir. Çoğu maddede böyle değildir; su
+özeldir.
+
+18
+00:01:32,302 --> 00:01:39,464
+Göller de yüzeyden donar. Buz örtüsü
+alttaki suyu korur; derinlerde su donmaz
+
+19
+00:01:39,464 --> 00:01:42,441
+ve canlılar yaşamaya devam eder.
+
+20
+00:01:43,291 --> 00:01:50,281
+Buz batsaydı? Göller dipten donar, zamanla
+tamamen buz tutabilirdi. Birçok su canlısı
+
+21
+00:01:50,281 --> 00:01:51,268
+yaşayamazdı.
+
+22
+00:01:52,291 --> 00:01:58,983
+Yeni soru: Madenî para batıyor. Peki
+metalden yapılmış dev gemiler nasıl
+
+23
+00:01:58,983 --> 00:01:59,727
+yüzüyor?
+
+24
+00:02:00,377 --> 00:02:08,895
+Model: 40 g oyun hamurundan top yaptım.
+Hacmi 20 cm³, yoğunluğu 2 g/cm³. Battı!
+
+25
+00:02:09,545 --> 00:02:17,533
+Aynı hamurdan tekne yaptım. İçindeki
+havayla birlikte 100 cm³ yer kaplıyor: 40
+
+26
+00:02:17,533 --> 00:02:19,684
+÷ 100 = 0,4. Yüzüyor!
+
+27
+00:02:20,334 --> 00:02:31,554
+30 g yükle 70 ÷ 100 = 0,7: yüzüyor. 40 g
+daha ekleyince 110 ÷ 100 = 1,1: battı!
+
+28
+00:02:32,204 --> 00:02:37,870
+Tasarımımı geliştirdim: Hacmi büyük tekne
+daha çok yük taşır. Arkadaşlarımın
+
+29
+00:02:37,870 --> 00:02:40,181
+modelleriyle de karşılaştırdım.
+
+30
+00:02:41,204 --> 00:02:46,472
+Karadeniz’in takaları fırtınaya
+dayanıklıdır. Denizcimiz Piri Reis ise
+
+31
+00:02:46,472 --> 00:02:49,181
+1513’te ünlü dünya haritasını çizdi.
+
+32
+00:02:51,204 --> 00:02:54,316
+Bulduklarımı gözlem defterime
+kaydediyorum.
+
+33
+00:03:00,704 --> 00:03:07,251
+Sıra sende! Kolay bulunan malzemelerle
+yüzen bir taka tasarla. Kaç misket
+
+34
+00:03:07,251 --> 00:03:09,762
+taşıdığını dene ve geliştir.
+
+35
+00:03:10,812 --> 00:03:15,005
+Sıradaki gözlemim: Elektriği hangi
+maddeler iletir?
+

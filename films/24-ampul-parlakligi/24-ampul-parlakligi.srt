@@ -1,0 +1,122 @@
+1
+00:00:05,550 --> 00:00:11,206
+Merhaba! Kitap okurken ışığın yeterince
+parlak olması gerekir.
+
+2
+00:00:11,856 --> 00:00:16,924
+Peki bir devredeki ampulün parlaklığı
+nelere bağlıdır?
+
+3
+00:00:17,774 --> 00:00:24,018
+Devremde neyi değiştirebilirim? Pil
+sayısını ya da ampul sayısını!
+
+4
+00:00:24,668 --> 00:00:30,324
+Hipotezim: Pil sayısı artarsa ampul daha
+parlak yanar.
+
+5
+00:00:30,974 --> 00:00:37,806
+İkinci hipotezim: Ampul sayısı artarsa her
+ampul daha sönük yanar.
+
+6
+00:00:38,856 --> 00:00:45,688
+Değiştirdiğim şey bağımsız değişkendir:
+pil sayısı ya da ampul sayısı.
+
+7
+00:00:46,338 --> 00:00:50,817
+Gözlediğim sonuç bağımlı değişkendir:
+ampulün parlaklığı.
+
+8
+00:00:51,467 --> 00:01:00,652
+Geri kalan her şeyi aynı tutarım: aynı tür
+piller, aynı tür ampuller, aynı kablolar.
+
+9
+00:01:01,702 --> 00:01:08,591
+Deneyi yalnızca pille ve bir yetişkin
+eşliğinde yapıyorum. Pilin iki ucunu tek
+
+10
+00:01:08,591 --> 00:01:10,887
+kabloyla birleştirmiyorum.
+
+11
+00:01:11,937 --> 00:01:18,769
+Deney 1: Ampul sayısı hep bir. Yalnızca
+pil sayısını değiştiriyorum.
+
+12
+00:01:19,219 --> 00:01:25,463
+Önce tahminimi yazıyorum: Pil arttıkça
+ampul daha parlak olacak.
+
+13
+00:01:25,913 --> 00:01:31,569
+Şimdi gözlem: bir pil... iki pil... üç
+pil!
+
+14
+00:01:34,913 --> 00:01:41,157
+Açıklama: Tahminim doğru. Pil sayısı
+arttıkça ampulün parlaklığı arttı.
+
+15
+00:01:42,207 --> 00:01:49,628
+Deney 2: Pil sayısı hep iki. Bu kez ampul
+sayısını değiştiriyorum.
+
+16
+00:01:50,078 --> 00:01:55,734
+Tahminim: Ampul sayısı artınca ampuller
+daha sönük yanacak.
+
+17
+00:01:56,184 --> 00:02:01,252
+Gözlem: bir ampul... iki ampul... üç
+ampul!
+
+18
+00:02:05,184 --> 00:02:11,428
+Açıklama: Ampul sayısı arttıkça her bir
+ampulün parlaklığı azaldı.
+
+19
+00:02:12,478 --> 00:02:19,152
+Deneyleri tekrarladım, sonuçlar aynı.
+Güvenilir bir dijital deney düzeneğinde de
+
+20
+00:02:19,152 --> 00:02:20,487
+aynısını gördüm.
+
+21
+00:02:21,337 --> 00:02:26,405
+Önermelerim: Pil sayısı artarsa ampulün
+parlaklığı artar.
+
+22
+00:02:28,837 --> 00:02:34,493
+Ampul sayısı artarsa her bir ampulün
+parlaklığı azalır.
+
+23
+00:02:36,337 --> 00:02:44,774
+Sıra sende! Grubunla tahminini yaz, pil ya
+da ampul sayısını değiştir, gözle ve
+
+24
+00:02:44,774 --> 00:02:45,522
+açıkla.
+
+25
+00:02:46,772 --> 00:02:51,840
+Sıradaki gözlemim: evimizdeki atıklar.
+Hangileri geri dönüştürülebilir?
+

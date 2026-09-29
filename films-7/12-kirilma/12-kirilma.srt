@@ -1,0 +1,164 @@
+1
+00:00:05,550 --> 00:00:12,597
+Merhaba! Ben Damla. Su dolu bardağa bir
+kalem koydum. Bak, kalem kırılmış gibi
+
+2
+00:00:12,597 --> 00:00:13,500
+görünüyor!
+
+3
+00:00:14,150 --> 00:00:19,878
+Kalem gerçekten kırıldı mı? Çıkarıp
+bakalım... Hayır, dümdüz! Öyleyse gözüm
+
+4
+00:00:19,878 --> 00:00:21,100
+neden yanılıyor?
+
+5
+00:00:22,150 --> 00:00:27,100
+Havuzdaki balık da olduğundan yakında
+görünür. Neden acaba?
+
+6
+00:00:28,650 --> 00:00:36,100
+Bir deney yapalım. Işık kutusundan çıkan
+ince bir ışını su dolu kaba gönderelim.
+
+7
+00:00:36,650 --> 00:00:42,100
+Işık havadan suya geçerken, iki ortamın
+sınırında yön değiştirdi!
+
+8
+00:00:43,150 --> 00:00:49,100
+Işığın bir saydam ortamdan diğerine
+geçerken yön değiştirmesine kırılma denir.
+
+9
+00:00:50,150 --> 00:00:56,600
+Yansımadaki gibi, ışının çarptığı noktadan
+yüzeye dik bir çizgi çizelim: normal.
+
+10
+00:00:57,450 --> 00:01:03,400
+Havada ilerleyen ışın gelen ışın, suda
+ilerleyen ışın kırılan ışındır.
+
+11
+00:01:04,250 --> 00:01:10,666
+Gelen ışınla normal arasındaki açıya gelme
+açısı, kırılan ışınla normal arasındaki
+
+12
+00:01:10,666 --> 00:01:12,700
+açıya kırılma açısı denir.
+
+13
+00:01:14,250 --> 00:01:19,862
+Gelme açısını değiştirip iki açıyı
+ölçelim. Önce suyla, sonra camla
+
+14
+00:01:19,862 --> 00:01:20,700
+deneyelim.
+
+15
+00:01:21,250 --> 00:01:27,200
+Sıfır derece... otuz derece... altmış
+derece... Şimdi de cam blok.
+
+16
+00:01:33,750 --> 00:01:41,700
+Az yoğun havadan çok yoğun suya ya da cama
+geçen ışık, normale yaklaşarak kırılır.
+
+17
+00:01:42,750 --> 00:01:49,969
+Aynı gelme açısında camdaki kırılma açısı
+daha küçük. Cam, ışığı sudan daha çok
+
+18
+00:01:49,969 --> 00:01:50,700
+kırıyor.
+
+19
+00:01:51,750 --> 00:01:57,200
+Sınıra dik gelen ışın ise kırılmaz;
+doğrultusunu değiştirmeden geçer.
+
+20
+00:01:58,250 --> 00:02:03,200
+Şimdi tersini deneyelim: ışını suyun
+içinden havaya gönderelim.
+
+21
+00:02:03,650 --> 00:02:10,100
+Çok yoğun sudan az yoğun havaya geçen
+ışık, normalden uzaklaşarak kırılır.
+
+22
+00:02:11,150 --> 00:02:17,074
+Peki kalem neden kırık görünüyordu?
+Kalemin ucundan gelen ışık, su yüzeyinde
+
+23
+00:02:17,074 --> 00:02:19,100
+kırılarak gözümüze ulaşır.
+
+24
+00:02:19,750 --> 00:02:25,853
+Gözümüz ışığın hep düz geldiğini varsayar.
+Bu yüzden kalemin ucunu olduğundan
+
+25
+00:02:25,853 --> 00:02:27,200
+yukarıda görürüz.
+
+26
+00:02:28,250 --> 00:02:32,700
+Balığın daha yakında görünmesi de aynı
+nedenledir.
+
+27
+00:02:33,550 --> 00:02:39,861
+Kırılmanın bir sürprizi daha var: Beyaz
+ışık bir prizmada kırılırken renklerine
+
+28
+00:02:39,861 --> 00:02:40,500
+ayrılır.
+
+29
+00:02:42,050 --> 00:02:45,000
+Bulduklarımı gözlem defterime kaydedeyim.
+
+30
+00:02:54,050 --> 00:03:00,964
+Sıra sende! Bir bardak su ve kalemle
+deneyi yap. Kalemi farklı açılardan
+
+31
+00:03:00,964 --> 00:03:02,500
+gözlemle ve çiz.
+
+32
+00:03:03,350 --> 00:03:09,012
+Sınıfta tartışın: Havuz neden olduğundan
+sığ görünür? Farklı fikirleri saygıyla
+
+33
+00:03:09,012 --> 00:03:09,800
+dinleyelim.
+
+34
+00:03:10,650 --> 00:03:16,100
+Araştır: Osmanlı bilgini Mirim Çelebi’nin
+ışıkla ilgili çalışmaları nelerdir?
+
+35
+00:03:16,950 --> 00:03:21,900
+Sıradaki gözlemim: ışığı kırarak toplayan
+ve dağıtan mercekler!
+

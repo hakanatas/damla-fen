@@ -1,0 +1,199 @@
+1
+00:00:05,550 --> 00:00:11,526
+Merhaba! Masamda sekiz olay var: ekmek
+dilimleme, patates haşlama, mum yakma,
+
+2
+00:00:11,526 --> 00:00:12,690
+kâğıt yırtma...
+
+3
+00:00:13,550 --> 00:00:19,738
+...buz eritme, tahta kırma, çaya şeker
+atma ve çaya limon sıkma.
+
+4
+00:00:20,188 --> 00:00:25,866
+Hangisinde madde yalnızca dış görünüşünü
+değiştirir, hangisinde yeni bir madde
+
+5
+00:00:25,866 --> 00:00:26,376
+oluşur?
+
+6
+00:00:27,026 --> 00:00:33,690
+Önce önerme yazayım. Birincisi: Eriyen buz
+yine sudur; dondurunca yeniden buz olur.
+
+7
+00:00:34,140 --> 00:00:40,328
+İkincisi: Yanan mum yok olur. Ama ben
+yalnızca mumun küçüldüğünü gördüm!
+
+8
+00:00:40,778 --> 00:00:44,585
+Birincisi gözleme dayanıyor, ikincisi
+dayanmıyor. Sınayalım!
+
+9
+00:00:45,435 --> 00:00:51,302
+Buz eriyince su tanecikleri aynı kalır;
+yalnızca dizilişleri değişir. Bu fiziksel
+
+10
+00:00:51,302 --> 00:00:52,099
+değişimdir.
+
+11
+00:00:52,549 --> 00:00:58,176
+Mum yanınca mumun tanecikleri oksijenle
+tepkimeye girer; karbondioksit ve su
+
+12
+00:00:58,176 --> 00:00:59,213
+buharı oluşur.
+
+13
+00:00:59,663 --> 00:01:04,748
+Kimyasal değişimde bağlar kırılır, yeni
+bağlar oluşur; fiziksel değişimde
+
+14
+00:01:04,748 --> 00:01:05,375
+kırılmaz.
+
+15
+00:01:06,225 --> 00:01:12,832
+Kimyasal değişimin ipuçları: gaz çıkışı,
+renk değişimi, ısı ve ışık, koku ve tat
+
+16
+00:01:12,832 --> 00:01:14,318
+değişimi, çökelti.
+
+17
+00:01:15,225 --> 00:01:19,508
+Uyarı: Deneylerde maddelerin tadına
+bakılmaz, doğrudan koklanmaz!
+
+18
+00:01:20,358 --> 00:01:25,465
+Şimdi sekiz olayı sınıflandırayım.
+Dilimleme, yırtma, erime, kırma, çözünme:
+
+19
+00:01:25,465 --> 00:01:26,070
+fiziksel.
+
+20
+00:01:28,358 --> 00:01:35,521
+Patates haşlama, mum yakma, çaya limon
+sıkma: kimyasal. Renk, koku ya da yeni
+
+21
+00:01:35,521 --> 00:01:36,451
+madde var!
+
+22
+00:01:37,301 --> 00:01:43,283
+Tanecikleri göremesem de tahmin ederim.
+Yağmurda su buharı yoğuşur, yine sudur:
+
+23
+00:01:43,283 --> 00:01:43,965
+fiziksel.
+
+24
+00:01:44,415 --> 00:01:49,175
+Mayalı hamur kabarır, kokusu değişir, gaz
+çıkar: kimyasal.
+
+25
+00:01:50,415 --> 00:01:55,651
+Ölçütüm: Yeni madde oluştu mu? Kimyasal
+bağlar değişti mi?
+
+26
+00:01:56,501 --> 00:02:01,737
+Kimyasal değişim bir kimyasal tepkimedir.
+Suyun oluşumunu boncuklarla modelleyelim.
+
+27
+00:02:02,187 --> 00:02:07,423
+Beyazlar hidrojen, maviler oksijen atomu.
+Moleküller ayrılır, atomlar yeniden
+
+28
+00:02:07,423 --> 00:02:09,327
+düzenlenir: iki su molekülü!
+
+29
+00:02:10,187 --> 00:02:17,493
+Önce 4 hidrojen, 2 oksijen; sonra yine 4
+hidrojen, 2 oksijen. Atomların sayısı ve
+
+30
+00:02:17,493 --> 00:02:18,756
+cinsi korunur.
+
+31
+00:02:19,206 --> 00:02:24,962
+Hidrojen ve oksijen gazdır, su sıvıdır.
+Elementler özelliklerini kaybeder; yeni
+
+32
+00:02:24,962 --> 00:02:26,346
+bir bileşik oluşur.
+
+33
+00:02:27,196 --> 00:02:32,908
+Kütle de korunur mu? Sirke ve karbonatla
+deneyelim. Önce güvenlik!
+
+34
+00:02:34,696 --> 00:02:40,408
+Karbonat küçük kapta, sirke şişede. Kapak
+kapalı. Terazi: 215,6 gram.
+
+35
+00:02:41,696 --> 00:02:46,932
+Şişeyi eğdim. Köpürme ve gaz çıkışı var:
+kimyasal tepkime!
+
+36
+00:02:47,696 --> 00:02:51,503
+Kapak kapalıyken terazi yine 215,6 gram.
+
+37
+00:02:53,196 --> 00:02:59,855
+Kapağı açınca gaz havaya karıştı; terazi
+215,1 gram. Kütle kaybolmadı, gazla dışarı
+
+38
+00:02:59,855 --> 00:03:00,336
+çıktı.
+
+39
+00:03:00,786 --> 00:03:05,546
+Sonuç: Tepkimede yeni maddeler oluşur,
+toplam kütle korunur.
+
+40
+00:03:06,396 --> 00:03:09,251
+Bulduklarımı gözlem defterime kaydedeyim.
+
+41
+00:03:15,396 --> 00:03:21,418
+Sıra sende! Deneyi öğretmeninle yap,
+verileri tabloya yaz, bir deney raporu
+
+42
+00:03:21,418 --> 00:03:22,060
+hazırla.
+
+43
+00:03:22,610 --> 00:03:27,370
+Sıradaki gözlemim: Kimyasal tepkimeler
+günlük yaşamımızı nasıl etkiliyor?
+

@@ -1,0 +1,178 @@
+1
+00:00:05,550 --> 00:00:11,500
+Merhaba! Bilim insanları elementlere kendi
+dillerinde ad verseydi ne olurdu?
+
+2
+00:00:11,950 --> 00:00:17,613
+Oksijen, oxygen, Sauerstoff... Aynı
+element, farklı adlar! Ortak bir dil
+
+3
+00:00:17,613 --> 00:00:18,400
+gerekiyor.
+
+4
+00:00:18,850 --> 00:00:25,304
+Çözüm: Her elementin uluslararası bir
+sembolü var. Oksijenin sembolü her dilde
+
+5
+00:00:25,304 --> 00:00:25,800
+O’dur.
+
+6
+00:00:26,250 --> 00:00:32,200
+Tek harfli semboller büyük harfle yazılır:
+H, C, N, O.
+
+7
+00:00:32,650 --> 00:00:41,100
+İki harfliyse ilki büyük, ikincisi küçük:
+He, Na, Cl. NA ya da na yazmak yanlış!
+
+8
+00:00:41,550 --> 00:00:47,500
+Bazı semboller Latince addan gelir:
+Sodyumun sembolü Na, “natrium” adından.
+
+9
+00:00:47,950 --> 00:00:53,400
+İlk 18 elementi, kimliklerini belirleyen
+proton sayısına göre dizelim.
+
+10
+00:00:53,850 --> 00:00:59,800
+Hidrojen, helyum, lityum, berilyum, bor,
+karbon, azot, oksijen, flor, neon...
+
+11
+00:01:02,850 --> 00:01:08,300
+Sodyum, magnezyum, alüminyum, silisyum,
+fosfor, kükürt, klor ve argon.
+
+12
+00:01:11,350 --> 00:01:18,362
+Şunları da öğrenelim: altın, gümüş, bakır,
+çinko, kurşun, cıva, platin, demir ve
+
+13
+00:01:18,362 --> 00:01:18,800
+iyot.
+
+14
+00:01:19,350 --> 00:01:24,957
+Kitapları rafa bir düzenle dizeriz.
+Elementler de periyodik tabloda bir
+
+15
+00:01:24,957 --> 00:01:26,300
+düzenle yerleşir.
+
+16
+00:01:26,750 --> 00:01:33,507
+Tablo önce artan atom kütlesine göre
+dizildi. Bugün artan proton sayısına göre
+
+17
+00:01:33,507 --> 00:01:34,200
+dizilir.
+
+18
+00:01:34,650 --> 00:01:39,100
+Yatay satırlara periyot, dikey sütunlara
+grup denir.
+
+19
+00:01:40,650 --> 00:01:48,100
+Tabloda 7 periyot, 8 tane A grubu ve 10
+tane B grubu vardır.
+
+20
+00:01:48,550 --> 00:01:56,136
+İlk 18 elementte ilk katmana en fazla 2,
+sonraki katmanlara en fazla 8 elektron
+
+21
+00:01:56,136 --> 00:01:57,000
+yerleşir.
+
+22
+00:01:57,450 --> 00:02:04,915
+Nötr atomda elektron sayısı proton
+sayısına eşittir. Sodyum: 11 elektron → 2,
+
+23
+00:02:04,915 --> 00:02:05,400
+8, 1.
+
+24
+00:02:05,850 --> 00:02:11,800
+Katman sayısı periyodu gösterir: Sodyumun
+3 katmanı var, 3. periyottadır.
+
+25
+00:02:12,250 --> 00:02:18,200
+Son katmandaki elektron sayısı A grubunu
+gösterir: Sodyum 1A grubundadır.
+
+26
+00:02:18,650 --> 00:02:23,600
+Helyum istisnadır: 2 elektronu var ama 8A
+grubundadır.
+
+27
+00:02:24,050 --> 00:02:30,597
+Son katmanı dolu atomlar kararlıdır.
+Helyum 2 elektronla dubleti, neon ve argon
+
+28
+00:02:30,597 --> 00:02:33,000
+8 elektronla okteti tamamlar.
+
+29
+00:02:33,450 --> 00:02:40,939
+Son katmanında 1, 2, 3 elektron olanlar
+genellikle elektron verir; 5, 6, 7 olanlar
+
+30
+00:02:40,939 --> 00:02:42,400
+genellikle alır.
+
+31
+00:02:42,850 --> 00:02:50,300
+Elektron veren atom artı, alan atom eksi
+yüklü olur. Bu taneciklere iyon denir.
+
+32
+00:02:50,750 --> 00:02:56,693
+Karşılaştıralım: Aynı gruptakilerin son
+katman elektron sayısı aynı, katman sayısı
+
+33
+00:02:56,693 --> 00:02:57,200
+farklı.
+
+34
+00:02:57,750 --> 00:03:03,700
+Aynı periyottakilerin katman sayısı aynı,
+son katman elektron sayısı farklı.
+
+35
+00:03:04,750 --> 00:03:07,700
+Bulduklarımı gözlem defterime kaydedeyim.
+
+36
+00:03:14,250 --> 00:03:20,030
+Sıra sende! Element adları ve
+sembolleriyle bir kart eşleştirme oyunu
+
+37
+00:03:20,030 --> 00:03:20,700
+hazırla.
+
+38
+00:03:22,250 --> 00:03:26,700
+Sıradaki gözlem: Bileşikler nasıl
+gösterilir? Bileşik formülleri!
+

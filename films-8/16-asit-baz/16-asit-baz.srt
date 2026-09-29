@@ -1,0 +1,192 @@
+1
+00:00:05,550 --> 00:00:11,738
+Merhaba! Mutfakta limon, sirke, yoğurt;
+banyoda sabun, şampuan, çamaşır suyu var.
+
+2
+00:00:12,088 --> 00:00:17,800
+Bunların çoğunda asitler ya da bazlar
+bulunur. Onları nasıl tanıyabilirim?
+
+3
+00:00:18,450 --> 00:00:23,937
+Önce güvenlik! Asit ve bazların tadına,
+kokusuna bakılmaz; dokunulmaz. Gözlük ve
+
+4
+00:00:23,937 --> 00:00:26,543
+eldiven takar, öğretmenimle çalışırım.
+
+5
+00:00:26,893 --> 00:00:31,764
+Etiketteki uyarı işaretlerini okurum.
+“Aşındırıcı” işareti: cildi, gözü ve
+
+6
+00:00:31,764 --> 00:00:33,081
+yüzeyleri yakabilir.
+
+7
+00:00:33,631 --> 00:00:40,777
+Asitler suda çözününce hidrojen iyonu, H
+artı verir. Bazlar ise hidroksit iyonu, OH
+
+8
+00:00:40,777 --> 00:00:41,724
+eksi verir.
+
+9
+00:00:42,274 --> 00:00:48,744
+Yaygın asitler: tuz ruhu, kezzap, akü
+asidi, sirkedeki asetik asit ve gazozdaki
+
+10
+00:00:48,744 --> 00:00:49,891
+karbonik asit.
+
+11
+00:00:50,241 --> 00:00:55,953
+Yaygın bazlar: sud kostik, potas kostik,
+sönmüş kireç ve amonyak.
+
+12
+00:00:56,741 --> 00:01:01,877
+Karşılaştırayım. Ortak: İkisinin de sulu
+çözeltisi elektrik iletir, ayıraç rengini
+
+13
+00:01:01,877 --> 00:01:03,881
+değiştirir, aşındırıcı olabilir.
+
+14
+00:01:04,741 --> 00:01:10,726
+Farklar: Asitler bazı metallerle ve
+mermerle tepkimeye girer; bazlar ise cam,
+
+15
+00:01:10,726 --> 00:01:12,358
+porselen ve yağlarla.
+
+16
+00:01:12,708 --> 00:01:19,372
+Asit ile baz tepkimeye girince birbirinin
+etkisini azaltır; tuz ve su oluşur.
+
+17
+00:01:19,922 --> 00:01:24,798
+Tadına bakamıyorsak nasıl ayırt ederiz?
+Rengi değişen özel maddelerle:
+
+18
+00:01:24,798 --> 00:01:25,634
+ayıraçlarla!
+
+19
+00:01:26,084 --> 00:01:32,097
+Önce önermelerimi yazayım: Limon suyu
+asittir. Sabunlu su bazdır. Süt beyaz
+
+20
+00:01:32,097 --> 00:01:33,701
+olduğu için nötrdür.
+
+21
+00:01:35,084 --> 00:01:40,543
+İlk ikisi deneyimlerime dayanıyor.
+Üçüncüsü dayanmıyor: renk tek başına kanıt
+
+22
+00:01:40,543 --> 00:01:41,748
+değil. Sınayalım!
+
+23
+00:01:42,298 --> 00:01:47,999
+Turnusol kâğıdı: Mavi turnusol asitte
+kırmızıya döner. Kırmızı turnusol bazda
+
+24
+00:01:47,999 --> 00:01:48,962
+maviye döner.
+
+25
+00:01:50,298 --> 00:01:57,029
+Limon suyunda mavi kâğıt kırmızı oldu:
+asit! Sabunlu suda kırmızı kâğıt mavi
+
+26
+00:01:57,029 --> 00:01:57,915
+oldu: baz!
+
+27
+00:01:59,298 --> 00:02:03,581
+Saf suda iki kâğıt da değişmedi: nötr.
+
+28
+00:02:04,298 --> 00:02:10,486
+Doğal bir ayıraç: mor lahana suyu. Altı
+behere eşit miktarda ekledim.
+
+29
+00:02:10,836 --> 00:02:18,811
+Limon suyu kırmızı, sirke pembe, süt ve
+saf su mor, karbonatlı su mavi, sabunlu su
+
+30
+00:02:18,811 --> 00:02:19,881
+yeşil oldu!
+
+31
+00:02:20,231 --> 00:02:25,467
+Süt nötre çok yakın: önermem doğru, ama
+gerekçem yanlıştı!
+
+32
+00:02:26,017 --> 00:02:32,789
+Başka ayıraçlar da var. Fenolftalein bazda
+pembe olur. Metil oranj asitte kırmızı,
+
+33
+00:02:32,789 --> 00:02:34,110
+bazda sarı olur.
+
+34
+00:02:34,660 --> 00:02:41,324
+Sonuç: Ayıracın rengi, maddenin asit mi,
+baz mı, nötr mü olduğunu gösterir.
+
+35
+00:02:41,674 --> 00:02:46,283
+Tahmin: Amonyaklı cam temizleyicisi
+bazdır. Denemeden söylüyorum: kırmızı
+
+36
+00:02:46,283 --> 00:02:47,862
+turnusolu maviye çevirir.
+
+37
+00:02:48,212 --> 00:02:55,014
+Ama her asit ve baz aynı rengi verir mi?
+Zayıf olanlarda renk az değişebilir;
+
+38
+00:02:55,014 --> 00:02:56,781
+deneyle sınamalıyım.
+
+39
+00:02:57,331 --> 00:03:00,186
+Bulduklarımı gözlem defterime kaydedeyim.
+
+40
+00:03:05,331 --> 00:03:12,143
+Sıra sende! Öğretmeninle mor lahana suyu
+hazırla, evdeki maddeleri test et, tabloya
+
+41
+00:03:12,143 --> 00:03:12,471
+yaz.
+
+42
+00:03:12,921 --> 00:03:20,061
+Sıradaki gözlemim: Limon da sirke de asit.
+Peki hangisi daha asidik? pH cetveli!
+

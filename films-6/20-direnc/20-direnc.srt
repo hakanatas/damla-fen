@@ -1,0 +1,152 @@
+1
+00:00:05,550 --> 00:00:11,635
+Merhaba! Pil ya da ampul sayısı değişince
+ampulün parlaklığının değiştiğini
+
+2
+00:00:11,635 --> 00:00:12,446
+biliyoruz.
+
+3
+00:00:13,096 --> 00:00:20,532
+Peki pil ve ampul aynı kalsa, yalnızca tel
+değişse parlaklık değişir mi?
+
+4
+00:00:21,582 --> 00:00:27,937
+Bir benzetme düşünelim: Aynı sayıda araç,
+farklı yollardan hedefe gidiyor.
+
+5
+00:00:28,387 --> 00:00:32,580
+Uzun yol, kısa yoldan daha zordur.
+
+6
+00:00:33,030 --> 00:00:38,304
+Tek şeritli yol, çift şeritli yoldan daha
+zordur.
+
+7
+00:00:38,754 --> 00:00:42,947
+Çakıllı yol, asfalt yoldan daha zordur.
+
+8
+00:00:43,797 --> 00:00:50,695
+Teller de elektrik akımına karşı bir
+zorluk gösterir. Buna elektriksel direnç
+
+9
+00:00:50,695 --> 00:00:51,233
+denir.
+
+10
+00:00:52,797 --> 00:00:58,461
+Yalnızca pil kullanırım, kısa devre
+yapmam. İnce teller ısınabilir; bir
+
+11
+00:00:58,461 --> 00:01:00,774
+yetişkin eşliğinde çalışırım.
+
+12
+00:01:01,824 --> 00:01:07,620
+Deneyimi tasarlıyorum: Her seferinde
+yalnızca bir değişkeni değiştirip gerisini
+
+13
+00:01:07,620 --> 00:01:08,720
+aynı tutacağım.
+
+14
+00:01:09,570 --> 00:01:15,385
+Deney 1: Aynı kalınlıkta krom-nikel
+teller. Yalnızca uzunlukları farklı.
+
+15
+00:01:15,835 --> 00:01:21,650
+Tel uzadıkça ampul sönükleşti. Uzun telin
+direnci daha büyüktür.
+
+16
+00:01:22,835 --> 00:01:29,190
+Deney 2: Aynı uzunlukta krom-nikel teller.
+Biri ince, biri kalın.
+
+17
+00:01:29,640 --> 00:01:37,617
+İnce telde ampul daha sönük. Kesit alanı
+küçük olan telin direnci daha büyüktür.
+
+18
+00:01:38,667 --> 00:01:45,563
+Deney 3: Aynı uzunlukta ve kalınlıkta
+bakır tel ve krom-nikel tel.
+
+19
+00:01:46,013 --> 00:01:52,368
+Krom-nikel telde ampul daha sönük. Direnç,
+iletkenin cinsine de bağlıdır.
+
+20
+00:01:53,418 --> 00:01:58,692
+Verilerimi tabloya kaydettim. Direnç
+arttıkça ampulün parlaklığı azalıyor.
+
+21
+00:02:02,418 --> 00:02:07,692
+Direnci, teli değiştirmeden ayarlayabilir
+miyim? Evet, reosta ile!
+
+22
+00:02:08,342 --> 00:02:14,557
+Reostada sürgü, tel üzerinde kayar.
+Böylece akımın geçtiği telin uzunluğu
+
+23
+00:02:14,557 --> 00:02:15,238
+değişir.
+
+24
+00:02:15,888 --> 00:02:21,703
+Sürgüyü kaydırdıkça tel uzuyor, direnç
+artıyor ve ampul sönükleşiyor.
+
+25
+00:02:24,888 --> 00:02:29,081
+Sürgünün her konumunda parlaklığı tabloya
+kaydettim.
+
+26
+00:02:32,388 --> 00:02:38,609
+Çıkarımım: Reosta, değeri değiştirilebilen
+bir dirençtir. Buna ayarlanabilir direnç
+
+27
+00:02:38,609 --> 00:02:39,284
+de denir.
+
+28
+00:02:40,134 --> 00:02:45,408
+Devre şemasında direnç ve reosta bu
+sembollerle gösterilir.
+
+29
+00:02:46,634 --> 00:02:50,827
+Direncin birimi ohmdur. Ω simgesiyle
+gösterilir.
+
+30
+00:02:51,677 --> 00:02:57,492
+Günlük yaşamda bazı ısıtıcıların ayar
+düğmeleri de dirençle ilişkilidir.
+
+31
+00:02:58,742 --> 00:03:06,178
+Sıra sende! Kalem ucuyla basit bir reosta
+yap. Verilerini V diyagramıyla raporla.
+
+32
+00:03:07,742 --> 00:03:11,395
+Sıradaki gözlemim: Canlıların zenginliği,
+biyoçeşitlilik.
+

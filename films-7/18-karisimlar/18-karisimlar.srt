@@ -1,0 +1,160 @@
+1
+00:00:05,550 --> 00:00:10,000
+Merhaba! Salata, ayran, limonata... Hepsi
+birer karışım.
+
+2
+00:00:10,850 --> 00:00:15,300
+Peki karışımları saf maddelerden ayıran
+özellikler neler?
+
+3
+00:00:16,350 --> 00:00:23,721
+Karışımın belirli bir oranı, formülü,
+erime ve kaynama noktası yoktur. Az ya da
+
+4
+00:00:23,721 --> 00:00:26,800
+çok şekerle yine şekerli su olur.
+
+5
+00:00:27,650 --> 00:00:33,283
+Karışımı oluşturan maddeler özelliklerini
+korur: Demir tozu, kumla karışsa da
+
+6
+00:00:33,283 --> 00:00:34,600
+mıknatısa çekilir.
+
+7
+00:00:35,850 --> 00:00:40,800
+Dört karışım hazırlayalım: şeker-su,
+tuz-su, kum-su ve zeytinyağı-su.
+
+8
+00:00:43,850 --> 00:00:51,321
+Şeker ve tuz gözden kayboldu. Kum dibe
+çöktü, zeytinyağı üstte ayrı bir katman
+
+9
+00:00:51,321 --> 00:00:51,800
+oldu.
+
+10
+00:00:52,850 --> 00:00:58,300
+Yakından bakalım. Şeker tanecikleri suyun
+her yerine eşit dağılmış.
+
+11
+00:00:59,850 --> 00:01:05,800
+Kum ise suda çözünmüyor. Karışımın her
+yeri aynı özelliği göstermiyor.
+
+12
+00:01:06,850 --> 00:01:11,466
+Her yerinde aynı özelliği gösteren
+karışımlar homojendir; göstermeyenler
+
+13
+00:01:11,466 --> 00:01:12,300
+heterojendir.
+
+14
+00:01:15,850 --> 00:01:21,800
+Homojen karışımların özel adı çözeltidir.
+Çözelti, çözücü ve çözünenden oluşur.
+
+15
+00:01:22,650 --> 00:01:27,600
+Tuz suda çözünürken sodyum ve klor
+iyonlarına ayrışır.
+
+16
+00:01:28,650 --> 00:01:34,394
+Çevremizdeki karışımları da etiketleyelim:
+katı, sıvı ve gaz hâlindeki maddelerin
+
+17
+00:01:34,394 --> 00:01:35,600
+farklı ikilileri.
+
+18
+00:01:40,650 --> 00:01:46,600
+Çayıma şeker attım. Bazen hemen çözünüyor,
+bazen uzun sürüyor. Neden?
+
+19
+00:01:47,450 --> 00:01:52,852
+Dikkat: Şeker çayda erimez, çözünür!
+Erime, ısı alan katının sıvıya
+
+20
+00:01:52,852 --> 00:01:53,900
+dönüşmesidir.
+
+21
+00:01:54,950 --> 00:02:00,482
+Tanecik boyutu, karıştırma ve suyun
+sıcaklığı bağımsız değişkenler. Çözünme
+
+22
+00:02:00,482 --> 00:02:02,400
+hızı ise bağımlı değişken.
+
+23
+00:02:03,950 --> 00:02:10,336
+Su miktarı, şeker miktarı ve kap hep aynı
+kalmalı. Bunlar kontrol edilen
+
+24
+00:02:10,336 --> 00:02:11,400
+değişkenler.
+
+25
+00:02:12,450 --> 00:02:17,400
+Sıcak suyla bir yetişkin eşliğinde ve
+dikkatle çalışmalıyım.
+
+26
+00:02:18,950 --> 00:02:25,900
+Hipotez 1: Tanecik boyutu küçülürse temas
+yüzeyi artar, şeker daha hızlı çözünür.
+
+27
+00:02:27,950 --> 00:02:32,400
+Hipotez 2: Karıştırırsam şeker daha hızlı
+çözünür.
+
+28
+00:02:35,950 --> 00:02:41,400
+Hipotez 3: Suyun sıcaklığı artarsa şeker
+daha hızlı çözünür.
+
+29
+00:02:43,950 --> 00:02:50,308
+Neden mi? Sıcak suda tanecikler daha hızlı
+hareket eder. Karıştırmak da çözünen
+
+30
+00:02:50,308 --> 00:02:52,400
+tanecikleri çabuk dağıtır.
+
+31
+00:02:53,650 --> 00:02:58,600
+Deneylerim üç hipotezimi de destekledi.
+Önermelerimi defterime yazayım.
+
+32
+00:03:04,650 --> 00:03:10,855
+Sıra sende! Çevrendeki karışımları bir
+tabloda homojen ya da heterojen diye
+
+33
+00:03:10,855 --> 00:03:11,600
+etiketle.
+
+34
+00:03:12,650 --> 00:03:17,100
+Sıradaki gözlemim: Karıştırdık, peki geri
+ayırabilir miyiz?
+

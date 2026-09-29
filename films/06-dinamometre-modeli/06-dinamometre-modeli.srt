@@ -1,0 +1,148 @@
+1
+00:00:05,550 --> 00:00:10,742
+Merhaba! Dinamometreyle kuvvet ölçmeyi
+öğrendim. Bugün kendi dinamometremi
+
+2
+00:00:10,742 --> 00:00:11,794
+tasarlayacağım!
+
+3
+00:00:12,644 --> 00:00:18,941
+Önce problemi belirleyeyim: Basit
+malzemelerle 0 ile 5 N arasındaki
+
+4
+00:00:18,941 --> 00:00:22,418
+kuvvetleri ölçen bir araç yapmalıyım.
+
+5
+00:00:23,268 --> 00:00:30,100
+Ölçeği kolay okunmalı. Aynı cismi tekrar
+ölçünce aynı sonucu vermeli.
+
+6
+00:00:31,150 --> 00:00:37,987
+Mühendisler böyle bir işte tasarım
+döngüsünü izler. Ben de bu adımları
+
+7
+00:00:37,987 --> 00:00:39,159
+izleyeceğim.
+
+8
+00:00:41,150 --> 00:00:47,982
+Gerçek dinamometrede esnek bir yay vardı.
+Evdeki hangi malzemeler esnek?
+
+9
+00:00:48,832 --> 00:00:56,729
+Lastik bant, karton, plastik bardak, ataş
+ve cetvel seçtim. Lastik bant çekince
+
+10
+00:00:56,729 --> 00:00:57,429
+uzuyor.
+
+11
+00:00:58,279 --> 00:01:04,523
+Kartonu keserken makası dikkatli ve bir
+yetişkin eşliğinde kullanmalıyım.
+
+12
+00:01:05,573 --> 00:01:11,887
+İlk modelimi öneriyorum: Lastik bandın
+ucuna bir bardak asacağım. Ataştan
+
+13
+00:01:11,887 --> 00:01:15,347
+gösterge, kartonun üstünde ölçek olacak.
+
+14
+00:01:16,197 --> 00:01:22,729
+Ölçeği işaretlemek için gerçek
+dinamometreyle ölçtüğüm cisimleri
+
+15
+00:01:22,729 --> 00:01:25,382
+asıyorum: 1 N, 2 N, 3 N...
+
+16
+00:01:26,432 --> 00:01:35,029
+Şimdi test zamanı! A cismi 2 N, B cismi 4
+N gösterdi. Harika!
+
+17
+00:01:35,879 --> 00:01:43,768
+Ama bardağı boşaltınca gösterge sıfıra
+dönmedi! A cismini tekrar ölçünce 2,5 N
+
+18
+00:01:43,768 --> 00:01:44,476
+okudum.
+
+19
+00:01:45,326 --> 00:01:52,311
+Lastik bant çok gerilince eski hâline tam
+dönemedi. Modelim ikinci ölçütümü
+
+20
+00:01:52,311 --> 00:01:53,335
+sağlamıyor.
+
+21
+00:01:54,385 --> 00:01:59,724
+Modelimi arkadaşlarımın modelleriyle
+karşılaştırdım. Tükenmez kalem yayı
+
+22
+00:01:59,724 --> 00:02:02,394
+kullanan model hep sıfıra dönüyordu.
+
+23
+00:02:03,385 --> 00:02:09,991
+Bu yeni kanıtla modelimi yeniliyorum:
+Lastik bant yerine yay takıp ölçeği
+
+24
+00:02:09,991 --> 00:02:11,982
+yeniden işaretliyorum.
+
+25
+00:02:12,832 --> 00:02:20,474
+Tekrar test ettim: Gösterge sıfıra
+dönüyor, A cismi yine 2 N. Ölçütlerim
+
+26
+00:02:20,474 --> 00:02:21,429
+sağlandı!
+
+27
+00:02:22,479 --> 00:02:29,311
+Sonuçları tabloya yazdım. Hatalarım,
+modelimi geliştirmem için bir fırsat oldu.
+
+28
+00:02:30,979 --> 00:02:37,811
+Daha büyük kuvvetleri ölçmek istersem daha
+kalın bir yay seçmeliyim.
+
+29
+00:02:38,861 --> 00:02:45,105
+Son adım: Modelimi sınıfta paylaşıyorum ve
+arkadaşlarımın önerilerini dinliyorum.
+
+30
+00:02:46,861 --> 00:02:54,617
+Sıra sende! Grubunla basit malzemelerden
+bir dinamometre modeli tasarla, test et ve
+
+31
+00:02:54,617 --> 00:02:55,458
+geliştir.
+
+32
+00:02:56,861 --> 00:03:03,693
+Sıradaki gözlemim: Kütle ve ağırlık aynı
+şey mi? Hadi karşılaştıralım!
+

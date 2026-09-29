@@ -1,0 +1,182 @@
+1
+00:00:05,550 --> 00:00:11,765
+Merhaba, ben Damla! Ela’nın saçları babası
+gibi kıvırcık, gülüşü annesine benziyor.
+
+2
+00:00:11,765 --> 00:00:12,214
+Neden?
+
+3
+00:00:12,864 --> 00:00:19,528
+Atalarımız “Aslı ne ise nesli odur.”
+demiş. Sence bu söz ne anlatıyor?
+
+4
+00:00:20,178 --> 00:00:24,938
+Özelliklerin genlerle anne babadan
+yavrulara aktarılmasına kalıtım denir.
+
+5
+00:00:25,688 --> 00:00:30,297
+1800’lerde Gregor Mendel, bezelyelerle
+yaptığı deneylerle kalıtımın temel
+
+6
+00:00:30,297 --> 00:00:31,876
+kurallarını ortaya koydu.
+
+7
+00:00:32,426 --> 00:00:37,629
+Neden bezelye? Kolay yetişir, kısa sürede
+çok tohum verir, kendi kendini
+
+8
+00:00:37,629 --> 00:00:40,519
+tozlaşabilir ve özellikleri belirgindir.
+
+9
+00:00:41,069 --> 00:00:46,858
+Tohum rengi, tohum şekli, çiçek rengi,
+bitki boyu... Kalıtımla aktarılan her
+
+10
+00:00:46,858 --> 00:00:48,686
+özelliğe karakter denir.
+
+11
+00:00:49,436 --> 00:00:55,348
+Her karakter için iki gen taşırız: biri
+anneden, biri babadan. Bir karakterin
+
+12
+00:00:55,348 --> 00:00:58,957
+farklı hâllerini belirleyen genlere alel
+denir.
+
+13
+00:00:59,507 --> 00:01:06,526
+Baskın gen, yanında hangi gen olursa olsun
+kendini gösterir. Bezelyede sarı renk geni
+
+14
+00:01:06,526 --> 00:01:07,600
+baskındır: S.
+
+15
+00:01:08,150 --> 00:01:15,290
+Çekinik gen ancak iki tane olunca kendini
+gösterir. Yeşil renk geni çekiniktir: s.
+
+16
+00:01:15,840 --> 00:01:22,756
+Genotip, bireyin taşıdığı gen çiftidir:
+SS, Ss ya da ss. Fenotip ise gözlenen
+
+17
+00:01:22,756 --> 00:01:25,361
+özelliktir: sarı ya da yeşil.
+
+18
+00:01:25,911 --> 00:01:33,579
+Aynı iki geni taşıyana saf döl, farklı iki
+geni taşıyana melez döl denir. Melez Ss
+
+19
+00:01:33,579 --> 00:01:36,385
+sarıdır ama yeşil geni saklar.
+
+20
+00:01:37,035 --> 00:01:40,842
+Bu kavramları bir kavram haritasında
+birleştirelim.
+
+21
+00:01:45,035 --> 00:01:51,223
+Problem 1: Saf sarı tohumlu bezelye ile
+yeşil tohumlu bezelyeyi çaprazlayalım.
+
+22
+00:01:51,673 --> 00:01:57,861
+Her ata, üreme hücresine gen çiftinden
+yalnızca birini verir. Mayozu hatırla!
+
+23
+00:01:58,311 --> 00:02:04,023
+Tabloyu dolduralım. Bütün yavrular Ss:
+hepsi sarı tohumlu ve melez.
+
+24
+00:02:05,311 --> 00:02:10,071
+Problem 2: Bu melez bezelyeleri kendi
+aralarında çaprazlayalım.
+
+25
+00:02:10,521 --> 00:02:14,804
+Sonuçlar: bir SS, iki Ss, bir ss.
+
+26
+00:02:16,521 --> 00:02:25,140
+Genotip oranı 1 : 2 : 1, fenotip oranı 3
+sarı : 1 yeşil. Birinci dölde saklanan
+
+27
+00:02:25,140 --> 00:02:26,995
+yeşil geri döndü!
+
+28
+00:02:27,645 --> 00:02:33,943
+Mendel binlerce tohum saydı: 6022 sarı,
+2001 yeşil, yani yaklaşık 3’e 1. Oranlar
+
+29
+00:02:33,943 --> 00:02:37,643
+olasılıktır; az yavruda sonuç farklı
+çıkabilir.
+
+30
+00:02:38,293 --> 00:02:44,010
+Tahmin: yeşil tohumlar ss’dir; kendi
+aralarında hep yeşil döl verirler. Diğer
+
+31
+00:02:44,010 --> 00:02:46,386
+canlılarda da aktarım benzerdir.
+
+32
+00:02:47,236 --> 00:02:54,574
+Cinsiyet nasıl belirlenir? Kadında XX,
+erkekte XY eşey kromozomu vardır. Yumurta
+
+33
+00:02:54,574 --> 00:02:57,234
+hep X, sperm X ya da Y taşır.
+
+34
+00:02:57,784 --> 00:03:03,833
+Yani cinsiyeti babadan gelen eşey
+kromozomu belirler. Kız ya da erkek olma
+
+35
+00:03:03,833 --> 00:03:05,877
+olasılığı yarı yarıyadır.
+
+36
+00:03:06,727 --> 00:03:10,058
+Problem çözümlerimi gözlem defterime
+kaydediyorum.
+
+37
+00:03:16,727 --> 00:03:22,560
+Sıra sende! Düzgün tohum (D), buruşuk
+tohuma (d) baskındır. Dd ile dd
+
+38
+00:03:22,560 --> 00:03:25,772
+bezelyeleri çaprazla. Oranlar ne olur?
+
+39
+00:03:26,622 --> 00:03:31,382
+Sıradaki gözlemim: akraba evliliklerinin
+genetik sonuçları ve mutasyon.
+

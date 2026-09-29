@@ -1,0 +1,165 @@
+1
+00:00:05,550 --> 00:00:11,500
+Merhaba! Ben Damla. Bugün oyun parkındayım
+ve gözlem defterim yanımda.
+
+2
+00:00:12,350 --> 00:00:19,300
+Bir cismin iş yapabilme yeteneğine enerji
+denir. Enerjisi olan cisim iş yapabilir.
+
+3
+00:00:20,150 --> 00:00:26,100
+Parktaki cisimler bu enerjiyi nereden
+alıyor? Hareketinden mi, konumundan mı?
+
+4
+00:00:26,850 --> 00:00:33,300
+Altı görüntüyü iki gruba ayıralım: hareket
+edenler ve bir konumda bekleyenler.
+
+5
+00:00:33,950 --> 00:00:40,492
+Yuvarlanan top ve giden bisiklet hareket
+ediyor. Daldaki elma, raftaki saksı,
+
+6
+00:00:40,492 --> 00:00:44,400
+gerilmiş ok yayı ve sıkışmış yay ise
+bekliyor.
+
+7
+00:00:45,250 --> 00:00:51,200
+Bir cismin hareketinden dolayı sahip
+olduğu enerjiye kinetik enerji denir.
+
+8
+00:00:52,050 --> 00:00:59,628
+Aynı topu yavaş ve hızlı yuvarladım. Hızlı
+top kutuyu daha uzağa itti: Sürat arttıkça
+
+9
+00:00:59,628 --> 00:01:01,500
+kinetik enerji artar.
+
+10
+00:01:02,350 --> 00:01:10,225
+Şimdi aynı süratle bir tenis topu ve bir
+bowling topu. Kütlesi büyük olan kutuyu
+
+11
+00:01:10,225 --> 00:01:11,800
+daha uzağa itti.
+
+12
+00:01:12,650 --> 00:01:19,479
+Kütle arttıkça da kinetik enerji artar.
+Duran bir cismin ise kinetik enerjisi
+
+13
+00:01:19,479 --> 00:01:20,100
+yoktur.
+
+14
+00:01:20,950 --> 00:01:26,885
+Bir cismin konumundan ya da durumundan
+dolayı depoladığı enerjiye potansiyel
+
+15
+00:01:26,885 --> 00:01:27,900
+enerji denir.
+
+16
+00:01:28,750 --> 00:01:34,818
+Yerden yüksekte duran cisimlerin çekim
+potansiyel enerjisi vardır. Daldaki elma
+
+17
+00:01:34,818 --> 00:01:36,200
+buna bir örnektir.
+
+18
+00:01:37,050 --> 00:01:43,579
+Aynı topu farklı yüksekliklerden kuma
+bıraktım. Yüksekten düşen top daha derin
+
+19
+00:01:43,579 --> 00:01:44,500
+çukur açtı.
+
+20
+00:01:46,050 --> 00:01:52,021
+Aynı yükseklikten bıraktığım toplardan
+kütlesi büyük olan daha derin çukur açtı.
+
+21
+00:01:52,021 --> 00:01:56,500
+Yükseklik ve kütle arttıkça çekim
+potansiyel enerjisi artar.
+
+22
+00:01:57,350 --> 00:02:04,045
+Gerilen ya da sıkışan esnek cisimler de
+enerji depolar. Buna esneklik potansiyel
+
+23
+00:02:04,045 --> 00:02:05,300
+enerjisi denir.
+
+24
+00:02:06,150 --> 00:02:12,600
+Yayı az sıkıştırınca top biraz yükseldi.
+Çok sıkıştırınca daha yükseğe fırladı.
+
+25
+00:02:15,150 --> 00:02:19,600
+Şimdi kinetik ve potansiyel enerjiyi
+karşılaştırıp listeleyelim.
+
+26
+00:02:20,250 --> 00:02:26,192
+Benzerlikler: İkisi de enerjidir ve iş
+yapabilir; birimleri joule’dür. Kinetik ve
+
+27
+00:02:26,192 --> 00:02:29,200
+çekim potansiyel enerji kütleye bağlıdır.
+
+28
+00:02:30,050 --> 00:02:35,725
+Farklılıklar: Kinetik enerji hareketten,
+potansiyel enerji konumdan ya da durumdan
+
+29
+00:02:35,725 --> 00:02:40,500
+kaynaklanır. Biri sürate, diğeri
+yüksekliğe ya da esnekliğe bağlıdır.
+
+30
+00:02:41,350 --> 00:02:48,800
+Uçan bir kuşun ise ikisi birden vardır:
+hem kinetik hem çekim potansiyel enerjisi.
+
+31
+00:02:49,650 --> 00:02:52,600
+Bulduklarımı gözlem defterime
+kaydediyorum.
+
+32
+00:03:01,650 --> 00:03:07,617
+Sıra sende! Çevrende üç kinetik, üç
+potansiyel enerji örneği bul. Benzerlik ve
+
+33
+00:03:07,617 --> 00:03:10,600
+farklılıklarını kendi cümlelerinle yaz.
+
+34
+00:03:11,450 --> 00:03:17,452
+Sıradaki gözlemim: Kinetik ve potansiyel
+enerji birbirine dönüşür mü? Enerji
+
+35
+00:03:17,452 --> 00:03:18,400
+kaybolur mu?
+

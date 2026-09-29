@@ -1,0 +1,149 @@
+1
+00:00:05,550 --> 00:00:12,500
+Merhaba! Ben Damla. Bir ipin ucuna top
+bağlayıp basit bir sarkaç yaptım.
+
+2
+00:00:13,350 --> 00:00:18,800
+Top yükselirken yavaşlıyor, alçalırken
+hızlanıyor. Peki enerjisine ne oluyor?
+
+3
+00:00:19,650 --> 00:00:25,600
+Birkaç gözlem yapıp bir örüntü arayacağım.
+Sonra da genelleme yapacağım.
+
+4
+00:00:26,250 --> 00:00:33,209
+Birinci gözlem: Topu yana çekip bıraktım.
+En yüksek noktada bir an duruyor; çekim
+
+5
+00:00:33,209 --> 00:00:35,700
+potansiyel enerjisi en fazla.
+
+6
+00:00:36,550 --> 00:00:42,500
+En alçak noktada en hızlı. Potansiyel
+enerji kinetik enerjiye dönüştü.
+
+7
+00:00:43,550 --> 00:00:48,800
+Öbür tarafa çıkarken yavaşlıyor. Kinetik
+enerji yeniden potansiyel enerjiye
+
+8
+00:00:48,800 --> 00:00:49,500
+dönüşüyor.
+
+9
+00:00:50,550 --> 00:00:55,468
+İkinci gözlem: Topu serbest bıraktım.
+Yükseklik azaldıkça sürati artıyor;
+
+10
+00:00:55,468 --> 00:00:58,500
+potansiyel enerji kinetik enerjiye
+dönüşüyor.
+
+11
+00:00:59,350 --> 00:01:05,340
+Üçüncü gözlem: Sıkışmış yay topu fırlattı.
+Esneklik potansiyel enerjisi önce kinetik,
+
+12
+00:01:05,340 --> 00:01:08,300
+sonra çekim potansiyel enerjisine dönüştü.
+
+13
+00:01:09,150 --> 00:01:15,110
+Dördüncü gözlem: Oyuncak hız treni. Yokuş
+aşağı inerken hızlanıyor, yokuş yukarı
+
+14
+00:01:15,110 --> 00:01:16,600
+çıkarken yavaşlıyor.
+
+15
+00:01:18,150 --> 00:01:23,917
+Bir örüntü buldum! Yükseklik azalınca
+sürat artıyor, yükseklik artınca sürat
+
+16
+00:01:23,917 --> 00:01:24,600
+azalıyor.
+
+17
+00:01:26,150 --> 00:01:30,600
+Yani kinetik ve potansiyel enerji
+birbirine dönüşüyor.
+
+18
+00:01:31,450 --> 00:01:39,149
+Ama sarkacım her salınımda biraz daha az
+yükseliyor ve sonunda duruyor. Enerji yok
+
+19
+00:01:39,149 --> 00:01:39,900
+mu oldu?
+
+20
+00:01:40,550 --> 00:01:46,621
+Hayır! Hava ve ipin bağlandığı yerdeki
+sürtünme, enerjinin bir kısmını ısıya
+
+21
+00:01:46,621 --> 00:01:47,500
+dönüştürür.
+
+22
+00:01:48,350 --> 00:01:54,285
+Ellerimi birbirine sürtünce ısınıyor. Bu
+ısı çevreye yayılır ve hareket için
+
+23
+00:01:54,285 --> 00:01:55,300
+kullanılamaz.
+
+24
+00:01:56,150 --> 00:02:03,021
+Sürtünme çok az olduğunda bu etkiyi ihmal
+edebiliriz. O zaman top hep aynı
+
+25
+00:02:03,021 --> 00:02:04,600
+yüksekliğe çıkar.
+
+26
+00:02:05,450 --> 00:02:12,716
+Genelleme: Enerji yoktan var olmaz, var
+olan enerji yok olmaz. Yalnızca bir türden
+
+27
+00:02:12,716 --> 00:02:14,400
+başka türe dönüşür.
+
+28
+00:02:15,250 --> 00:02:21,700
+Dönüşümler sırasında toplam enerji hep
+aynı kalır. Buna enerjinin korunumu denir.
+
+29
+00:02:23,250 --> 00:02:26,200
+Bulduklarımı gözlem defterime
+kaydediyorum.
+
+30
+00:02:35,250 --> 00:02:41,704
+Sıra sende! Bir balık kılçığı diyagramı
+hazırla ve günlük yaşamdan enerji dönüşümü
+
+31
+00:02:41,704 --> 00:02:43,200
+örneklerini göster.
+
+32
+00:02:44,050 --> 00:02:49,500
+Sıradaki gözlemim: Yediğimiz besinler
+vücudumuzda nasıl bir yolculuğa çıkıyor?
+

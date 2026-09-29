@@ -1,0 +1,153 @@
+1
+00:00:05,550 --> 00:00:11,365
+Merhaba! Ben Damla. Bu ağır kutuyu kenara
+itmem gerekiyor.
+
+2
+00:00:12,215 --> 00:00:19,111
+Tek başıma itiyorum... kıpırdamıyor.
+Arkadaşım da aynı yönde itince kutu kaydı!
+
+3
+00:00:20,215 --> 00:00:27,111
+Bir cisme birden fazla kuvvet etki edince
+ne olur? Hadi inceleyelim!
+
+4
+00:00:27,861 --> 00:00:34,216
+Kuvveti bir okla çizelim. Okun başladığı
+nokta, kuvvetin uygulama noktasıdır.
+
+5
+00:00:34,866 --> 00:00:42,843
+Okun üzerinde durduğu çizgi doğrultudur.
+Yatay doğrultuda iki yön var: sağ ve sol.
+
+6
+00:00:43,693 --> 00:00:50,048
+Okun boyu kuvvetin büyüklüğünü gösterir.
+Defterimde her kare 1 N.
+
+7
+00:00:50,798 --> 00:00:57,650
+Kutuyu iki dinamometreyle aynı yöne
+çekiyoruz: biri 3 N, diğeri 2 N
+
+8
+00:00:57,650 --> 00:00:58,775
+gösteriyor.
+
+9
+00:00:59,425 --> 00:01:06,861
+Okları uç uca ekleyelim: tek bir 5 N’luk
+kuvvet ikisinin etkisini yapar.
+
+10
+00:01:07,711 --> 00:01:14,066
+Bu tek kuvvete bileşke kuvvet denir. Aynı
+yöndeki kuvvetler toplanır.
+
+11
+00:01:14,916 --> 00:01:22,352
+Peki kuvvetler zıt yönde olursa? Sağa 5 N,
+sola 3 N çekiyoruz.
+
+12
+00:01:23,002 --> 00:01:29,922
+Zıt yöndeki kuvvetlerin farkı alınır.
+Bileşke 2 N olur ve büyük kuvvetin
+
+13
+00:01:29,922 --> 00:01:30,979
+yönündedir.
+
+14
+00:01:31,829 --> 00:01:38,184
+Ya iki taraf da 4 N ile çekerse? Kutu
+kıpırdamıyor.
+
+15
+00:01:38,834 --> 00:01:43,490
+Bileşke sıfır! Bunlar dengelenmiş
+kuvvetlerdir. Bileşke sıfırdan farklıysa
+
+16
+00:01:43,490 --> 00:01:45,189
+kuvvetler dengelenmemiştir.
+
+17
+00:01:45,939 --> 00:01:54,457
+Sağa 6 N, sola 2 N: bileşke 4 N sağa. Sola
+4 N eklersem?
+
+18
+00:01:55,107 --> 00:02:00,916
+Bileşke sıfır oldu! Bileşkeye eşit
+büyüklükte, zıt yönlü bu kuvvete
+
+19
+00:02:00,916 --> 00:02:03,084
+dengeleyici kuvvet denir.
+
+20
+00:02:03,834 --> 00:02:10,730
+Deney zamanı! Hipotezim: Bileşke sıfırsa
+duran araba durur, değilse harekete geçer.
+
+21
+00:02:11,580 --> 00:02:17,364
+Düzenek: masada tekerlekli araba, iki ip,
+iki dinamometre. Yalnızca kuvvetleri
+
+22
+00:02:17,364 --> 00:02:18,476
+değiştiriyorum.
+
+23
+00:02:19,126 --> 00:02:24,941
+Birinci deneme: iki taraf da 3 N. Araba
+duruyor.
+
+24
+00:02:25,391 --> 00:02:33,368
+İkinci deneme: sol 2 N, sağ 5 N. Araba
+sağa doğru harekete geçti!
+
+25
+00:02:33,818 --> 00:02:41,254
+Üçüncü deneme: sol 4 N, sağ 1 N. Bu kez
+sola gitti.
+
+26
+00:02:41,904 --> 00:02:47,178
+Veriler hipotezimi destekliyor. Diğer
+grupların verileri de öyle.
+
+27
+00:02:47,928 --> 00:02:54,413
+Hareket eden bir cisimde kuvvetler
+dengelenirse, cisim sabit süratle yoluna
+
+28
+00:02:54,413 --> 00:02:55,364
+devam eder.
+
+29
+00:02:56,114 --> 00:02:59,226
+Öğrendiklerimi gözlem defterime
+kaydediyorum.
+
+30
+00:03:07,114 --> 00:03:13,376
+Sıra sende! Günlük yaşamdan dengelenmiş ve
+dengelenmemiş kuvvet örnekleriyle bir
+
+31
+00:03:13,376 --> 00:03:14,550
+poster hazırla.
+
+32
+00:03:15,300 --> 00:03:20,574
+Sıradaki gözlemim: Sürat ve hız aynı şey
+mi?
+

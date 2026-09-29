@@ -1,0 +1,142 @@
+1
+00:00:05,550 --> 00:00:11,615
+Merhaba! Devremde bilerek bir boşluk
+bıraktım. Bu boşluğa farklı maddeler
+
+2
+00:00:11,615 --> 00:00:12,446
+koyacağım.
+
+3
+00:00:13,096 --> 00:00:17,830
+Sence hangi maddeler elektriği iletir,
+hangileri iletmez?
+
+4
+00:00:18,880 --> 00:00:25,776
+Önce güvenlik! Yalnızca pil kullanırım.
+Prize ve şehir elektriğine asla dokunmam.
+
+5
+00:00:26,426 --> 00:00:32,313
+Pilin iki ucunu tek kabloyla birleştirmem.
+Kablolar ısınabilir. Bir yetişkin
+
+6
+00:00:32,313 --> 00:00:33,862
+eşliğinde çalışırım.
+
+7
+00:00:35,112 --> 00:00:42,198
+Düzeneğimi tasarlıyorum: pil, ampul ve
+kablolar. İki kablo ucunun arasında boşluk
+
+8
+00:00:42,198 --> 00:00:42,548
+var.
+
+9
+00:00:43,198 --> 00:00:49,013
+Şemamda boşluk açıkça görünüyor. Devre
+tamamlanmadığı için ampul yanmıyor.
+
+10
+00:00:49,663 --> 00:00:56,018
+Boşluğa koyduğum madde elektriği iletirse
+devre tamamlanır ve ampul yanar.
+
+11
+00:00:57,163 --> 00:01:03,518
+Grubumuzda görevleri paylaştık: biri test
+eder, biri gözler, biri kaydeder.
+
+12
+00:01:04,568 --> 00:01:12,004
+Demir çivi... ampul yandı! Alüminyum
+folyo... yandı! Bakır tel... o da yandı!
+
+13
+00:01:15,068 --> 00:01:21,804
+Plastik cetvel... yanmadı. Tahta çubuk...
+yanmadı. Cam çubuk ve silgi... yine
+
+14
+00:01:21,804 --> 00:01:22,504
+yanmadı.
+
+15
+00:01:27,068 --> 00:01:34,504
+Her maddeyi aynı pil, aynı ampul ve aynı
+kablolarla, sırayla test ettim.
+
+16
+00:01:35,554 --> 00:01:40,828
+Sonuçları tabloma kaydediyorum: Ampul
+yandı mı, yanmadı mı?
+
+17
+00:01:43,554 --> 00:01:49,369
+Elektriği ileten maddelere iletken madde
+denir. Metaller iyi iletkendir.
+
+18
+00:01:50,219 --> 00:01:57,223
+Elektriği iletmeyen maddelere yalıtkan
+madde denir: plastik, tahta, cam ve lastik
+
+19
+00:01:57,223 --> 00:01:57,655
+gibi.
+
+20
+00:01:58,505 --> 00:02:06,482
+Bir sürpriz: Kurşun kalemin ucu metal
+değildir ama ampulü sönük de olsa yaktı.
+
+21
+00:02:07,332 --> 00:02:12,606
+Kalem ucu grafitten yapılır. Grafit de
+elektriği iletir.
+
+22
+00:02:13,656 --> 00:02:18,833
+Verilerimi inceledim: Ampulü yakan
+maddeler iletken, yakmayanlar yalıtkan
+
+23
+00:02:18,833 --> 00:02:19,471
+grubunda.
+
+24
+00:02:20,721 --> 00:02:27,086
+Kabloların içi bakırdır, dışı plastikle
+kaplıdır. Prizlerin ve anahtarların dış
+
+25
+00:02:27,086 --> 00:02:28,698
+kısmı da plastiktir.
+
+26
+00:02:29,548 --> 00:02:36,444
+Elektrik işçileri de yalıtkan eldiven, bot
+ve plastik saplı aletlerle çalışır.
+
+27
+00:02:37,294 --> 00:02:43,649
+Güvenilir bir sanal deney sitesinde de
+denedim. Sonuçlar aynı çıktı!
+
+28
+00:02:44,899 --> 00:02:51,627
+Sıra sende! Grubunla maddeleri test et.
+İletken ve yalıtkan maddeler posteri
+
+29
+00:02:51,627 --> 00:02:52,335
+hazırla.
+
+30
+00:02:53,899 --> 00:03:00,254
+Sıradaki gözlemim: Aynı pil ve ampulle,
+teller parlaklığı değiştirir mi?
+

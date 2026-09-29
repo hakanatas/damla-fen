@@ -1,0 +1,147 @@
+1
+00:00:05,550 --> 00:00:10,921
+Merhaba, ben Damla! Dizimdeki sıyrık
+birkaç günde kapandı. Yaranın yerini
+
+2
+00:00:10,921 --> 00:00:13,643
+dolduran yeni hücreler nereden geldi?
+
+3
+00:00:14,293 --> 00:00:19,053
+Beyin fırtınası: büyümek, iyileşmek,
+üremek... Hepsinde hücreler bölünür.
+
+4
+00:00:21,293 --> 00:00:26,053
+Hücre bölünmesinin iki çeşidini
+karşılaştıracağız: mitoz ve mayoz.
+
+5
+00:00:26,903 --> 00:00:32,563
+İnsanın vücut hücrelerinde 46 kromozom
+bulunur. Modelimde sadece 4 kromozom
+
+6
+00:00:32,563 --> 00:00:33,091
+çizdim.
+
+7
+00:00:33,903 --> 00:00:39,139
+Kromozomlar çiftler hâlindedir: çiftin
+biri anneden, diğeri babadan gelir.
+
+8
+00:00:39,789 --> 00:00:46,413
+Her iki bölünmeden önce de DNA kendini
+eşler. Kromozomlar ikişer kopyalı hâle
+
+9
+00:00:46,413 --> 00:00:46,929
+gelir.
+
+10
+00:00:47,779 --> 00:00:53,373
+Mitoz bölünmede kopyalar eşit
+paylaştırılır ve bir hücreden iki yeni
+
+11
+00:00:53,373 --> 00:00:54,443
+hücre oluşur.
+
+12
+00:00:55,779 --> 00:01:01,373
+Yeni hücrelerin kromozom sayısı ana
+hücreyle aynıdır: 46’dan 46’ya. Kalıtsal
+
+13
+00:01:01,373 --> 00:01:02,919
+bilgileri de aynıdır.
+
+14
+00:01:03,569 --> 00:01:08,240
+Mitoz vücut hücrelerinde olur. Büyümeyi,
+yaraların onarılmasını ve yıpranan
+
+15
+00:01:08,240 --> 00:01:10,233
+hücrelerin yenilenmesini sağlar.
+
+16
+00:01:10,883 --> 00:01:16,595
+Amip gibi bir hücreli canlılarda ise
+mitoz, eşeysiz üremeyi sağlar.
+
+17
+00:01:17,545 --> 00:01:22,666
+Mayoz bölünme ise üreme organlarındaki
+üreme ana hücrelerinde olur. Üreme
+
+18
+00:01:22,666 --> 00:01:24,209
+hücrelerini oluşturur.
+
+19
+00:01:24,759 --> 00:01:30,947
+Mayoz iki aşamada gerçekleşir. Sonunda bir
+hücreden dört yeni hücre oluşur.
+
+20
+00:01:33,759 --> 00:01:40,796
+Kromozom sayısı yarıya iner: 46 kromozomlu
+hücreden 23 kromozomlu sperm ya da yumurta
+
+21
+00:01:40,796 --> 00:01:41,376
+oluşur.
+
+22
+00:01:42,026 --> 00:01:46,464
+Oluşan üreme hücrelerinin kalıtsal
+bilgileri birbirinden farklıdır. Bu,
+
+23
+00:01:46,464 --> 00:01:48,214
+kalıtsal çeşitliliği sağlar.
+
+24
+00:01:48,864 --> 00:01:55,278
+Döllenmede 23 ve 23 birleşir; zigot yine
+46 kromozomludur. Böylece sayı nesilden
+
+25
+00:01:55,278 --> 00:01:56,481
+nesile korunur.
+
+26
+00:01:57,431 --> 00:02:03,285
+Şimdi karşılaştırma tablosu yapalım. Önce
+benzerlikler: ikisi de hücre bölünmesidir
+
+27
+00:02:03,285 --> 00:02:05,048
+ve öncesinde DNA eşlenir.
+
+28
+00:02:05,698 --> 00:02:11,918
+Sonra farklılıklar: nerede olduğu, amacı,
+aşama sayısı, yeni hücre sayısı, kromozom
+
+29
+00:02:11,918 --> 00:02:13,791
+sayısı ve kalıtsal bilgi.
+
+30
+00:02:20,698 --> 00:02:26,580
+Sıra sende! Grubunla bir mitoz–mayoz
+karşılaştırma posteri hazırla ve sınıfta
+
+31
+00:02:26,580 --> 00:02:26,886
+sun.
+
+32
+00:02:29,198 --> 00:02:35,386
+Sıradaki gözlemim: Aslı ne ise nesli odur.
+Mendel’in bezelyeleri ve kalıtım!
+

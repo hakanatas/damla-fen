@@ -1,0 +1,153 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link rel="stylesheet" href="../../lib/fonts.css">
+<style>html,body{margin:0;background:#222}canvas{display:block}</style></head>
+<body><canvas id="c"></canvas>
+<script src="../../lib/ink.js"></script><script src="../../lib/damla.js"></script>
+<script>
+const MODE = new URLSearchParams(location.search).get('m') || 'sheet';
+const cv = document.getElementById('c'), ctx = cv.getContext('2d');
+const { PAL, paper, label, leader, line, wash, circlePts, stroke, inkDot, dashed, splash, arrowHead, rng, hatch } = INK;
+const D = DAMLA;
+
+function section(x, y, txt, sub) {
+  label(ctx, txt, x, y, { font: 'Fraunces', weight: 600, size: 30, rot: 0 });
+  if (sub) label(ctx, sub, x, y + 30, { size: 21, alpha: 0.6, rot: 0 });
+  line(ctx, [x, y + 10 + (sub ? 30 : 0)], [x + 260, y + 8 + (sub ? 30 : 0)], { w: 1.4, dry: false, alpha: 0.5 });
+}
+
+// ------- style frame: Ünite 1 "Gökyüzündeki Komşularımız ve Biz" -------
+function styleFrame(x0, y0, w, h, sc) {
+  ctx.save(); ctx.translate(x0, y0); ctx.scale(sc, sc);
+  const W = 1920, Hh = 1080;
+  ctx.save(); ctx.beginPath(); ctx.rect(0, 0, W, Hh); ctx.clip();
+  if (x0 !== 0) { ctx.fillStyle = PAL.paper; ctx.fillRect(0, 0, W, Hh); }
+  // notebook margin grid (bottom-left corner)
+  ctx.save(); ctx.globalAlpha = 0.12; ctx.strokeStyle = PAL.water; ctx.lineWidth = 1;
+  for (let i = 0; i < 14; i++) { ctx.beginPath(); ctx.moveTo(40 + i * 28, 760); ctx.lineTo(40 + i * 28, 1040); ctx.stroke(); }
+  for (let j = 0; j < 11; j++) { ctx.beginPath(); ctx.moveTo(40, 760 + j * 28); ctx.lineTo(404, 760 + j * 28); ctx.stroke(); }
+  ctx.restore();
+  // SUN
+  const S = [360, 300];
+  wash(ctx, circlePts(S[0], S[1], 150, 150, 80), PAL.light, 0.55, 901, { bleed: 6, blooms: 3 });
+  wash(ctx, circlePts(S[0], S[1], 205, 205, 80), PAL.light, 0.14, 902, { bleed: 10, blooms: 2 });
+  stroke(ctx, INK.wobble(circlePts(S[0], S[1], 150, 150, 90), 2, 903), { w: 4.5, closed: true, seed: 904 });
+  const R = rng(905);
+  for (let i = 0; i < 26; i++) { const a = i / 26 * 6.283 + R() * 0.1, r1 = 172 + R() * 10, r2 = r1 + 28 + R() * 34; line(ctx, [S[0] + Math.cos(a) * r1, S[1] + Math.sin(a) * r1], [S[0] + Math.cos(a) * r2, S[1] + Math.sin(a) * r2], { w: 3.4, seed: 910 + i, bend: 0.06 }); }
+  // granules / convection cells on sun
+  ctx.save(); ctx.globalAlpha = 0.28; for (let i = 0; i < 22; i++) { const a = R() * 6.28, d = R() * 120; stroke(ctx, circlePts(S[0] + Math.cos(a) * d, S[1] + Math.sin(a) * d, 8 + R() * 10, 6 + R() * 8, 14), { w: 1.2, closed: true, dry: false, seed: 930 + i, color: '#8A5A12' }); } ctx.restore();
+  // MOON (lit side faces the Sun = left)
+  const M = [1420, 250], mr = 78;
+  ctx.save(); ctx.fillStyle = 'rgba(28,27,34,0.10)'; ctx.beginPath(); ctx.arc(M[0], M[1], mr, 0, 7); ctx.fill(); ctx.restore();
+  // lit half (left), in pale wash
+  const lit = []; for (let i = 0; i <= 40; i++) { const a = Math.PI / 2 + i / 40 * Math.PI; lit.push([M[0] + Math.cos(a) * mr, M[1] + Math.sin(a) * mr]); }
+  for (let i = 0; i <= 40; i++) { const a = -Math.PI / 2 + i / 40 * Math.PI; lit.push([M[0] - Math.cos(a) * mr * 0.25, M[1] + Math.sin(a) * mr]); }
+  ctx.save(); ctx.fillStyle = PAL.white; ctx.beginPath(); lit.forEach((q, i) => i ? ctx.lineTo(...q) : ctx.moveTo(...q)); ctx.fill(); ctx.restore();
+  wash(ctx, lit, PAL.light, 0.18, 950, { bleed: 2, blooms: 1 });
+  // dark side hatch
+  ctx.save(); ctx.beginPath(); ctx.arc(M[0], M[1], mr, 0, 7); ctx.clip(); hatch(ctx, M[0] - 10, M[1] - 70, 90, 170, { n: 16, seed: 951, alpha: 0.35, w: 1.2, ang: -1.1 }); ctx.restore();
+  stroke(ctx, INK.wobble(circlePts(M[0], M[1], mr, mr, 70), 1.2, 952), { w: 3.6, closed: true, seed: 953 });
+  [[-40, -20, 11], [-22, 26, 8], [-52, 18, 6], [-10, -44, 7]].forEach(([dx, dy, r], i) => stroke(ctx, circlePts(M[0] + dx, M[1] + dy, r, r * 0.8, 18), { w: 1.4, closed: true, alpha: 0.6, dry: false, seed: 960 + i }));
+  // Light path: Sun -> Moon -> Damla's eye (amber, = light/energy)
+  const eye = [1454, 670];
+  const p1 = line(ctx, [S[0] + 215, S[1] - 10], [M[0] - mr - 12, M[1] + 4], { w: 0, dry: false });
+  ctx.save(); dashed(ctx, p1, { w: 3, on: 22, off: 12, color: '#C07F1E' }); ctx.restore();
+  arrowHead(ctx, p1[20], p1[24], 16, { color: '#C07F1E', w: 2.6 });
+  const p2 = line(ctx, [M[0] - mr * 0.75, M[1] + mr * 0.7], [eye[0] - 4, eye[1] - 70], { w: 0, dry: false, bend: 0.05 });
+  ctx.save(); dashed(ctx, p2, { w: 3, on: 22, off: 12, color: '#C07F1E' }); ctx.restore();
+  arrowHead(ctx, p2[20], p2[24], 16, { color: '#C07F1E', w: 2.6 });
+  // horizon hills
+  const hill = []; for (let i = 0; i <= 120; i++) { const x = i / 120 * W; hill.push([x, 900 - Math.sin(i / 120 * 3.1 + 0.4) * 60 - Math.sin(i / 120 * 11) * 12 - (x > 1200 && x < 1650 ? Math.sin((x - 1200) / 450 * Math.PI) * 55 : 0)]); }
+  const hf = hill.concat([[W, Hh], [0, Hh]]);
+  wash(ctx, hf, PAL.life, 0.22, 970, { bleed: 3, blooms: 3 });
+  stroke(ctx, hill, { w: 4, seed: 971, taper: 0.05 });
+  // grass ticks
+  for (let i = 0; i < 70; i++) { const p = hill[(i * 7 + 3) % 120]; line(ctx, [p[0], p[1] + 4], [p[0] + 3 - (i % 3) * 2, p[1] - 12 - (i % 4) * 3], { w: 1.6, alpha: 0.6, dry: false, seed: 980 + i }); }
+  // small tree (living things = green)
+  const T = [260, 848]; line(ctx, T, [T[0] + 6, T[1] - 120], { w: 7, seed: 990, taper: 0.1 });
+  const crown = INK.wobble(circlePts(T[0] + 6, T[1] - 160, 70, 58, 50), 6, 991);
+  wash(ctx, crown, PAL.life, 0.45, 992, { bleed: 3 }); stroke(ctx, crown, { w: 3, closed: true, seed: 993 });
+  // Damla on the hill, pointing up at the Moon
+  const r = D.draw(ctx, { x: 1440, y: 868, s: 1.75, view: 'q3', expr: 'curious', look: [0.2, -0.85], arms: [[-1, 0.5], [1, 2.55, 0.4]], feet: [[-4, 0], [6, 0]], seed: 3, t: 1.2, lean: 0.04 });
+  // labels
+  label(ctx, 'Güneş', 600, 560, { size: 46, weight: 700 });
+  label(ctx, 'ışık kaynağı', 604, 600, { size: 30, alpha: 0.7 });
+  leader(ctx, [592, 548], [470, 420], { seed: 994, bend: -0.2 });
+  label(ctx, 'Ay', 1560, 420, { size: 46, weight: 700 });
+  label(ctx, 'ışığı yansıtır', 1560, 458, { size: 30, alpha: 0.7 });
+  leader(ctx, [1552, 404], [1480, 300], { seed: 995, bend: 0.2 });
+  // caption strip
+  label(ctx, 'Ay kendi ışığını üretmez;', 960, 1010, { size: 44, align: 'center', weight: 700, rot: -0.01 });
+  label(ctx, 'Güneş’ten gelen ışığı yansıtır.', 960, 1056, { size: 36, align: 'center', alpha: 0.8, rot: -0.01 });
+  // notebook stamp
+  ctx.save(); ctx.translate(1700, 80); ctx.rotate(0.05); ctx.strokeStyle = 'rgba(28,27,34,0.6)'; ctx.lineWidth = 2; ctx.strokeRect(-10, -36, 190, 86);
+  label(ctx, 'Gözlem No. 1', 0, 0, { size: 28, weight: 700, rot: 0 }); label(ctx, '5. sınıf · Ünite 1', 0, 34, { size: 22, alpha: 0.65, rot: 0 }); ctx.restore();
+  ctx.restore();
+  if (x0 !== 0) { ctx.strokeStyle = PAL.ink; ctx.lineWidth = 3 / sc; ctx.strokeRect(0, 0, W, Hh); }
+  ctx.restore();
+}
+
+function sheet() {
+  const w = 2400, h = 1600; cv.width = w; cv.height = h;
+  paper(ctx, w, h, 7);
+  // Title
+  label(ctx, 'Damla', 70, 130, { font: 'Fraunces', weight: 600, size: 112, rot: 0 });
+  label(ctx, 'meraklı bir su damlası · küçük bilim insanı', 76, 180, { size: 30, alpha: 0.75, rot: 0 });
+  label(ctx, 'Fen Bilimleri animasyon serisi — karakter & stil kartı (taslak 1)', 76, 216, { size: 22, alpha: 0.5, rot: 0 });
+  splash(ctx, 400, 70, 16, 3, { alpha: 0.6 });
+
+  // HERO
+  const hero = D.draw(ctx, { x: 390, y: 900, s: 2.55, view: 'front', expr: 'curious', look: [0.55, -0.1], arms: [[-1, 0.45], [1, 2.1, 0.6]], prop: 'lens', propTilt: -0.4, seed: 1, t: 0.4 });
+  // callouts
+  label(ctx, 'gözlem gözlüğü', 560, 330, { size: 26 }); leader(ctx, [556, 322], [445, 452], { seed: 21 });
+  label(ctx, 'büyüteç = merak', 610, 610, { size: 26 }); leader(ctx, [690, 585], [700, 520], { seed: 22, bend: -0.3 });
+  label(ctx, 'tanecikler', 580, 760, { size: 26 }); label(ctx, '(madde taneciklidir)', 580, 790, { size: 21, alpha: 0.6 });
+  leader(ctx, [574, 752], [430, 700], { seed: 23 });
+  label(ctx, 'saydam gövde:', 40, 540, { size: 26 }); label(ctx, 'içi hep görünür', 40, 570, { size: 21, alpha: 0.6 });
+  leader(ctx, [150, 580], [240, 650], { seed: 24, bend: 0.2 });
+  label(ctx, 'kaş + göz kapağı', 40, 790, { size: 26 }); label(ctx, '= duygu', 40, 820, { size: 21, alpha: 0.6 }); leader(ctx, [150, 770], [300, 505], { seed: 25, bend: -0.25 });
+  // height mark
+
+  // PALETTE
+  const px = 70, py = 1010; section(px, py, 'Renk kodu', 'her renk bir anlam taşır');
+  const sw = [[PAL.ink, 'mürekkep', 'çizgi · karakter'], [PAL.water, 'su mavisi', 'su · madde'], [PAL.light, 'kehribar', 'ışık · enerji'], [PAL.life, 'yosun', 'canlılar']];
+  sw.forEach(([c, n, m], i) => { const x = px + (i % 2) * 330, y = py + 90 + Math.floor(i / 2) * 120; wash(ctx, INK.wobble(circlePts(x + 42, y + 30, 40, 34, 40), 3, 100 + i), c, c === PAL.ink ? 0.9 : 0.7, 110 + i); label(ctx, n, x + 100, y + 26, { size: 28, weight: 700 }); label(ctx, m, x + 100, y + 56, { size: 22, alpha: 0.65 }); });
+  label(ctx, 'Yazı: el yazısı etiketler · her konu tek sahnede tek fikir', px, py + 360, { size: 21, alpha: 0.55, rot: 0 });
+
+  // TURNAROUND
+  section(860, 90, 'Dönüş (turnaround)', 'önden · ¾ · yandan · arkadan');
+  ctx.save(); ctx.globalAlpha = 0.25; [540, 540 - 110 * 1.55, 540 - 220 * 1.55].forEach(y => { ctx.setLineDash([6, 8]); ctx.strokeStyle = PAL.ink; ctx.beginPath(); ctx.moveTo(860, y); ctx.lineTo(2340, y); ctx.stroke(); }); ctx.restore();
+  ['front', 'q3', 'side', 'back'].forEach((v, i) => D.draw(ctx, { x: 1010 + i * 360, y: 540, s: 1.55, view: v, expr: 'neutral', look: [0, 0], seed: 2, t: i, arms: v === 'side' ? [[1, 0.15]] : [[-1, 0.3], [1, 0.3]], armsBack: v === 'side' ? [[1, -0.25]] : null }));
+
+  // EXPRESSIONS
+  section(860, 620, 'İfadeler', 'merak → şaşkınlık → düşünme → keşif');
+  const ex = [['curious', 'merak', [0.5, -0.5]], ['surprised', 'şaşkın', [0, 0]], ['thinking', 'düşünceli', [-0.6, -0.7]], ['happy', 'keşif! (aha)', [0, 0]], ['determined', 'kararlı', [0.3, 0]], ['sad', 'yanıldım…', [-0.2, 0.6]]];
+  ex.forEach(([e, n, lk], i) => {
+    const x = 950 + i * 238, y = 1000;
+    D.draw(ctx, { x, y, s: 1.05, view: 'front', expr: e, look: lk, seed: 4 + i, t: i * 0.7, squash: e === 'sad' ? 0.9 : e === 'surprised' ? 1.08 : 1, arms: e === 'thinking' ? [[-1, 0.3], [1, 2.75, 1.8]] : e === 'happy' ? [[-1, 2.6], [1, 2.6]] : e === 'surprised' ? [[-1, 1.5], [1, 1.5]] : [[-1, 0.3], [1, 0.3]] });
+    label(ctx, n, x, y + 42, { size: 25, align: 'center', weight: 700 });
+  });
+  // amber spark only in the "aha" moment
+  const ax = 950 + 3 * 238; wash(ctx, circlePts(ax, 745, 14, 14, 24), PAL.light, 0.8, 222); for (let i = 0; i < 8; i++) { const a = i / 8 * 6.28; line(ctx, [ax + Math.cos(a) * 20, 745 + Math.sin(a) * 20], [ax + Math.cos(a) * 30, 745 + Math.sin(a) * 30], { w: 2, color: '#B7791C', dry: false }); }
+
+  // STATES OF MATTER
+  section(860, 1110, 'Maddenin halleri', 'Damla konuya göre dönüşebilir');
+  [['ice', 'katı · buz', 'tanecikler düzenli, titreşir'], ['liquid', 'sıvı · su', 'tanecikler kayar'], ['vapor', 'gaz · buhar', 'tanecikler dağılır']].forEach(([s, n, m], i) => {
+    const x = 960 + i * 190, y = 1500;
+    D.draw(ctx, { x, y, s: 0.95, view: 'front', state: s, expr: s === 'ice' ? 'surprised' : s === 'vapor' ? 'sleepy' : 'happy', look: [0, 0], seed: 9, t: 2, arms: [[-1, 0.4], [1, 0.4]] });
+    label(ctx, n, x, y + 40, { size: 24, align: 'center', weight: 700 }); label(ctx, m, x, y + 68, { size: 17, align: 'center', alpha: 0.6 });
+    if (i < 2) { const a = line(ctx, [x + 60, y - 120], [x + 128, y - 120], { w: 2, bend: -0.25, dry: false }); arrowHead(ctx, a[20], a[24], 10); }
+  });
+
+  // STYLE FRAME
+  section(1570, 1110, 'Stil karesi', 'Ünite 1 · Gökyüzündeki Komşularımız ve Biz');
+  styleFrame(1570, 1163, 770, 433, 770 / 1920);
+}
+
+function frame() {
+  cv.width = 1920; cv.height = 1080; paper(ctx, 1920, 1080, 12); styleFrame(0, 0, 1920, 1080, 1);
+}
+document.fonts.load('30px Kalam').then(() => document.fonts.load('700 30px Kalam')).then(() => document.fonts.load('600 30px Fraunces')).then(() => {
+  MODE === 'frame' ? frame() : sheet();
+  window.__done = true;
+});
+</script></body></html>

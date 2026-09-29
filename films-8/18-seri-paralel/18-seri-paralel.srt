@@ -1,0 +1,164 @@
+1
+00:00:05,550 --> 00:00:11,262
+Dün akşam avizedeki ampullerden biri
+patladı. Ama diğerleri aynı parlaklıkta
+
+2
+00:00:11,262 --> 00:00:12,690
+yanmaya devam etti!
+
+3
+00:00:13,140 --> 00:00:19,328
+Oysa eski bir süs ışığında tek ampul
+bozulunca bütün ampuller sönmüştü.
+
+4
+00:00:19,778 --> 00:00:24,538
+Merak ediyorum: Ampullerin bağlanma şekli
+parlaklıklarını nasıl etkiler?
+
+5
+00:00:25,388 --> 00:00:30,624
+Önce kitaplardaki ve dijital kaynaklardaki
+devre görsellerini dikkatle inceledim.
+
+6
+00:00:31,074 --> 00:00:36,975
+Bazı devrelerde ampuller art arda
+dizilmiş. Akımın izleyebileceği tek bir
+
+7
+00:00:36,975 --> 00:00:39,643
+yol var. Buna seri bağlama denir.
+
+8
+00:00:40,293 --> 00:00:46,108
+Bazılarında ise her ampul ayrı bir
+koldadır. Akım kollara ayrılır. Buna
+
+9
+00:00:46,108 --> 00:00:47,910
+paralel bağlama denir.
+
+10
+00:00:48,560 --> 00:00:54,272
+Çıkarımım: Ampuller devreye iki şekilde
+bağlanabilir, seri ya da paralel.
+
+11
+00:00:55,122 --> 00:01:00,191
+Deneyden önce güvenlik! Yalnızca pil
+kullanırım, kısa devre yapmam, bir
+
+12
+00:01:00,191 --> 00:01:02,262
+yetişkin eşliğinde çalışırım.
+
+13
+00:01:04,122 --> 00:01:09,358
+Deneyimi tasarlıyorum. Bağımsız değişken:
+ampullerin bağlanma şekli ve sayısı.
+
+14
+00:01:09,808 --> 00:01:15,981
+Bağımlı değişken: ampullerin parlaklığı.
+Pil sayısı, kablolar ve özdeş ampuller hep
+
+15
+00:01:15,981 --> 00:01:16,948
+aynı kalacak.
+
+16
+00:01:17,798 --> 00:01:23,445
+Karşılaştırma için önce tek ampullü
+devreyi kurdum. Bu, parlaklık ölçütüm
+
+17
+00:01:23,445 --> 00:01:23,986
+olacak.
+
+18
+00:01:24,836 --> 00:01:31,976
+Şimdi iki özdeş ampulü seri bağladım.
+İkisi de tek ampulden daha sönük yanıyor.
+
+19
+00:01:32,426 --> 00:01:37,662
+Üç ampul seri bağlanınca her biri daha da
+sönükleşti.
+
+20
+00:01:38,426 --> 00:01:43,186
+Ampullerden birini duyundan söktüm. Yol
+kesildi, hepsi söndü!
+
+21
+00:01:45,426 --> 00:01:52,090
+Aynı pillerle iki ampulü paralel bağladım.
+Her biri tek ampul kadar parlak!
+
+22
+00:01:52,540 --> 00:01:56,823
+Üç ampulü paralel bağlayınca da parlaklık
+değişmedi.
+
+23
+00:01:58,540 --> 00:02:03,300
+Birini söktüm. Diğerleri kendi kollarında
+yanmaya devam ediyor!
+
+24
+00:02:05,540 --> 00:02:10,300
+Gözlemlerimi tabloya kaydettim. Şimdi
+verileri karşılaştırarak analiz edeyim.
+
+25
+00:02:13,540 --> 00:02:19,769
+Seri bağlamada ampul sayısı arttıkça her
+ampulün parlaklığı azalır. Biri sökülünce
+
+26
+00:02:19,769 --> 00:02:20,680
+hepsi söner.
+
+27
+00:02:21,130 --> 00:02:27,270
+Paralel bağlamada her ampul tek ampul
+kadar parlaktır. Biri sökülünce diğerleri
+
+28
+00:02:27,270 --> 00:02:28,747
+yanmaya devam eder.
+
+29
+00:02:29,197 --> 00:02:35,258
+Demek ki evimizdeki lambalar paralel
+bağlı! Avizedeki ampul bu yüzden tek
+
+30
+00:02:35,258 --> 00:02:36,337
+başına söndü.
+
+31
+00:02:36,987 --> 00:02:44,509
+Bir not daha: Paralel bağlı ampuller
+pilden daha çok akım çeker, pil daha çabuk
+
+32
+00:02:44,509 --> 00:02:45,080
+biter.
+
+33
+00:02:46,130 --> 00:02:51,485
+Sıra sende! Grubunla seri ve paralel
+devreler kur. Sonuçlarını raporla.
+
+34
+00:02:51,485 --> 00:02:53,747
+Deneyden sonra masanı temizle.
+
+35
+00:02:56,130 --> 00:03:01,366
+Sıradaki gözlemim: Kablolarda akan akımı
+ve pilin gerilimini ölçmek.
+

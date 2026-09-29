@@ -1,0 +1,140 @@
+1
+00:00:05,550 --> 00:00:10,606
+Merhaba! Karışımları hazırladık. Peki
+onları yeniden bileşenlerine ayırabilir
+
+2
+00:00:10,606 --> 00:00:11,000
+miyiz?
+
+3
+00:00:11,850 --> 00:00:17,300
+Önce beyin fırtınası: Karışımdaki maddeler
+hangi özellikleriyle birbirinden farklı?
+
+4
+00:00:17,950 --> 00:00:23,265
+Tanecik boyutu, çözünürlük, yoğunluk,
+erime ve kaynama noktası... Ayırırken bu
+
+5
+00:00:23,265 --> 00:00:24,900
+farklardan yararlanırız.
+
+6
+00:00:26,950 --> 00:00:32,489
+Eleme, süzme ve mıknatısla ayırmayı zaten
+biliyoruz. Bugün yeni yöntemler
+
+7
+00:00:32,489 --> 00:00:33,400
+deneyeceğim.
+
+8
+00:00:34,450 --> 00:00:40,207
+Grubumuz bir kart çekiyor: kum-su, tuz-su,
+zeytinyağı-su, etil alkol-su, kepek-un,
+
+9
+00:00:40,207 --> 00:00:41,400
+odun talaşı-su...
+
+10
+00:00:43,450 --> 00:00:47,900
+Tuz-su çıktı! Hipotezim: Süzersem tuzu
+sudan ayırabilirim.
+
+11
+00:00:48,750 --> 00:00:55,700
+Süzdüm. Süzgeç kâğıdında hiç tuz kalmadı.
+Tuz suda çözündüğü için kâğıttan geçti.
+
+12
+00:00:57,750 --> 00:01:02,700
+Hipotezim doğrulanmadı. O hâlde yeni bir
+yöntem denemeliyim.
+
+13
+00:01:03,750 --> 00:01:07,700
+Isıtma yapacağım. Önce güvenlik
+kurallarını hatırlayalım.
+
+14
+00:01:12,750 --> 00:01:18,700
+Buharlaştırma: Tuzlu suyu ısıtınca su
+buharlaşıp gider, tuz kapta kalır.
+
+15
+00:01:21,750 --> 00:01:29,156
+Ölçelim: Başta 10 gram tuz koymuştum.
+Kapta yaklaşık 10 gram tuz kaldı. Yöntem
+
+16
+00:01:29,156 --> 00:01:30,200
+işe yaradı!
+
+17
+00:01:31,250 --> 00:01:37,200
+Peki suyu da geri kazanmak istersem? O
+zaman damıtma yaparım.
+
+18
+00:01:37,850 --> 00:01:45,264
+Su buharı soğutucudan geçerken yoğuşur ve
+başka bir kapta toplanır. Tuz ise balonda
+
+19
+00:01:45,264 --> 00:01:45,800
+kalır.
+
+20
+00:01:46,850 --> 00:01:53,389
+Etil alkol-su karışımı da damıtılır:
+Kaynama noktası daha düşük olan alkol önce
+
+21
+00:01:53,389 --> 00:01:54,300
+buharlaşır.
+
+22
+00:01:55,350 --> 00:02:01,449
+Damıtmada kullanılan imbik ve deney
+tüpleri Cabir bin Hayyan’ın eseridir. İlk
+
+23
+00:02:01,449 --> 00:02:04,300
+kimya laboratuvarını da o kurmuştur.
+
+24
+00:02:05,550 --> 00:02:11,292
+Zeytinyağı-su için yoğunluk farkından
+yararlanırım. Su altta, yağ üstte kalır;
+
+25
+00:02:11,292 --> 00:02:13,500
+su ayırma hunisinden akıtılır.
+
+26
+00:02:14,550 --> 00:02:21,000
+Odun talaşı suyun üstünde yüzer; kaşıkla
+ya da süzerek kolayca toplanır.
+
+27
+00:02:22,050 --> 00:02:27,000
+Hangi karışımı, hangi özellik farkıyla
+ayırdığımı defterime kaydedeyim.
+
+28
+00:02:35,050 --> 00:02:40,907
+Sıra sende! Farklı büyüklükteki katı
+tanecikleri birbirinden ayıran bir düzenek
+
+29
+00:02:40,907 --> 00:02:41,500
+tasarla.
+
+30
+00:02:43,050 --> 00:02:47,500
+Sıradaki gözlemim: Balon neden saça
+yapışır? Elektriklenme!
+

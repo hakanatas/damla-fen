@@ -1,0 +1,134 @@
+1
+00:00:05,550 --> 00:00:13,559
+Güneş, Dünya ve Ay: gökyüzündeki üç komşu.
+Birbirlerine göre nasıl hareket ederler?
+
+2
+00:00:14,409 --> 00:00:21,241
+Peki hangisi ne kadar büyük? Bir model
+tasarlayıp göstermek istiyorum.
+
+3
+00:00:22,091 --> 00:00:30,100
+İlk modelim: üç top ve bir karton. Ama
+toplarım neredeyse aynı büyüklükte!
+
+4
+00:00:31,150 --> 00:00:36,806
+Gerçek büyüklükler böyle mi? Bilimsel
+kaynaklardan veri toplayayım.
+
+5
+00:00:37,656 --> 00:00:43,900
+Önce bir kavram: Maddenin boşlukta
+kapladığı yere hacim denir.
+
+6
+00:00:44,750 --> 00:00:55,112
+Birimi cm³, m³ gibidir. Bu küpün hacmi 1
+cm³. Kutuya 8 küp sığıyor: hacmi 8 cm³!
+
+7
+00:00:56,162 --> 00:01:01,230
+Güneş'in çapı, Dünya'nın çapının yaklaşık
+109 katıdır.
+
+8
+00:01:02,080 --> 00:01:07,736
+Ay'ın çapı ise Dünya'nın çapının yaklaşık
+dörtte biridir.
+
+9
+00:01:08,586 --> 00:01:15,941
+Hacimleri karşılaştıralım: Güneş'e
+yaklaşık 1 milyon 300 bin Dünya, Dünya'ya
+
+10
+00:01:15,941 --> 00:01:18,360
+ise yaklaşık 50 Ay sığar!
+
+11
+00:01:19,610 --> 00:01:27,619
+Modelimi yeniliyorum! Dünya bir nohut
+kadarsa, Ay bir susam tanesi kadar olur.
+
+12
+00:01:28,469 --> 00:01:34,713
+Güneş ise yaklaşık 1 metrelik kocaman bir
+top olur!
+
+13
+00:01:35,563 --> 00:01:44,541
+Uzaklıklar da çok büyük: Ay nohuttan 30
+cm, Güneş ise yaklaşık 117 metre uzakta
+
+14
+00:01:44,541 --> 00:01:45,337
+olmalı!
+
+15
+00:01:46,587 --> 00:01:53,215
+Kuzeyden bakalım: Dünya kendi ekseni
+etrafında 1 günde döner, Güneş'in
+
+16
+00:01:53,215 --> 00:01:55,772
+çevresinde 1 yılda dolanır.
+
+17
+00:01:56,822 --> 00:02:04,116
+Ay, Dünya'nın çevresinde yaklaşık 27,3
+günde dolanır. Dünya ile birlikte Güneş'in
+
+18
+00:02:04,116 --> 00:02:06,007
+çevresini de dolaşır.
+
+19
+00:02:07,057 --> 00:02:13,301
+Güneş de kendi ekseni etrafında yaklaşık
+25 günde döner.
+
+20
+00:02:14,151 --> 00:02:19,807
+Kuzeyden bakınca bu hareketlerin hepsi
+saat yönünün tersinedir.
+
+21
+00:02:20,857 --> 00:02:27,101
+Hadi bir eşleştirme oyunu oynayalım! Her
+hareketi süresiyle eşleştir.
+
+22
+00:02:31,857 --> 00:02:36,369
+Son modelim hazır! Arkadaşlarımın
+modelleriyle karşılaştırıp tarafsızca
+
+23
+00:02:36,369 --> 00:02:37,513
+değerlendireceğiz.
+
+24
+00:02:40,857 --> 00:02:47,101
+Model önerdim, verilerle yeniledim, test
+ettim. Tasarım böyle gelişir!
+
+25
+00:02:49,857 --> 00:02:57,049
+Sıra sende! Arkadaşlarınla bir Güneş,
+Dünya ve Ay modeli tasarla. Hareketleri,
+
+26
+00:02:57,049 --> 00:02:59,631
+yönleri ve hacimleri göster.
+
+27
+00:03:00,681 --> 00:03:07,513
+Sen de araştır: “Süper Ay” nedir? Ay
+gerçekten büyür mü?
+
+28
+00:03:08,363 --> 00:03:13,431
+Bu ünite bitti! Sıradaki ünitemiz: Kuvveti
+Tanıyalım.
+

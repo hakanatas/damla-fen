@@ -1,0 +1,197 @@
+1
+00:00:05,550 --> 00:00:11,262
+Merhaba! Bu küçük fidan bir gün kocaman
+bir ağaç olacak.
+
+2
+00:00:11,712 --> 00:00:16,948
+Peki bitkiler nasıl büyür? Bu kadar besin
+nereden geliyor?
+
+3
+00:00:17,398 --> 00:00:23,110
+Aklıma gelenler: topraktan mı, sudan mı,
+ışıktan mı, havadan mı?
+
+4
+00:00:23,898 --> 00:00:29,134
+Besin zincirinde bitkiler üreticidir;
+besinlerini kendileri üretir. Ama nasıl?
+
+5
+00:00:29,984 --> 00:00:33,315
+Hadi bir yaprağa yakından bakalım!
+
+6
+00:00:33,784 --> 00:00:38,521
+Yaprak hücrelerindeki kloroplastlarda
+klorofil var. Klorofil ışık enerjisini
+
+7
+00:00:38,521 --> 00:00:39,020
+yakalar.
+
+8
+00:00:39,470 --> 00:00:44,230
+Kökler topraktan suyu alır. Yapraklar
+havadan karbondioksit alır.
+
+9
+00:00:45,970 --> 00:00:52,158
+Işık enerjisiyle su ve karbondioksitten
+besin üretilir: glikoz adlı bir şeker.
+
+10
+00:00:52,608 --> 00:00:57,368
+Bu sırada oksijen de üretilir ve havaya
+verilir.
+
+11
+00:00:57,818 --> 00:01:03,530
+Bu olayın adı fotosentez: Bitkinin ışık
+enerjisini kullanarak besin üretmesi.
+
+12
+00:01:04,180 --> 00:01:09,925
+Fotosentez için Güneş şart değil.
+Seralardaki lambalar gibi yapay ışıkta da
+
+13
+00:01:09,925 --> 00:01:10,844
+gerçekleşir.
+
+14
+00:01:11,694 --> 00:01:17,209
+Neden-sonuç zincirini kuralım: Işık yoksa
+fotosentez olmaz, besin üretilmez, bitki
+
+15
+00:01:17,209 --> 00:01:17,882
+büyüyemez.
+
+16
+00:01:19,694 --> 00:01:24,930
+Bitkinin ürettiği besin, besin zinciriyle
+çekirgeye, kurbağaya, yılana ulaşır.
+
+17
+00:01:25,380 --> 00:01:29,837
+Havadaki oksijen de fotosentezle
+yenilenir. Fotosentez, doğanın dengesi
+
+18
+00:01:29,837 --> 00:01:31,092
+için vazgeçilmezdir.
+
+19
+00:01:31,742 --> 00:01:35,549
+Yeni sorum: Fotosentez hızı neye bağlı?
+
+20
+00:01:35,999 --> 00:01:42,187
+Olası faktörler: ışık şiddeti, ışık rengi,
+karbondioksit miktarı, sıcaklık ve su.
+
+21
+00:01:42,999 --> 00:01:47,969
+Hızı ölçmek için bir su bitkisinin
+çıkardığı oksijen kabarcıklarını
+
+22
+00:01:47,969 --> 00:01:48,711
+sayacağım.
+
+23
+00:01:49,161 --> 00:01:53,444
+Hipotezim: Işık şiddeti artarsa fotosentez
+hızı artar.
+
+24
+00:01:54,294 --> 00:02:00,482
+Dikkat! Lamba ve kablo suya değmemeli.
+Deneyi bir yetişkin eşliğinde yaparız.
+
+25
+00:02:01,132 --> 00:02:05,486
+Bağımsız değişken ışık şiddeti. Lambayı
+bitkiye yaklaştırıp uzaklaştırarak
+
+26
+00:02:05,486 --> 00:02:06,368
+değiştiriyorum.
+
+27
+00:02:06,818 --> 00:02:10,625
+Bağımlı değişken: bir dakikadaki kabarcık
+sayısı.
+
+28
+00:02:11,075 --> 00:02:17,263
+Kontrol edilen değişkenler: aynı bitki, su
+miktarı, sıcaklık, lamba ve süre.
+
+29
+00:02:17,913 --> 00:02:23,149
+Her uzaklıkta üç kez saydım ve ortalamayı
+tabloya kaydettim.
+
+30
+00:02:25,913 --> 00:02:30,673
+Lamba yaklaştıkça kabarcık sayısı arttı.
+Verilerim hipotezimi destekliyor!
+
+31
+00:02:31,123 --> 00:02:37,817
+Ama ışık çok artınca hız bir noktadan
+sonra artmıyor; başka faktörler sınır
+
+32
+00:02:37,817 --> 00:02:38,263
+olur.
+
+33
+00:02:38,913 --> 00:02:44,032
+Suya biraz karbonat ekledim. Suda
+karbondioksit arttı, kabarcıklar da
+
+34
+00:02:44,032 --> 00:02:44,625
+çoğaldı.
+
+35
+00:02:45,075 --> 00:02:51,263
+Çok soğukta ve çok sıcakta fotosentez
+yavaşlar. Su azalınca da yavaşlar.
+
+36
+00:02:51,713 --> 00:02:58,853
+Işık rengi de etkiler: Yeşil ışıkta,
+kırmızı ve mavi ışığa göre daha yavaştır.
+
+37
+00:02:59,303 --> 00:03:04,856
+Önermem: Işık şiddeti, ışık rengi,
+karbondioksit, sıcaklık ve su fotosentez
+
+38
+00:03:04,856 --> 00:03:05,967
+hızını etkiler.
+
+39
+00:03:07,303 --> 00:03:13,535
+Sıra sende! Bir faktör seç, düzeneğini
+kur, verilerini kaydet ve raporla. Afiş de
+
+40
+00:03:13,535 --> 00:03:14,920
+hazırlayabilirsin.
+
+41
+00:03:15,570 --> 00:03:20,301
+Bitkiler ürettikleri besini nasıl
+kullanıyor? Sıradaki gözlemim: canlılarda
+
+42
+00:03:20,301 --> 00:03:20,806
+solunum.
+

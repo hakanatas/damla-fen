@@ -1,0 +1,188 @@
+1
+00:00:05,550 --> 00:00:12,330
+Merhaba, ben Damla! Bugün 21 Aralık. Öğle
+vakti çubuğun gölgesi upuzun. Yazın ise
+
+2
+00:00:12,330 --> 00:00:13,167
+kısacıktı!
+
+3
+00:00:13,817 --> 00:00:20,005
+Mevsimler neden oluşur? Gölge neden uzayıp
+kısalır? Kışın günler neden kısalır?
+
+4
+00:00:21,317 --> 00:00:27,197
+Bir tahminim var: Yazın Güneş’e yakın,
+kışın uzak oluyoruz. Bunu kanıtlarla
+
+5
+00:00:27,197 --> 00:00:27,981
+sınayalım.
+
+6
+00:00:28,631 --> 00:00:35,438
+Yörüngemiz neredeyse bir çemberdir. Dünya,
+Güneş’e en çok ocak başında yaklaşır. Oysa
+
+7
+00:00:35,438 --> 00:00:37,200
+biz o sırada kıştayız!
+
+8
+00:00:38,050 --> 00:00:43,677
+Üstelik biz kıştayken Avustralya’da yaz
+yaşanır. Demek ki mevsimlerin nedeni
+
+9
+00:00:43,677 --> 00:00:44,714
+uzaklık değil!
+
+10
+00:00:46,050 --> 00:00:50,674
+Kaynaklardan araştırdım: Dünya,
+kutuplarından geçen hayali bir eksen
+
+11
+00:00:50,674 --> 00:00:51,762
+etrafında döner.
+
+12
+00:00:52,412 --> 00:00:56,219
+Yörüngesinin oluşturduğu düzleme dolanma
+düzlemi denir.
+
+13
+00:00:56,869 --> 00:01:02,599
+Dönme ekseni, dolanma düzlemine dik
+doğrultuyla yaklaşık 23,5 derecelik açı
+
+14
+00:01:02,599 --> 00:01:03,057
+yapar.
+
+15
+00:01:03,907 --> 00:01:09,493
+Ekvator, Dünya’yı iki yarım küreye ayırır.
+Ekvatorun 23,5 derece kuzeyinde ve
+
+16
+00:01:09,493 --> 00:01:11,524
+güneyinde dönenceler vardır.
+
+17
+00:01:12,574 --> 00:01:18,143
+Şimdi Dünya’yı Güneş’in etrafında
+dolandıralım. Eksen hep aynı yöne eğik
+
+18
+00:01:18,143 --> 00:01:18,762
+kalıyor.
+
+19
+00:01:19,412 --> 00:01:26,004
+21 Haziran: Kuzey Yarım Küre Güneş’e doğru
+eğik. Işınlar Yengeç Dönencesi’ne dik
+
+20
+00:01:26,004 --> 00:01:27,981
+düşer. Bizde yaz başlar.
+
+21
+00:01:28,831 --> 00:01:35,384
+21 Aralık: Güney Yarım Küre Güneş’e doğru
+eğik. Işınlar Oğlak Dönencesi’ne dik
+
+22
+00:01:35,384 --> 00:01:37,400
+düşer. Bizde kış başlar.
+
+23
+00:01:38,250 --> 00:01:45,742
+21 Mart ve 23 Eylül: Işınlar ekvatora dik
+düşer. Gece ve gündüz her yerde yaklaşık
+
+24
+00:01:45,742 --> 00:01:47,295
+eşittir: ekinoks!
+
+25
+00:01:48,145 --> 00:01:54,809
+Güney Yarım Küre’de mevsimler terstir: 21
+Haziran’da kış, 21 Aralık’ta yaz başlar.
+
+26
+00:01:55,859 --> 00:02:01,351
+Işınların düşme açısı sıcaklığı nasıl
+etkiler? Lamba ve termometrelerle bir
+
+27
+00:02:01,351 --> 00:02:02,523
+model kuruyorum.
+
+28
+00:02:03,173 --> 00:02:07,933
+Lamba ısınır, dokunmam; deneyi bir
+yetişkin eşliğinde yaparım.
+
+29
+00:02:08,583 --> 00:02:16,407
+Dik gelen ışık küçük bir alanı aydınlatır.
+Eğik gelen aynı ışık daha geniş bir alana
+
+30
+00:02:16,407 --> 00:02:17,152
+yayılır.
+
+31
+00:02:18,002 --> 00:02:25,142
+Bu yüzden dik ışık alan yüzey daha çok
+ısınır. Termometreler de bunu gösteriyor!
+
+32
+00:02:26,192 --> 00:02:32,045
+İstanbul için verileri kaydediyorum: öğle
+vakti ışınların düşme açısı, 1 metrelik
+
+33
+00:02:32,045 --> 00:02:34,285
+çubuğun gölgesi, gündüz süresi.
+
+34
+00:02:35,192 --> 00:02:41,744
+Yorumum: Işınlar dike yaklaştıkça gölge
+kısalır, gündüz uzar ve yüzey daha çok
+
+35
+00:02:41,744 --> 00:02:42,332
+ısınır.
+
+36
+00:02:43,182 --> 00:02:48,883
+Çıkarımım: Mevsimler, eksen eğikliği ve
+Dünya’nın Güneş etrafında dolanması sonucu
+
+37
+00:02:48,883 --> 00:02:49,370
+oluşur.
+
+38
+00:02:50,220 --> 00:02:53,075
+Bulduklarımı gözlem defterime
+kaydediyorum.
+
+39
+00:02:59,720 --> 00:03:07,630
+Sıra sende! Bir hafta boyunca aynı yerde,
+öğle vakti bir çubuğun gölge boyunu ölç ve
+
+40
+00:03:07,630 --> 00:03:08,289
+kaydet.
+
+41
+00:03:09,339 --> 00:03:15,051
+Sıradaki gözlemim: Bugün yağmur yağacak
+mı? Hava olayları ve iklim!
+

@@ -1,0 +1,185 @@
+1
+00:00:05,550 --> 00:00:10,500
+Ece kaydıraktan kaydı. Aşağı indiğinde
+saçları havaya dikildi!
+
+2
+00:00:11,150 --> 00:00:18,100
+Kazağımı çıkarırken de çıtırtı duyuyorum.
+Bu olayların arkasında aynı sebep mi var?
+
+3
+00:00:18,950 --> 00:00:24,950
+Önce bilgi toplayacağım. Ders kitabı,
+güvenilir dijital kaynaklar, bilim merkezi
+
+4
+00:00:24,950 --> 00:00:26,900
+ve öğretmenim işime yarar.
+
+5
+00:00:27,550 --> 00:00:33,000
+Bir sitede "Elektriklenme yalnızca kışın
+olur." yazıyor. Kaynak gösterilmemiş.
+
+6
+00:00:33,450 --> 00:00:39,010
+Güvenilir kaynaklarla karşılaştırdım:
+Elektriklenme her mevsim olur, kuru havada
+
+7
+00:00:39,010 --> 00:00:40,400
+daha kolay gözlenir.
+
+8
+00:00:41,250 --> 00:00:47,098
+Cisimler sürtünme, dokunma ya da etki ile
+elektrik yükü kazanabilir. Buna
+
+9
+00:00:47,098 --> 00:00:48,700
+elektriklenme denir.
+
+10
+00:00:49,550 --> 00:00:55,408
+Şimşek ve yıldırım, kapı kolunda çarpılma,
+fotokopi makinesi ve elektrostatik boyama
+
+11
+00:00:55,408 --> 00:00:57,500
+da elektriklenmeyle ilgilidir.
+
+12
+00:00:59,550 --> 00:01:03,218
+Şimdi elektriklenme çeşitlerini
+gözlemleyebileceğim bir deney
+
+13
+00:01:03,218 --> 00:01:04,000
+tasarlayalım.
+
+14
+00:01:04,650 --> 00:01:11,149
+Malzemeler: iki balon, yün kumaş, küçük
+kâğıt parçaları ve kavanozdan yaptığım bir
+
+15
+00:01:11,149 --> 00:01:12,100
+elektroskop.
+
+16
+00:01:12,750 --> 00:01:18,383
+Elektroskop, bir cismin yüklü olup
+olmadığını gösterir. Yüklenince ince folyo
+
+17
+00:01:18,383 --> 00:01:19,700
+yaprakları açılır.
+
+18
+00:01:20,550 --> 00:01:26,238
+Birinci deney: Balonu yün kumaşa
+sürtüyorum. Bu sırada bazı elektronlar
+
+19
+00:01:26,238 --> 00:01:28,000
+kumaştan balona geçer.
+
+20
+00:01:29,050 --> 00:01:34,500
+Balon da kumaş da yüklendi. Sürtünme ile
+elektriklenme temaslıdır.
+
+21
+00:01:35,350 --> 00:01:40,800
+İkinci deney: Yüklü balonu elektroskobun
+topuzuna dokunduruyorum. Yapraklar açıldı!
+
+22
+00:01:41,450 --> 00:01:47,885
+Balonu uzaklaştırsam da yapraklar açık
+kalıyor. Yükün bir kısmı dokunma ile
+
+23
+00:01:47,885 --> 00:01:48,400
+geçti.
+
+24
+00:01:49,250 --> 00:01:54,136
+Üçüncü deney: Yüklü balonu kâğıt
+parçalarına dokundurmadan yaklaştırıyorum.
+
+25
+00:01:54,136 --> 00:01:55,700
+Kâğıtlar balona sıçradı!
+
+26
+00:01:56,350 --> 00:02:00,581
+Balon, kâğıttaki yüklerin yerini
+dokunmadan değiştirdi. Etki ile
+
+27
+00:02:00,581 --> 00:02:02,300
+elektriklenme temassızdır.
+
+28
+00:02:02,950 --> 00:02:07,318
+Yüksüz elektroskoba yaklaştırınca
+yapraklar açılıyor, balonu uzaklaştırınca
+
+29
+00:02:07,318 --> 00:02:07,900
+kapanıyor.
+
+30
+00:02:08,750 --> 00:02:14,700
+Ölçme zamanı! Balonu kaç kez sürtersem kaç
+kâğıt parçası çeker?
+
+31
+00:02:15,350 --> 00:02:21,800
+Balon, kâğıt boyutu ve uzaklık hep aynı.
+Yalnızca sürtme sayısını değiştiriyorum.
+
+32
+00:02:22,450 --> 00:02:28,843
+Her ölçümü üç kez tekrarladım ve
+ortalamasını aldım. Sürtme sayısı arttıkça
+
+33
+00:02:28,843 --> 00:02:31,400
+çekilen kâğıt sayısı da arttı.
+
+34
+00:02:32,450 --> 00:02:38,219
+Dikkat! Bu deneyler balon, kumaş ve
+kâğıtla yapılır. Prizle ve elektrik
+
+35
+00:02:38,219 --> 00:02:40,900
+kablolarıyla asla deney yapılmaz.
+
+36
+00:02:41,550 --> 00:02:46,500
+Van de Graaff jeneratörüne yalnızca
+öğretmen gözetiminde dokunulur.
+
+37
+00:02:47,350 --> 00:02:51,800
+Kaynaklarımı, deneyimi ve verilerimi
+gözlem defterime kaydediyorum.
+
+38
+00:02:55,850 --> 00:03:01,260
+Sıra sende! Elektriklenmenin doğadaki ve
+teknolojideki örneklerini anlatan bir
+
+39
+00:03:01,260 --> 00:03:02,300
+poster hazırla.
+
+40
+00:03:03,150 --> 00:03:09,100
+Sıradaki gözlemim: Elektrik yükleri.
+Balonlar neden bazen iter, bazen çeker?
+

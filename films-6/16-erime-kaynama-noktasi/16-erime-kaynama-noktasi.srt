@@ -1,0 +1,140 @@
+1
+00:00:05,550 --> 00:00:12,986
+Merhaba! Buz 0 °C’de erir. Peki bütün
+katılar aynı sıcaklıkta mı erir?
+
+2
+00:00:13,836 --> 00:00:18,220
+Önce hatırlayalım: Bütün maddeler
+taneciklerden oluşur. Toplarla
+
+3
+00:00:18,220 --> 00:00:19,110
+modelleyelim.
+
+4
+00:00:19,760 --> 00:00:26,274
+Aynı cins taneciklerden oluşan maddeye saf
+madde denir. Farklı cins tanecikler
+
+5
+00:00:26,274 --> 00:00:28,278
+karışmışsa saf değildir.
+
+6
+00:00:29,128 --> 00:00:34,631
+İkisi de taneciklerden oluşur. Saf
+maddeleri hangi özellikleriyle ayırt
+
+7
+00:00:34,631 --> 00:00:35,483
+edebiliriz?
+
+8
+00:00:36,333 --> 00:00:43,229
+Bir deney tasarlayalım. Sorum: Suyun
+erime, donma ve kaynama noktası kaçtır?
+
+9
+00:00:43,879 --> 00:00:49,223
+Malzemeler: buz, beher, ısıtıcı,
+termometre ve kronometre. Her dakika
+
+10
+00:00:49,223 --> 00:00:51,856
+sıcaklığı ölçüp tabloya yazacağım.
+
+11
+00:00:52,879 --> 00:00:59,775
+Değiştirdiğim şey süre, ölçtüğüm şey
+sıcaklık. Isıtıcı hep aynı ayarda kalacak.
+
+12
+00:01:00,625 --> 00:01:07,035
+Isıtıcıyı yalnızca öğretmenim kullanır.
+Sıcak kap, kaynar su ve buhar yakar;
+
+13
+00:01:07,035 --> 00:01:09,143
+güvenli mesafede dururuz!
+
+14
+00:01:10,193 --> 00:01:17,161
+Buz ısınıyor... 0 °C’de erimeye başladı.
+Buz bitene kadar termometre 0 °C’yi
+
+15
+00:01:17,161 --> 00:01:18,170
+gösteriyor!
+
+16
+00:01:20,193 --> 00:01:26,008
+Buz bitti, su ısınıyor: 20, 40, 60, 80
+derece...
+
+17
+00:01:28,193 --> 00:01:34,548
+Yaklaşık 100 °C’de su kaynamaya başladı.
+Kaynarken sıcaklık sabit kalıyor!
+
+18
+00:01:37,193 --> 00:01:45,170
+Verilerimi sıcaklık-zaman grafiğine
+döktüm. İki düz bölge var: 0 °C ve 100 °C.
+
+19
+00:01:47,193 --> 00:01:53,548
+Düz bölgelerde madde hâl değiştiriyor. Isı
+alıyor ama sıcaklığı değişmiyor.
+
+20
+00:01:54,598 --> 00:02:02,034
+Şimdi suyu soğutalım. Su 0 °C’de donmaya
+başladı. Donarken de sıcaklık sabit!
+
+21
+00:02:03,598 --> 00:02:09,953
+Aynı saf maddenin erime noktası ile donma
+noktası birbirine eşittir.
+
+22
+00:02:11,003 --> 00:02:18,439
+Laurik asit ve stearik asidi de deney
+tüplerinde, sıcak su içinde ısıtalım.
+
+23
+00:02:19,089 --> 00:02:26,016
+Laurik asit yaklaşık 44 °C’de, stearik
+asit yaklaşık 69 °C’de eridi. Erime
+
+24
+00:02:26,016 --> 00:02:27,607
+noktaları farklı!
+
+25
+00:02:28,589 --> 00:02:34,936
+Farklı saf maddelerin erime ve kaynama
+noktaları farklıdır. Bu yüzden bunlar
+
+26
+00:02:34,936 --> 00:02:37,107
+ayırt edici özelliklerdir.
+
+27
+00:02:38,589 --> 00:02:41,701
+Bulgularımı gözlem defterime kaydedeyim.
+
+28
+00:02:49,089 --> 00:02:55,015
+Sıra sende! Öğretmeninle farklı saf
+maddelerin erime noktalarını karşılaştıran
+
+29
+00:02:55,015 --> 00:02:57,066
+bir deney düzeneği tasarla.
+
+30
+00:02:58,316 --> 00:03:03,590
+Sıradaki gözlemim: Aynı hacimdeki
+maddelerin kütleleri neden farklı?
+

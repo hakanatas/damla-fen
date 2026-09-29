@@ -1,0 +1,150 @@
+1
+00:00:05,550 --> 00:00:12,971
+Merhaba! Ben Damla. Dün pille çalışan
+küçük bir lamba devresi kurdum.
+
+2
+00:00:13,821 --> 00:00:20,653
+Arkadaşım da aynısını kurmak istedi.
+Devremi ona çizerek anlatayım dedim...
+
+3
+00:00:21,321 --> 00:00:27,565
+Ama her parçayı resim gibi çizmek çok uzun
+sürdü!
+
+4
+00:00:28,415 --> 00:00:35,247
+Üstelik herkes aynı pili farklı çiziyor.
+Hangisi ne? Kafalar karışabilir.
+
+5
+00:00:36,415 --> 00:00:43,318
+Günlük hayatta sembolleri hep kullanırız.
+Trafik levhalarını herkes aynı biçimde
+
+6
+00:00:43,318 --> 00:00:43,836
+anlar.
+
+7
+00:00:44,686 --> 00:00:50,930
+Devre elemanlarının da sembolleri vardır.
+Semboller, bilimin ortak dilidir.
+
+8
+00:00:51,980 --> 00:00:58,224
+Önce güvenlik! Prizlerle asla oynamayız.
+Deneylerde yalnızca pil kullanırız.
+
+9
+00:00:59,074 --> 00:01:05,287
+Pilin iki ucunu tek kabloyla
+birleştirmeyiz. Pil ısınır, zarar verir.
+
+10
+00:01:05,287 --> 00:01:08,259
+Bir yetişkin eşliğinde çalışırız.
+
+11
+00:01:09,309 --> 00:01:13,200
+Şimdi devremin elemanlarını masaya
+dizelim.
+
+12
+00:01:13,650 --> 00:01:19,894
+Pil, ampul, anahtar, bağlantı kablosu, duy
+ve pil yatağı.
+
+13
+00:01:21,650 --> 00:01:26,718
+Hangisinin sembolü var? Kart eşleştirme
+oyunuyla bulalım!
+
+14
+00:01:27,568 --> 00:01:33,812
+Pilin sembolü: biri uzun, biri kısa iki
+paralel çizgi.
+
+15
+00:01:34,262 --> 00:01:39,330
+Ampulün sembolü: içinde çarpı olan bir
+daire.
+
+16
+00:01:39,862 --> 00:01:46,694
+Anahtarın sembolü, gerçek anahtar gibi
+açık ya da kapalı çizilir.
+
+17
+00:01:47,144 --> 00:01:52,212
+Bağlantı kablosu ise düz bir çizgiyle
+gösterilir.
+
+18
+00:01:52,662 --> 00:02:00,083
+Peki duy ve pil yatağı? Onlara uyan bir
+sembol kartı yok!
+
+19
+00:02:01,133 --> 00:02:07,377
+Elemanları ayıralım: sembolü olanlar bir
+gruba, olmayanlar öbür gruba.
+
+20
+00:02:09,633 --> 00:02:18,230
+Duy ampulü, pil yatağı da pili tutar.
+Şemada yalnızca ampulü ve pili çizeriz.
+
+21
+00:02:19,280 --> 00:02:26,988
+Sembolleri etiketleyelim. Pilde uzun çizgi
+artı (+), kısa çizgi eksi (−) kutbu
+
+22
+00:02:26,988 --> 00:02:27,877
+gösterir.
+
+23
+00:02:28,927 --> 00:02:34,583
+Açık anahtar devreyi keser. Kapalı anahtar
+devreyi tamamlar.
+
+24
+00:02:35,433 --> 00:02:41,089
+Kablolar şemada düz çizilir. Köşelerde dik
+açıyla döner.
+
+25
+00:02:41,939 --> 00:02:47,708
+Sembolleri birleştirince devre şeması
+oluşur. Devremi artık saniyeler içinde
+
+26
+00:02:47,708 --> 00:02:48,771
+çizebiliyorum!
+
+27
+00:02:50,939 --> 00:02:57,183
+Bu şemayı dünyanın her yerinde herkes aynı
+biçimde okur.
+
+28
+00:02:58,433 --> 00:03:03,501
+Bulduklarımı gözlem defterime bir afiş
+gibi kaydedeyim.
+
+29
+00:03:07,433 --> 00:03:14,764
+Sıra sende! Eleman ve sembol kartları
+hazırla. Arkadaşınla eşleştirme oyunu
+
+30
+00:03:14,764 --> 00:03:17,207
+oyna, sonra bir afiş yap.
+
+31
+00:03:18,257 --> 00:03:23,913
+Sıradaki gözlemim: şemasını çizdiğim
+devreyi kurup deney yapacağım!
+

@@ -1,0 +1,128 @@
+1
+00:00:05,550 --> 00:00:10,824
+Merhaba! Ben Damla. Her sabah evimden
+okula yürüyorum.
+
+2
+00:00:11,474 --> 00:00:17,829
+Okula giderken ne kadar yol alıyorum?
+Okul, evime göre nerede?
+
+3
+00:00:18,679 --> 00:00:23,413
+Sokakları izleyerek yürüdüğüm yolun
+tamamı, alınan yoldur.
+
+4
+00:00:25,679 --> 00:00:33,115
+Başlangıçtan bitişe çizilen düz ok ise yer
+değiştirmedir. Onun bir yönü vardır.
+
+5
+00:00:33,765 --> 00:00:39,039
+Gördün mü? Alınan yol, yer değiştirmeden
+uzun olabilir.
+
+6
+00:00:39,889 --> 00:00:47,462
+Bu yüzücü 50 metrelik havuzda gidip geri
+döndü. 100 m yol aldı, ama yer
+
+7
+00:00:47,462 --> 00:00:49,488
+değiştirmesi sıfır!
+
+8
+00:00:50,338 --> 00:00:53,991
+Gözlediğim hareketleri matris tabloya
+kaydediyorum.
+
+9
+00:00:59,338 --> 00:01:06,234
+Peki kim daha hızlı? Bunun için birim
+zamanda alınan yola bakarız.
+
+10
+00:01:06,884 --> 00:01:15,942
+Her saniyede bir işaret koydum. Bisiklet
+her saniyede 5 m, ben 1 m yol alıyorum.
+
+11
+00:01:16,592 --> 00:01:24,569
+Birim zamanda alınan yola sürat denir.
+Bisikletin sürati 5 m/s, benimki 1 m/s.
+
+12
+00:01:25,419 --> 00:01:33,066
+Sürat m/s ya da km/h ile ifade edilir.
+Arabanın göstergesi yön söylemez; sürati
+
+13
+00:01:33,066 --> 00:01:33,937
+gösterir.
+
+14
+00:01:34,787 --> 00:01:41,683
+Eşit zaman aralıklarında eşit yol alan
+cisim, sabit süratle hareket eder.
+
+15
+00:01:42,533 --> 00:01:49,969
+Hız ise birim zamandaki yer değiştirmedir.
+Hızın hem büyüklüğü hem yönü vardır.
+
+16
+00:01:50,619 --> 00:01:58,232
+Bu iki arabanın sürati 50 km/h. Süratleri
+aynı, ama zıt yönlere gittikleri için
+
+17
+00:01:58,232 --> 00:01:59,677
+hızları farklı!
+
+18
+00:02:00,527 --> 00:02:07,174
+Dairesel pistte sabit süratle koşan
+atletin yönü sürekli değişir. Onun hızı
+
+19
+00:02:07,174 --> 00:02:08,504
+sabit değildir.
+
+20
+00:02:09,354 --> 00:02:17,172
+Sabit hız için sürat de yön de
+değişmemeli: düz bir yolda, hep aynı
+
+21
+00:02:17,172 --> 00:02:17,872
+yönde.
+
+22
+00:02:18,722 --> 00:02:23,996
+Şimdi sürat ve hızın benzerliklerini ve
+farklılıklarını listeleyelim.
+
+23
+00:02:31,722 --> 00:02:39,521
+Kısacası: sürat ne kadar hızlı gittiğimi,
+hız ise ne kadar hızlı ve hangi yöne
+
+24
+00:02:39,521 --> 00:02:41,321
+gittiğimi anlatır.
+
+25
+00:02:42,171 --> 00:02:49,196
+Sıra sende! Arkadaşınla sınıfta bir yol
+yürüyün. Alınan yolu ve yer değiştirmeyi
+
+26
+00:02:49,196 --> 00:02:50,689
+tabloya kaydedin.
+
+27
+00:02:51,539 --> 00:02:56,273
+Sıradaki gözlemim: Canlılar nasıl çoğalır?
+Üreme çeşitleri!
+

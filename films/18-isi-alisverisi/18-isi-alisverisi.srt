@@ -1,0 +1,125 @@
+1
+00:00:05,550 --> 00:00:13,559
+Merhaba, ben Damla! Önümde iki kap su var:
+biri soğuk, biri sıcak.
+
+2
+00:00:14,209 --> 00:00:18,688
+Bunları karıştırırsam karışımın sıcaklığı
+ne olur?
+
+3
+00:00:19,538 --> 00:00:25,194
+Önce tahmin edelim! Tahmin et, gözle,
+açıkla: TGA.
+
+4
+00:00:25,844 --> 00:00:34,114
+Karışım 80 derece mi olur? 20 dereceden
+soğuk mu? Yoksa ikisinin arasında mı?
+
+5
+00:00:34,114 --> 00:00:35,618
+Tahminini yaz!
+
+6
+00:00:36,468 --> 00:00:41,536
+Deneyimi tasarlıyorum. Sıcaklıkları ölçmek
+için termometre seçiyorum.
+
+7
+00:00:43,468 --> 00:00:50,889
+Sıvılar aynı tür olmalı: su ile su.
+Miktarları da eşit olsun.
+
+8
+00:00:51,739 --> 00:00:57,983
+Sıcak suyu bir yetişkin hazırlar. Dikkatli
+ve sabırlı çalışırız!
+
+9
+00:00:58,833 --> 00:01:06,254
+Karıştırmadan önce ölçüyorum: soğuk su 20
+°C, sıcak su 60 °C.
+
+10
+00:01:07,104 --> 00:01:10,407
+Ölçümleri çalışma yaprağıma yazıyorum.
+
+11
+00:01:11,604 --> 00:01:15,495
+Şimdi eşit miktardaki suları
+karıştırıyorum.
+
+12
+00:01:17,604 --> 00:01:21,495
+Sabırla karıştırıp termometrenin durmasını
+bekliyorum...
+
+13
+00:01:24,604 --> 00:01:30,848
+Karışım 39 °C oldu! İki sıcaklığın
+neredeyse tam ortası.
+
+14
+00:01:31,898 --> 00:01:36,377
+Neden böyle oldu? Tanecik modeliyle
+bakalım.
+
+15
+00:01:39,898 --> 00:01:49,200
+Isı, sıcaklığı yüksek olan sudan düşük
+olana akar. Sıcak su ısı verir, soğuk su
+
+16
+00:01:49,200 --> 00:01:50,260
+ısı alır.
+
+17
+00:01:51,110 --> 00:01:57,354
+Sıcaklıklar eşitlenince ısı akışı durur.
+Buna termal denge denir.
+
+18
+00:01:58,204 --> 00:02:08,566
+Hesapla 40 °C beklenir. Ama biraz ısı kaba
+ve havaya geçer; bu yüzden 39 °C ölçtüm.
+
+19
+00:02:09,616 --> 00:02:16,448
+Sıcaklıkları eşit iki su karışırsa? Isı
+alışverişi olmaz, sıcaklık değişmez.
+
+20
+00:02:17,498 --> 00:02:24,591
+Günlük yaşamda da böyle: çorbadaki kaşık
+ısınır, buzlu içecek soğur, kalorifer
+
+21
+00:02:24,591 --> 00:02:26,683
+odanın havasını ısıtır.
+
+22
+00:02:28,498 --> 00:02:33,566
+Doğada maddeler arasında hep ısı
+alışverişi vardır.
+
+23
+00:02:34,616 --> 00:02:39,684
+Deney raporumu yazıyorum: tahmin, ölçümler
+ve açıklama.
+
+24
+00:02:43,616 --> 00:02:50,438
+Sıra sende! Bir yetişkinle deneyi farklı
+miktarlarla tekrarla ya da sanal
+
+25
+00:02:50,438 --> 00:02:52,213
+laboratuvarda dene.
+
+26
+00:02:53,063 --> 00:02:58,131
+Sıradaki gözlemim: ısı, maddenin hâlini
+nasıl değiştirir?
+

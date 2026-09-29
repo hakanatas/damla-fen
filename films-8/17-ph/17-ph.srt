@@ -1,0 +1,176 @@
+1
+00:00:05,550 --> 00:00:12,214
+Limon suyu da sirke de asit. Ama ikisi
+aynı derecede mi asidik?
+
+2
+00:00:12,564 --> 00:00:18,276
+Mor lahana suyunda renk tonları farklıydı.
+Bu bir ipucu olabilir!
+
+3
+00:00:19,064 --> 00:00:25,062
+Asitlik ve bazlığı karşılaştırmak için pH
+cetvelini kullanırız. Cetvel 0’dan 14’e
+
+4
+00:00:25,062 --> 00:00:25,728
+kadardır.
+
+5
+00:00:26,078 --> 00:00:31,790
+pH değerini pH kâğıdıyla ya da elektronik
+pH metreyle ölçebiliriz.
+
+6
+00:00:32,140 --> 00:00:38,328
+Yaklaşık değerler: limon suyu 2, sirke 3,
+yoğurt 4,5, süt 6,5.
+
+7
+00:00:40,140 --> 00:00:46,804
+Saf su 7, karbonatlı su 8,3, sabunlu su
+10, çamaşır suyu 12,5.
+
+8
+00:00:48,140 --> 00:00:53,702
+Örüntüyü görüyor musun? Asit olduğunu
+bildiğim maddeler hep 7’nin altında,
+
+9
+00:00:53,702 --> 00:00:55,280
+bazlar 7’nin üstünde.
+
+10
+00:00:55,630 --> 00:01:01,818
+Genelleme: pH 7’den küçükse asit, 7 ise
+nötr, 7’den büyükse bazdır.
+
+11
+00:01:02,630 --> 00:01:08,342
+7’den 0’a gittikçe asitlik artar; 7’den
+14’e gittikçe bazlık artar.
+
+12
+00:01:09,630 --> 00:01:16,294
+Ambalajlara bak! Bu şampuanda pH 5,5, bu
+içme suyunda pH 7,4 yazıyor.
+
+13
+00:01:16,944 --> 00:01:23,542
+Bir sorun: Mermer tezgâha limon suyu
+damladı, yerinde mat bir leke kaldı.
+
+14
+00:01:23,542 --> 00:01:24,084
+Neden?
+
+15
+00:01:24,434 --> 00:01:29,229
+Hipotezim: Asitler mermerle tepkimeye
+girer. Bunu sınamak için deney
+
+16
+00:01:29,229 --> 00:01:30,146
+tasarlayayım.
+
+17
+00:01:30,696 --> 00:01:36,481
+Yalnızca sirke gibi tehlikesiz maddeler
+kullanırım. Gözlük, eldiven ve öğretmen
+
+18
+00:01:36,481 --> 00:01:37,360
+eşliği şart!
+
+19
+00:01:38,696 --> 00:01:45,485
+Mermer parçası, yumurta kabuğu ve demir
+çiviyi ikişer behere koydum: birine sirke,
+
+20
+00:01:45,485 --> 00:01:46,313
+birine su.
+
+21
+00:01:46,696 --> 00:01:53,360
+Değiştirdiğim tek şey sıvının türü. Parça
+boyutu, sıvı miktarı ve süre aynı.
+
+22
+00:01:53,710 --> 00:01:59,143
+Sirkedeki mermerde ve yumurta kabuğunda
+kabarcıklar çıktı. Sudakilerde değişim
+
+23
+00:01:59,143 --> 00:01:59,422
+yok.
+
+24
+00:02:00,710 --> 00:02:07,894
+Üç gün sonra tarttım: Sirkedeki mermer
+10,0 gramdan 9,2 grama indi. Sudaki hâlâ
+
+25
+00:02:07,894 --> 00:02:08,803
+10,0 gram.
+
+26
+00:02:09,710 --> 00:02:14,620
+Çivinin yüzeyi de aşındı. Hipotezim
+desteklendi: asitler metallerle ve
+
+27
+00:02:14,620 --> 00:02:16,374
+mermerle tepkimeye girer.
+
+28
+00:02:17,024 --> 00:02:22,405
+Bazlar ise genellikle cam, porselen ve
+seramikle tepkimeye girer. Bardakların
+
+29
+00:02:22,405 --> 00:02:24,641
+zamanla matlaşması bir örnektir.
+
+30
+00:02:25,024 --> 00:02:31,688
+Bu yüzden asitleri metal kaplarda, güçlü
+bazları cam kaplarda uzun süre saklamayız.
+
+31
+00:02:32,038 --> 00:02:36,798
+Bu olayların hepsi kimyasal tepkimedir:
+yeni maddeler oluşur.
+
+32
+00:02:37,148 --> 00:02:43,055
+Önemli uyarı: Temizlik ürünlerini asla
+karıştırma! Çamaşır suyu ile tuz ruhu
+
+33
+00:02:43,055 --> 00:02:44,765
+zehirli gaz oluşturur.
+
+34
+00:02:45,415 --> 00:02:48,270
+Bulduklarımı gözlem defterime kaydedeyim.
+
+35
+00:02:53,915 --> 00:03:00,207
+Sıra sende! Etiketlerde pH değerlerini
+ara, 0–14 arası renkli bir pH cetveli
+
+36
+00:03:00,207 --> 00:03:01,532
+posteri hazırla.
+
+37
+00:03:01,982 --> 00:03:08,090
+Sıradaki gözlemim: Elektriğin yolculuğu!
+İki ampulü seri ya da paralel bağlarsam
+
+38
+00:03:08,090 --> 00:03:10,075
+hangisi daha parlak yanar?
+

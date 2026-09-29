@@ -1,0 +1,121 @@
+1
+00:00:05,550 --> 00:00:10,029
+Merhaba! Devre elemanlarının sembollerini
+artık tanıyorum.
+
+2
+00:00:10,679 --> 00:00:18,240
+Bugün önce bir devre şeması çizeceğim.
+Sonra ona uygun bir deney düzeneği
+
+3
+00:00:18,240 --> 00:00:19,276
+kuracağım.
+
+4
+00:00:19,926 --> 00:00:26,758
+Deney sorum: Anahtar açıkken ve kapalıyken
+ampul ışık verir mi?
+
+5
+00:00:27,808 --> 00:00:35,817
+Önce sembollerle şemamı çiziyorum: bir
+pil, bir anahtar, bir ampul ve kablolar.
+
+6
+00:00:37,808 --> 00:00:44,640
+Deneyi grupça yapıyoruz. Herkesin bir
+görevi var, birbirimize yardım ediyoruz.
+
+7
+00:00:46,808 --> 00:00:54,416
+Güvenlik kuralları: Prizle oynamak yok,
+yalnızca pil. Pilin iki ucunu tek kabloyla
+
+8
+00:00:54,416 --> 00:00:55,993
+birleştirmek yok.
+
+9
+00:00:56,843 --> 00:01:02,499
+Deneyi öğretmenimizin ya da bir yetişkinin
+gözetiminde yapıyoruz.
+
+10
+00:01:03,549 --> 00:01:09,793
+Şemaya bakarak malzemeleri seçiyorum. Her
+sembol için bir eleman.
+
+11
+00:01:11,549 --> 00:01:20,146
+Pil yatağı ve duy da gerekli. Şemada
+çizilmezler ama pili ve ampulü tutarlar.
+
+12
+00:01:21,196 --> 00:01:26,264
+Şimdi düzeneği şemaya bakarak adım adım
+kuruyorum.
+
+13
+00:01:31,196 --> 00:01:37,440
+Anahtarı kapattım... ama ampul ışık
+vermedi! Bir sorun var.
+
+14
+00:01:38,196 --> 00:01:43,852
+Düzeneği şemayla karşılaştırıyorum. Duyun
+bir kablosu takılı değil!
+
+15
+00:01:45,696 --> 00:01:50,764
+Bağlantıyı düzelttim. İşte! Düzenek artık
+şemaya uygun.
+
+16
+00:01:51,814 --> 00:01:57,470
+Şimdi gözlem zamanı. Anahtarı açıp
+kapatarak ampulü gözlüyorum.
+
+17
+00:01:58,814 --> 00:02:05,646
+Sonuçları tabloya kaydediyorum. Güvenilir
+olsun diye deneyi üç kez tekrarlıyorum.
+
+18
+00:02:09,814 --> 00:02:16,646
+Verileri inceleyelim. Üç denemede de
+anahtar kapalıyken ampul ışık verdi.
+
+19
+00:02:17,496 --> 00:02:24,808
+Anahtar açıkken hiç ışık vermedi. Demek ki
+ampulün ışık vermesi için devre
+
+20
+00:02:24,808 --> 00:02:26,093
+tamamlanmalı.
+
+21
+00:02:27,343 --> 00:02:31,822
+Deney bitti. Malzemeleri toplayıp masamızı
+temizliyoruz.
+
+22
+00:02:34,343 --> 00:02:41,764
+Son olarak raporumu yazıyorum: soru, şema,
+malzemeler, adımlar, veriler ve sonuç.
+
+23
+00:02:44,343 --> 00:02:52,674
+Sıra sende! Grubunla bir devre şeması çiz,
+ona uygun düzeneği kur ve sonuçları
+
+24
+00:02:52,674 --> 00:02:53,528
+raporla.
+
+25
+00:02:54,778 --> 00:03:00,434
+Sıradaki gözlemim: Ampulün parlaklığı
+nelere bağlı? Hipotez kuracağım!
+

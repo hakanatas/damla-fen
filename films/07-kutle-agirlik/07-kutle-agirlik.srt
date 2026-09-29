@@ -1,0 +1,144 @@
+1
+00:00:05,550 --> 00:00:12,892
+Merhaba! Pazarda “İki kilo elma tartar
+mısınız?” diyoruz. Peki kilogram neyin
+
+2
+00:00:12,892 --> 00:00:13,559
+birimi?
+
+3
+00:00:14,409 --> 00:00:20,653
+Kütle ile ağırlık aynı şey mi? Sen ne
+düşünüyorsun?
+
+4
+00:00:21,503 --> 00:00:27,747
+Ay’da yürüyen astronotları hatırla. Neden
+zıplaya zıplaya, hafifçe yürüyorlar?
+
+5
+00:00:29,503 --> 00:00:37,001
+Kütle, bir cisimdeki madde miktarıdır.
+Birimi kilogram ya da gramdır; eşit kollu
+
+6
+00:00:37,001 --> 00:00:38,688
+teraziyle ölçülür.
+
+7
+00:00:39,738 --> 00:00:45,848
+Ağırlık ise yer çekiminin o cisme
+uyguladığı kuvvettir. Birimi Newton’dur;
+
+8
+00:00:45,848 --> 00:00:47,747
+dinamometreyle ölçülür.
+
+9
+00:00:48,997 --> 00:00:55,632
+Eşit kollu terazide elmayı, kütlesi
+bilinen parçalarla dengeliyorum. Kütlesi
+
+10
+00:00:55,632 --> 00:00:56,418
+100 gram!
+
+11
+00:00:57,997 --> 00:01:03,653
+Aynı elmayı dinamometreye asıyorum.
+Ağırlığı yaklaşık 1 N.
+
+12
+00:01:04,997 --> 00:01:14,182
+Kitabı da ölçtüm: 400 gram ve yaklaşık 4
+N. Kütle arttıkça ağırlık da artıyor.
+
+13
+00:01:15,032 --> 00:01:22,453
+Dünya’da kütlesi 1 kilogram olan bir
+cismin ağırlığı yaklaşık 9,8 N’dur.
+
+14
+00:01:23,703 --> 00:01:30,331
+Şimdi hayal gücümle Ay’a gidiyorum!
+Yanımda terazim, dinamometrem ve 6
+
+15
+00:01:30,331 --> 00:01:32,888
+kilogramlık kum torbam var.
+
+16
+00:01:33,738 --> 00:01:41,747
+Ay’da terazi yine dengede: Kum torbasının
+kütlesi yine 6 kilogram. Kütle değişmedi!
+
+17
+00:01:42,597 --> 00:01:50,305
+Terazi iki kefeyi karşılaştırır. Ay’da iki
+kefe de aynı ölçüde hafifler, denge
+
+18
+00:01:50,305 --> 00:01:51,194
+bozulmaz.
+
+19
+00:01:52,044 --> 00:01:59,465
+Dinamometre ise Dünya’da yaklaşık 59 N,
+Ay’da yaklaşık 10 N gösteriyor.
+
+20
+00:02:00,315 --> 00:02:08,562
+Çünkü Ay, cisimleri Dünya’dan yaklaşık 6
+kat daha az çeker. Bu yüzden astronotlar
+
+21
+00:02:08,562 --> 00:02:10,089
+hafifçe zıplar.
+
+22
+00:02:11,339 --> 00:02:18,728
+Dünya’da bile ağırlık biraz değişebilir:
+Kutuplarda biraz daha fazla, ekvatorda ve
+
+23
+00:02:18,728 --> 00:02:21,701
+yüksek dağlarda biraz daha azdır.
+
+24
+00:02:22,951 --> 00:02:30,036
+Şimdi karşılaştırayım. Benzerlikler: İkisi
+de ölçülebilir ve birimi vardır. Aynı
+
+25
+00:02:30,036 --> 00:02:33,313
+yerde kütle artınca ağırlık da artar.
+
+26
+00:02:34,363 --> 00:02:41,019
+Farklılıklar: Tanımları, birimleri ve
+ölçme araçları farklıdır. Kütle her yerde
+
+27
+00:02:41,019 --> 00:02:44,137
+aynıdır; ağırlık konuma göre değişir.
+
+28
+00:02:47,363 --> 00:02:53,866
+Sıra sende! Üç cismin kütlesini teraziyle,
+ağırlığını dinamometreyle ölç. Sonuçlarını
+
+29
+00:02:53,866 --> 00:02:54,784
+karşılaştır.
+
+30
+00:02:55,634 --> 00:03:03,055
+Sen de araştır: Hazinî, yer çekimi
+hakkında hangi fikri ileri sürdü?
+
+31
+00:03:03,905 --> 00:03:08,973
+Sıradaki gözlemim: Hareketi zorlaştıran
+bir kuvvet, sürtünme!
+

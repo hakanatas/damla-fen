@@ -1,0 +1,127 @@
+1
+00:00:05,550 --> 00:00:10,618
+Merhaba! Bahçede yürürken gölgem de
+benimle yürüyor.
+
+2
+00:00:11,550 --> 00:00:18,382
+Ağacın ve binaların da gölgesi var. Peki
+gölge nasıl oluşur?
+
+3
+00:00:19,232 --> 00:00:24,888
+Kartondan, yani opak bir maddeden tangram
+parçaları kestim.
+
+4
+00:00:26,232 --> 00:00:33,653
+Parçaları pipetlere yapıştırdım. Küçük bir
+lambam ve sabit bir ekranım var.
+
+5
+00:00:34,303 --> 00:00:38,782
+Lambayı yakınca ekranda üçgenin gölgesi
+oluştu!
+
+6
+00:00:40,303 --> 00:00:45,371
+Parçaları birleştirince ekranda bir kedi
+gölgesi belirdi!
+
+7
+00:00:47,803 --> 00:00:54,872
+Işık opak cisimden geçemez. Cismin
+arkasında ışık almayan karanlık bölgeye
+
+8
+00:00:54,872 --> 00:00:56,400
+tam gölge denir.
+
+9
+00:00:57,250 --> 00:01:05,233
+Tam gölgenin şekli cismin şekline benzer:
+Kare, kare gölge; daire, daire gölge
+
+10
+00:01:05,233 --> 00:01:05,847
+verir.
+
+11
+00:01:06,897 --> 00:01:13,729
+Tam gölgeyi çizelim. Noktasal kaynaktan
+cismin kenarlarına düz ışınlar çizeriz.
+
+12
+00:01:14,379 --> 00:01:21,520
+Işınları ekrana kadar uzatırız. İki ışın
+arasında kalan karanlık bölge tam
+
+13
+00:01:21,520 --> 00:01:22,388
+gölgedir.
+
+14
+00:01:23,438 --> 00:01:30,889
+Gölgenin boyu neye bağlı? Lambayı ve
+ekranı sabit tutup yalnızca cismi hareket
+
+15
+00:01:30,889 --> 00:01:32,035
+ettireceğim.
+
+16
+00:01:32,685 --> 00:01:38,929
+Sence cisim lambaya yaklaşınca gölge büyür
+mü, küçülür mü?
+
+17
+00:01:39,779 --> 00:01:44,258
+Cisim lambaya yaklaştıkça tam gölge
+büyüyor.
+
+18
+00:01:46,779 --> 00:01:52,435
+Cisim lambadan uzaklaşıp ekrana
+yaklaştıkça tam gölge küçülüyor.
+
+19
+00:01:53,779 --> 00:02:00,809
+Verilerimi kaydettim: Kaynak ile cisim
+arasındaki mesafe azaldıkça tam gölgenin
+
+20
+00:02:00,809 --> 00:02:01,788
+boyu artar.
+
+21
+00:02:03,038 --> 00:02:09,282
+Gölge oyununda da kuklayı lambaya
+yaklaştırınca duvardaki gölgesi büyür.
+
+22
+00:02:10,332 --> 00:02:13,047
+Gözlemlerimi defterime kaydedeyim.
+
+23
+00:02:19,332 --> 00:02:26,783
+Sonuç: Opak cisim ışığı engeller ve
+arkasında tam gölge oluşur. Cisim kaynağa
+
+24
+00:02:26,783 --> 00:02:29,106
+yaklaştıkça gölge büyür.
+
+25
+00:02:29,956 --> 00:02:36,322
+Sıra sende! Kendi tangramını yap,
+gölgesini çiz. Divriği Ulu Camii’nin
+
+26
+00:02:36,322 --> 00:02:39,141
+kapısındaki gölgeyi de araştır.
+
+27
+00:02:40,191 --> 00:02:44,082
+Sıradaki gözlemim: Maddenin tanecikli
+yapısı.
+

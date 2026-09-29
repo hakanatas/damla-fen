@@ -1,0 +1,158 @@
+1
+00:00:05,550 --> 00:00:11,760
+Kedinin miyavlaması ile aslanın kükremesi
+çok farklı. Kedinin sesi ince, aslanınki
+
+2
+00:00:11,760 --> 00:00:12,214
+kalın.
+
+3
+00:00:13,550 --> 00:00:19,018
+Müzik aletleri de farklı sesler çıkarır.
+Farklı kaynaklardaki titreşimler de
+
+4
+00:00:19,018 --> 00:00:19,738
+farklıdır.
+
+5
+00:00:21,550 --> 00:00:27,623
+Peki aynı kaynaktan çıkan ses neden bazen
+ince, bazen kalın duyulur? Deney
+
+6
+00:00:27,623 --> 00:00:28,690
+tasarlayalım.
+
+7
+00:00:29,540 --> 00:00:35,304
+Hep aynı cetvel ve aynı vuruş.
+Değiştirdiğim tek şey, masadan taşan
+
+8
+00:00:35,304 --> 00:00:36,680
+kısmın uzunluğu.
+
+9
+00:00:37,540 --> 00:00:42,776
+Taşan kısım uzunken cetvel yavaş
+titreşiyor. Ses kalın duyuluyor.
+
+10
+00:00:44,540 --> 00:00:49,776
+Taşan kısmı kısaltınca cetvel daha hızlı
+titreşiyor. Ses inceliyor!
+
+11
+00:00:52,040 --> 00:00:56,800
+Verilerim açık: Titreşim hızlandıkça ses
+daha ince duyuluyor.
+
+12
+00:00:59,040 --> 00:01:04,907
+Bir saniyedeki titreşim sayısına frekans
+denir. Frekansın birimi hertzdir, kısaca
+
+13
+00:01:04,907 --> 00:01:05,704
+Hz yazılır.
+
+14
+00:01:07,040 --> 00:01:12,966
+Aynı sürede daha çok titreşim, yüksek
+frekans demektir. Yüksek frekanslı ses
+
+15
+00:01:12,966 --> 00:01:16,085
+ince, düşük frekanslı ses kalın duyulur.
+
+16
+00:01:17,135 --> 00:01:24,271
+Flüt ve bağlama aynı frekansta çalsa bile
+onları ayırt ederiz. Sesin bu özelliğine
+
+17
+00:01:24,271 --> 00:01:25,228
+tını denir.
+
+18
+00:01:26,278 --> 00:01:32,942
+“Davulun sesi uzaktan hoş gelir.” Uzaklık
+ve ses şiddeti işitmemizi nasıl etkiler?
+
+19
+00:01:33,792 --> 00:01:39,980
+Ses şiddeti, sesi şiddetli ya da zayıf
+işitmemize neden olan özelliktir.
+
+20
+00:01:40,630 --> 00:01:46,818
+Davula sert vurunca deri daha büyük
+titreşir. Ses daha şiddetli duyulur.
+
+21
+00:01:48,130 --> 00:01:54,195
+Birinci deney: Vuruşu aynı tuttum ve
+davuldan uzaklaştım. Uzaklaştıkça ses daha
+
+22
+00:01:54,195 --> 00:01:55,270
+zayıf duyuldu.
+
+23
+00:01:57,130 --> 00:02:03,318
+İkinci deney: Uzaklığı aynı tuttum, vuruşu
+güçlendirdim. Ses daha şiddetli duyuldu.
+
+24
+00:02:05,630 --> 00:02:11,605
+İki önermem var: Kaynaktan uzaklaştıkça
+ses daha zayıf işitilir. Ses şiddeti
+
+25
+00:02:11,605 --> 00:02:14,199
+arttıkça ses daha güçlü işitilir.
+
+26
+00:02:15,249 --> 00:02:21,662
+Ses bir enerji türüdür. Alçaktan uçan uçak
+camları titretir. Ses dalgalarıyla böbrek
+
+27
+00:02:21,662 --> 00:02:23,342
+taşı bile kırılabilir.
+
+28
+00:02:24,192 --> 00:02:30,380
+Çok şiddetli sesler kulağımıza zarar verir
+ve işitme kaybına yol açabilir.
+
+29
+00:02:31,030 --> 00:02:37,283
+Kulaklıkla kısık sesle ve ara vererek
+dinle. Çok gürültülü yerlerde kulağını
+
+30
+00:02:37,283 --> 00:02:37,694
+koru.
+
+31
+00:02:39,030 --> 00:02:41,885
+Bulduklarımı gözlem defterime
+kaydediyorum.
+
+32
+00:02:48,030 --> 00:02:53,778
+Sıra sende! Farklı frekanslarda ses
+çıkaran bir müzik aleti tasarla. Uzaklık
+
+33
+00:02:53,778 --> 00:02:56,123
+deneyini V diyagramıyla açıkla.
+
+34
+00:02:57,030 --> 00:03:03,694
+Sıradaki gözlemim: Ses bir duvara çarpınca
+ne olur? Yansır mı, soğurulur mu?
+

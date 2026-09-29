@@ -1,0 +1,178 @@
+1
+00:00:05,550 --> 00:00:11,262
+Merhaba! Masamda renksiz bir periyodik
+tablo ve dört kalem var.
+
+2
+00:00:11,812 --> 00:00:16,095
+Elementleri özelliklerine göre dört sınıfa
+ayırabilir miyim?
+
+3
+00:00:16,645 --> 00:00:21,405
+Bu sınıflar: metaller, ametaller,
+yarımetaller ve soy gazlar.
+
+4
+00:00:22,055 --> 00:00:28,549
+Bakır bir metaldir: parlaktır, ısıyı ve
+elektriği iyi iletir, tel ve levha hâline
+
+5
+00:00:28,549 --> 00:00:29,672
+getirilebilir.
+
+6
+00:00:30,122 --> 00:00:35,834
+Oda koşullarında cıva hariç hepsi katıdır.
+Erime noktaları genellikle yüksektir.
+
+7
+00:00:36,484 --> 00:00:41,720
+Kükürt bir ametaldir: mattır, ısıyı ve
+elektriği iletmez, kırılgandır.
+
+8
+00:00:42,170 --> 00:00:48,571
+Ametaller katı, sıvı ya da gaz olabilir.
+Erime ve kaynama noktaları genellikle
+
+9
+00:00:48,571 --> 00:00:49,310
+düşüktür.
+
+10
+00:00:49,960 --> 00:00:55,071
+Silisyum bir yarımetaldir: parlaktır ama
+kırılgandır. Elektriği metallerden az,
+
+11
+00:00:55,071 --> 00:00:56,624
+ametallerden iyi iletir.
+
+12
+00:00:57,274 --> 00:01:04,157
+Neon bir soy gazdır. Soy gazlar oda
+koşullarında gazdır ve tek atomlu hâlde
+
+13
+00:01:04,157 --> 00:01:04,891
+bulunur.
+
+14
+00:01:05,541 --> 00:01:09,348
+Özellikleri tabloya işaretleyince sınıflar
+birbirinden ayrışıyor.
+
+15
+00:01:11,541 --> 00:01:17,253
+Neden farklı davranırlar? Sodyum, klor ve
+argonun elektron dizilimine bakalım.
+
+16
+00:01:17,703 --> 00:01:24,367
+Argon: 2, 8, 8. Son katmanı dolu; soy
+gazlar kendi başlarına kararlıdır.
+
+17
+00:01:24,917 --> 00:01:32,534
+Sodyum: 2, 8, 1. Son katmandaki tek
+elektronu verir ve artı yüklü iyon olur.
+
+18
+00:01:33,084 --> 00:01:41,491
+Klor: 2, 8, 7. Bir elektron alır ve eksi
+yüklü iyon olur. İkisi de kararlı hâle
+
+19
+00:01:41,491 --> 00:01:42,129
+gelir.
+
+20
+00:01:42,679 --> 00:01:47,439
+Metaller genellikle elektron verir,
+ametaller ise elektron alır.
+
+21
+00:01:48,289 --> 00:01:54,477
+Şimdi tabloyu boyayalım. Metaller solda ve
+ortada; en kalabalık sınıf onlar.
+
+22
+00:01:55,289 --> 00:02:00,525
+Ametaller sağ üstte. Merdiven çizgisinin
+iki yanında yarımetaller var.
+
+23
+00:02:01,289 --> 00:02:08,429
+Soy gazlar en sağda, 8A grubunda. Onlar da
+ametaldir ama ayrı ele alınır.
+
+24
+00:02:08,979 --> 00:02:14,215
+Dikkat! Hidrojen 1A grubunda ama metal
+değil; bir ametaldir.
+
+25
+00:02:15,065 --> 00:02:21,263
+İlk 18 elemente bakalım. Katman sayısı
+periyodu, son katmandaki elektron sayısı
+
+26
+00:02:21,263 --> 00:02:22,205
+grubu verir.
+
+27
+00:02:22,655 --> 00:02:30,177
+Magnezyum: 2, 8, 2. Üç katman: 3. periyot.
+Son katmanda iki elektron: 2A grubu.
+
+28
+00:02:30,177 --> 00:02:30,748
+Metal!
+
+29
+00:02:31,198 --> 00:02:35,668
+Hepsini etiketledim. Aynı gruptaki
+elementler genellikle benzer kimyasal
+
+30
+00:02:35,668 --> 00:02:36,910
+özellikler gösterir.
+
+31
+00:02:39,198 --> 00:02:43,531
+Metaller kendi aralarında bileşik
+oluşturmaz; alaşım denen homojen
+
+32
+00:02:43,531 --> 00:02:44,910
+karışımlar oluşturur.
+
+33
+00:02:45,360 --> 00:02:50,801
+Ametaller hem kendi aralarında hem
+metallerle bağ yapar. Soy gazlar sıradan
+
+34
+00:02:50,801 --> 00:02:52,977
+koşullarda bileşik oluşturmaz.
+
+35
+00:02:54,360 --> 00:02:57,215
+Bulduklarımı gözlem defterime kaydedeyim.
+
+36
+00:03:04,360 --> 00:03:11,524
+Sıra sende! Renksiz bir periyodik tabloyu
+dört renkle boya ve bir renk anahtarı
+
+37
+00:03:11,524 --> 00:03:11,977
+ekle.
+
+38
+00:03:12,627 --> 00:03:17,863
+Sıradaki gözlemim: Maddeler nasıl değişir?
+Fiziksel ve kimyasal değişimler!
+

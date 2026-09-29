@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="tr"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Damla'nın Gözlem Defteri</title>
+<link rel="stylesheet" href="../../lib/fonts.css">
+<style>
+  :root { --paper:#F1EADB; --ink:#1C1B22; --amber:#E3A03A; --water:#2E6A8C; --bar:#26252c; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: #1b1a20; color: var(--paper); font-family: 'Kalam', cursive; }
+  #stage { width: 100vw; height: calc(100vh - 118px); display: flex; align-items: center; justify-content: center; }
+  canvas { max-width: 100%; max-height: 100%; aspect-ratio: 16/9; background: var(--paper); box-shadow: 0 10px 50px #0008; }
+  #bar { height: 118px; padding: 10px 18px; background: var(--bar); display: grid; grid-template-columns: auto 1fr auto; gap: 8px 16px; align-items: center; }
+  button, select { font: 700 17px 'Kalam', cursive; background: #3a3842; color: var(--paper); border: 1px solid #55525e; border-radius: 6px; padding: 4px 12px; cursor: pointer; }
+  button:hover { border-color: var(--amber); }
+  #scrub { position: relative; height: 34px; }
+  #scrub input { width: 100%; margin: 0; position: absolute; top: 12px; accent-color: var(--amber); }
+  .mk { position: absolute; top: 0; font-size: 12px; color: #b9b3a6; transform: translateX(-2px); border-left: 2px solid var(--amber); padding-left: 3px; white-space: nowrap; cursor: pointer; }
+  #info { grid-column: 1 / 4; display: flex; gap: 22px; font-size: 16px; color: #d9d2c3; flex-wrap: wrap; }
+  #info b { color: var(--amber); }
+  .grp { display: flex; gap: 6px; align-items: center; }
+</style></head>
+<body>
+<div id="stage"><canvas id="cv" width="1920" height="1080"></canvas></div>
+<div id="bar">
+  <div class="grp"><button id="play">▶ Oynat</button><button id="restart">⟲</button></div>
+  <div id="scrub"><input id="t" type="range" min="0" max="100" step="0.01" value="0"></div>
+  <div class="grp">
+    <select id="speed"><option>0.25</option><option>0.5</option><option>0.75</option><option selected>1</option><option>1.5</option><option>2</option></select>
+    <select id="cap"><option value="on">Altyazı: Açık</option><option value="off">Altyazı: Kapalı</option></select>
+    <button id="snd">🔊</button>
+  </div>
+  <div id="info"><span id="clock">0:00</span><span>Sahne: <b id="scn">–</b></span><span>Kavram: <b id="cpt">–</b></span><span id="jump"></span></div>
+</div>
+<audio id="aud" src="audio/mix.m4a" preload="auto"></audio>
+
+<script src="../../lib/ink.js"></script>
+<script src="../../lib/damla.js"></script>
+<script src="../../lib/props.js"></script>
+<script src="../../lib/engine.js"></script>
+<script src="props.js"></script>
+<script src="narration.js"></script>
+<script src="timing.js"></script>
+<script src="scenes/s1-giris.js"></script>
+<script src="scenes/s3-degiskenler.js"></script>
+<script src="scenes/s5-deneyler.js"></script>
+<script src="scenes/s7-onerme.js"></script>
+<script>
+const cv = document.getElementById('cv'), ctx = cv.getContext('2d');
+const Q = new URLSearchParams(location.search);
+const T = TIMING.total;
+E.captions = Q.get('captions') || 'on';
+window.renderAt = (t) => { E.renderFrame(ctx, t); return true; };
+window.frameJPEG = (t, q = 0.92) => { E.renderFrame(ctx, t); return cv.toDataURL('image/jpeg', q); };
+const ready = Promise.all(['400 30px Kalam', '700 30px Kalam', '600 30px Fraunces', 'italic 500 30px Fraunces'].map(f => document.fonts.load(f)));
+ready.then(() => { window.__ready = true; if (!Q.has('headless')) ui(); });
+
+function ui() {
+  const $ = id => document.getElementById(id);
+  const aud = $('aud'); let muted = false;
+  let t = +(Q.get('t') || 0), playing = false, last = 0, speed = 1;
+  $('t').max = T; $('cap').value = E.captions;
+  // scene markers + jump buttons
+  E.scenes.forEach((sc, i) => {
+    const s = E.s(sc.from), m = document.createElement('span'); m.className = 'mk'; m.style.left = (s / T * 100) + '%'; m.textContent = (i + 1);
+    m.title = sc.name; m.onclick = () => seek(s); $('scrub').appendChild(m);
+    const b = document.createElement('button'); b.textContent = (i + 1) + ' ' + sc.name; b.onclick = () => seek(s); $('jump').appendChild(b);
+  });
+  const fmt = x => Math.floor(x / 60) + ':' + String(Math.floor(x % 60)).padStart(2, '0') + '.' + Math.floor((x % 1) * 10);
+  function seek(x) { t = Math.max(0, Math.min(T, x)); if (aud.readyState) aud.currentTime = t; draw(); }
+  function draw() {
+    E.renderFrame(ctx, t); $('t').value = t; $('clock').textContent = fmt(t) + ' / ' + fmt(T);
+    const sc = E.sceneAt(t); $('scn').textContent = sc.name; $('cpt').textContent = sc.concept;
+  }
+  function loop(now) {
+    if (!playing) return;
+    const dt = (now - last) / 1000; last = now; t += dt * speed;
+    if (!aud.paused && speed === 1 && Math.abs(aud.currentTime - t) > 0.25) t = aud.currentTime;
+    if (t >= T) { t = T; playing = false; $('play').textContent = '▶ Oynat'; aud.pause(); }
+    draw(); requestAnimationFrame(loop);
+  }
+  $('play').onclick = () => {
+    playing = !playing; $('play').textContent = playing ? '❚❚ Duraklat' : '▶ Oynat';
+    if (playing) { last = performance.now(); aud.currentTime = t; aud.playbackRate = speed; if (!muted) aud.play().catch(() => {}); requestAnimationFrame(loop); } else aud.pause();
+  };
+  $('restart').onclick = () => seek(0);
+  $('t').oninput = e => seek(+e.target.value);
+  $('speed').onchange = e => { speed = +e.target.value; aud.playbackRate = speed; };
+  $('cap').onchange = e => { E.captions = e.target.value; draw(); };
+  $('snd').onclick = () => { muted = !muted; $('snd').textContent = muted ? '🔇' : '🔊'; if (muted) aud.pause(); else if (playing) aud.play(); };
+  window.addEventListener('keydown', e => { if (e.code === 'Space') { e.preventDefault(); $('play').click(); } if (e.code === 'ArrowRight') seek(t + 2); if (e.code === 'ArrowLeft') seek(t - 2); });
+  draw();
+}
+</script>
+</body></html>

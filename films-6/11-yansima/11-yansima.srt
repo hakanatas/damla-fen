@@ -1,0 +1,140 @@
+1
+00:00:05,550 --> 00:00:14,068
+Merhaba! Ben Damla. Bu gece Ay çok parlak.
+Peki Ay bir ışık kaynağı mıdır?
+
+2
+00:00:14,918 --> 00:00:20,733
+Hayır! Güneş’ten gelen ışık Ay’ın yüzeyine
+çarpıp gözümüze gelir.
+
+3
+00:00:21,783 --> 00:00:27,057
+Işığın bir yüzeye çarpıp geri dönmesine
+yansıma denir.
+
+4
+00:00:28,107 --> 00:00:35,543
+Saatimin camı duvara bir ışık lekesi
+düşürdü. Saati eğince leke kayıyor. Neden?
+
+5
+00:00:36,393 --> 00:00:41,667
+Dikkat! Yansıyan güneş ışığını asla
+kimsenin gözüne tutma.
+
+6
+00:00:42,517 --> 00:00:48,332
+Bir deney yapalım: düzgün ve buruşturulmuş
+iki alüminyum folyo.
+
+7
+00:00:48,882 --> 00:00:53,616
+Düzgün folyoda görüntümü görüyorum,
+buruşuk folyoda göremiyorum.
+
+8
+00:00:54,466 --> 00:00:59,200
+İkisine de aynı açıdan el feneri tutalım.
+
+9
+00:00:59,550 --> 00:01:04,284
+Düzgün yüzeyde ışınlar paralel yansıdı:
+düzgün yansıma.
+
+10
+00:01:05,134 --> 00:01:10,408
+Pürüzlü yüzeyde ışınlar farklı yönlere
+dağıldı: dağınık yansıma.
+
+11
+00:01:11,458 --> 00:01:14,570
+Gözlemlerimi bir tabloya kaydedeyim.
+
+12
+00:01:19,958 --> 00:01:27,394
+Ayna ve durgun su düzgün yansıtır. Kâğıt,
+duvar ve kumaş dağınık yansıtır.
+
+13
+00:01:28,244 --> 00:01:32,978
+Dağınık yansıma sayesinde cisimleri her
+yerden görebiliriz.
+
+14
+00:01:34,028 --> 00:01:39,302
+Şimdi bir aynada tek bir ışının yolunu
+izleyelim.
+
+15
+00:01:39,752 --> 00:01:45,567
+Aynaya gelene gelen ışın, aynadan dönene
+yansıyan ışın denir.
+
+16
+00:01:46,417 --> 00:01:51,151
+Çarpma noktasından yüzeye dik çizgi:
+yüzeyin normali.
+
+17
+00:01:52,001 --> 00:01:59,101
+Gelen ışınla normal arasında gelme açısı,
+yansıyan ışınla normal arasında yansıma
+
+18
+00:01:59,101 --> 00:01:59,978
+açısı var.
+
+19
+00:02:01,028 --> 00:02:05,762
+Işık kaynağını döndürüp iki açıyı da
+ölçelim.
+
+20
+00:02:06,112 --> 00:02:10,846
+Otuz derece... kırk beş derece... altmış
+derece...
+
+21
+00:02:16,612 --> 00:02:21,346
+Her denemede gelme açısı, yansıma açısına
+eşit!
+
+22
+00:02:22,196 --> 00:02:27,470
+Gelen ve yansıyan ışın, normalin iki
+farklı yanındadır.
+
+23
+00:02:28,520 --> 00:02:36,497
+Pürüzlü yüzeyde de her ışın bu kurala
+uyar. Ama her noktanın normali farklıdır.
+
+24
+00:02:37,347 --> 00:02:44,243
+Bu yüzden ışınlar dağılır. Saat eğilince
+de normal döner, leke kayar!
+
+25
+00:02:45,293 --> 00:02:48,405
+Bulduklarımı gözlem defterime kaydedeyim.
+
+26
+00:02:56,293 --> 00:03:02,641
+Sıra sende! Ayna ve el feneriyle üç açı
+dene, sonuçları arkadaşlarınla
+
+27
+00:03:02,641 --> 00:03:03,729
+karşılaştır.
+
+28
+00:03:04,579 --> 00:03:10,394
+Araştır: Spot lambaların çanağı neden
+parlak ve pürüzlü yapılır?
+
+29
+00:03:11,244 --> 00:03:15,978
+Sıradaki gözlemim: düz, çukur ve tümsek
+aynalar!
+

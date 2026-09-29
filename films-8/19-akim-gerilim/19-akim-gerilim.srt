@@ -1,0 +1,205 @@
+1
+00:00:05,550 --> 00:00:10,786
+Anahtarı kapatınca ampul yanıyor. Peki
+kabloların içinde neler oluyor?
+
+2
+00:00:11,236 --> 00:00:17,570
+Arkadaşlarımla beyin fırtınası yaptık. Bir
+şey mi akıyor? Pil neyi itiyor? Bunu
+
+3
+00:00:17,570 --> 00:00:18,853
+ölçebilir miyiz?
+
+4
+00:00:19,703 --> 00:00:25,313
+Devre kapalıyken elektrik yükleri kablolar
+boyunca düzenli hareket eder. Buna
+
+5
+00:00:25,313 --> 00:00:26,843
+elektrik akımı denir.
+
+6
+00:00:27,293 --> 00:00:34,439
+Anahtar açılınca akım durur. Akımın yönü,
+dış devrede pilin + ucundan − ucuna doğru
+
+7
+00:00:34,439 --> 00:00:35,386
+gösterilir.
+
+8
+00:00:36,236 --> 00:00:41,749
+Güvenlik: Yalnızca pil kullanırım.
+Ampermetreyi asla doğrudan pilin uçlarına
+
+9
+00:00:41,749 --> 00:00:43,853
+bağlamam; bu kısa devre olur!
+
+10
+00:00:44,903 --> 00:00:50,605
+Akımın büyüklüğünü ampermetre ile ölçeriz.
+Ampermetre, devreye akımın yolu üzerinde
+
+11
+00:00:50,605 --> 00:00:51,567
+seri bağlanır.
+
+12
+00:00:52,217 --> 00:00:58,882
+İki pil ve bir ampulle ölçtüm: 0,30 amper.
+Akımın birimi amperdir, A harfiyle
+
+13
+00:00:58,882 --> 00:00:59,834
+gösterilir.
+
+14
+00:01:00,484 --> 00:01:06,672
+Ampermetreyi seri devrenin başka bir
+yerine taktım. Okunan değer yine aynı!
+
+15
+00:01:07,322 --> 00:01:13,944
+Deneyi tekrarladım. İkinci ampulü seri
+bağlayınca da, pili bire indirince de akım
+
+16
+00:01:13,944 --> 00:01:15,415
+0,20 ampere düştü.
+
+17
+00:01:16,322 --> 00:01:21,755
+Operasyonel tanımım: Elektrik akımı,
+ampermetre ile ölçülen ve birimi amper
+
+18
+00:01:21,755 --> 00:01:22,986
+olan büyüklüktür.
+
+19
+00:01:24,036 --> 00:01:30,336
+Peki pil ne yapıyor? Pil, uçları arasında
+bir potansiyel fark, yani gerilim
+
+20
+00:01:30,336 --> 00:01:31,176
+oluşturur.
+
+21
+00:01:31,626 --> 00:01:37,933
+Bir benzetme: Seviye farkı varsa su akar.
+Gerilim de yüklerin devrede hareket
+
+22
+00:01:37,933 --> 00:01:39,243
+etmesini sağlar.
+
+23
+00:01:39,893 --> 00:01:45,448
+Gerilimi voltmetre ile ölçeriz. Voltmetre,
+ölçülecek elemanın iki ucuna paralel
+
+24
+00:01:45,448 --> 00:01:46,081
+bağlanır.
+
+25
+00:01:46,893 --> 00:01:54,510
+Tek ampulle pil sayısını değiştirdim. Bir
+pille 1,5 volt, iki pille 3,0 volt ölçtüm.
+
+26
+00:01:55,160 --> 00:02:01,464
+Tanımım: Gerilim, voltmetre ile ölçülen ve
+birimi volt olan büyüklüktür. V harfiyle
+
+27
+00:02:01,464 --> 00:02:02,300
+gösterilir.
+
+28
+00:02:03,350 --> 00:02:08,954
+Yeni sorum: Bir elemanın uçlarındaki
+gerilim artınca, üzerinden geçen akım
+
+29
+00:02:08,954 --> 00:02:10,014
+nasıl değişir?
+
+30
+00:02:10,464 --> 00:02:17,124
+Ampul de bir dirençtir, ama teli ısındıkça
+direnci değişir. Bu yüzden sabit bir
+
+31
+00:02:17,124 --> 00:02:18,557
+direnç kullandım.
+
+32
+00:02:19,207 --> 00:02:24,570
+Ampermetre seri, voltmetre direncin
+uçlarına paralel. Pil sayısını birer birer
+
+33
+00:02:24,570 --> 00:02:25,395
+artırıyorum.
+
+34
+00:02:26,207 --> 00:02:30,967
+Ölçümlerimi tabloya kaydettim. Gerilim
+arttıkça akım da artıyor.
+
+35
+00:02:34,707 --> 00:02:42,177
+Örüntü: Gerilim iki katına çıkınca akım da
+iki katına çıkıyor. Gerilimin akıma oranı
+
+36
+00:02:42,177 --> 00:02:42,800
+hep 30!
+
+37
+00:02:43,650 --> 00:02:48,743
+Verileri grafiğe geçirdim. Noktalar,
+başlangıç noktasından geçen bir doğru
+
+38
+00:02:48,743 --> 00:02:49,362
+üzerinde.
+
+39
+00:02:51,650 --> 00:02:57,205
+Genelleme: Bir iletkenin uçları arasındaki
+gerilimin, içinden geçen akıma oranı
+
+40
+00:02:57,205 --> 00:02:57,838
+sabittir.
+
+41
+00:02:59,650 --> 00:03:06,696
+Bu sabit orana direnç denir. Direnç =
+Gerilim ÷ Akım. Birimi ohmdur, Ω ile
+
+42
+00:03:06,696 --> 00:03:07,743
+gösterilir.
+
+43
+00:03:08,793 --> 00:03:15,479
+Sıra sende! Grubunla ölç, tabloya ve
+grafiğe kaydet, raporla. Georg Simon Ohm’u
+
+44
+00:03:15,479 --> 00:03:16,410
+da araştır!
+
+45
+00:03:17,793 --> 00:03:21,600
+Sıradaki gözlemim: Kendi aydınlatma
+aracımı tasarlamak.
+

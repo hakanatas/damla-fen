@@ -1,0 +1,161 @@
+1
+00:00:05,550 --> 00:00:12,477
+Merhaba, ben Damla! Aynı büyüklükte iki
+küpüm var: biri tahta, biri demir.
+
+2
+00:00:12,477 --> 00:00:14,068
+Teraziye koyalım.
+
+3
+00:00:14,618 --> 00:00:20,973
+Demir ağır bastı! Hacimleri aynı ama
+kütleleri farklı. Neden acaba?
+
+4
+00:00:21,823 --> 00:00:28,774
+Önce ölçelim. Kütleyi eşit kollu terazide
+gram (g), sıvı hacmini dereceli silindirde
+
+5
+00:00:28,774 --> 00:00:31,422
+santimetreküp (cm³) ile ölçeriz.
+
+6
+00:00:32,272 --> 00:00:40,790
+Taş sol kefede, kütleler sağ kefede: 50,
+52, 54... Denge! Taşın kütlesi 54 g.
+
+7
+00:00:41,440 --> 00:00:51,107
+Silindirde 50 cm³ su var. Taşı bırakınca
+70 cm³ oldu. Son hacim eksi ilk hacim: 20
+
+8
+00:00:51,107 --> 00:00:51,579
+cm³.
+
+9
+00:00:52,229 --> 00:00:58,835
+Dikkat: Cisim silindire sığmalı, su
+taşmamalı. Taşırma kabında ise taşan su,
+
+10
+00:00:58,835 --> 00:01:00,747
+cismin hacmi kadardır.
+
+11
+00:01:01,397 --> 00:01:12,221
+Aynı demirden bir küp: 10 cm³, 79 g. İki
+küp: 20 cm³, 158 g. Hacim iki katı, kütle
+
+12
+00:01:12,221 --> 00:01:12,617
+de!
+
+13
+00:01:13,267 --> 00:01:22,707
+Kütlenin hacme bölümü hep 7,9. Bu orana
+yoğunluk denir. Taşınki ise 54 ÷ 20 = 2,7
+
+14
+00:01:22,707 --> 00:01:23,406
+g/cm³.
+
+15
+00:01:24,267 --> 00:01:32,138
+Bir önerme: “Büyük cisim daha yoğundur.”
+Veriye dayanmıyor. Sınayalım: büyük tahta
+
+16
+00:01:32,138 --> 00:01:33,866
+blok 30 g, 60 cm³.
+
+17
+00:01:34,516 --> 00:01:40,221
+Tahtanın yoğunluğu 0,5 g/cm³, küçük
+demirinki 7,9 g/cm³! Önerme geçersiz.
+
+18
+00:01:40,221 --> 00:01:43,034
+Yoğunluk, maddenin cinsine bağlıdır.
+
+19
+00:01:44,516 --> 00:01:50,387
+Hipotezim: “Farklı cins sıvıların
+yoğunlukları farklıdır.” 100’er cm³ su ve
+
+20
+00:01:50,387 --> 00:01:51,952
+zeytinyağı tartalım.
+
+21
+00:01:52,602 --> 00:02:03,555
+Boş kap 50 g. Suyla 150 g, yağla 142 g.
+Kabın kütlesini çıkarınca su 100 g, yağ 92
+
+22
+00:02:03,555 --> 00:02:03,822
+g.
+
+23
+00:02:04,472 --> 00:02:12,990
+Su: 100 ÷ 100 = 1 g/cm³. Zeytinyağı: 92 ÷
+100 = 0,92 g/cm³.
+
+24
+00:02:13,640 --> 00:02:20,536
+Aynı kaba dökünce az yoğun olan yağ üstte
+kaldı. Hipotez doğrulandı!
+
+25
+00:02:21,640 --> 00:02:27,656
+Deneyden sonra yağı lavaboya dökmem!
+Biriktirip geri dönüşüm için ilgili
+
+26
+00:02:27,656 --> 00:02:29,076
+kuruluşa veririm.
+
+27
+00:02:30,140 --> 00:02:37,907
+Katılar suda nasıl konumlanır? Kural:
+Sudan az yoğun olan yüzer, daha yoğun olan
+
+28
+00:02:37,907 --> 00:02:40,820
+batar, eşit olan askıda kalır.
+
+29
+00:02:41,470 --> 00:02:48,906
+Tahta 0,5: yüzer. Taş 2,7 ve demir 7,9:
+batar. Deneyince tahminler tuttu!
+
+30
+00:02:49,970 --> 00:02:56,730
+Yeni durum: Mumun yoğunluğu yaklaşık 0,9
+g/cm³. Kurala göre yüzmeli... Gerçekten
+
+31
+00:02:56,730 --> 00:02:57,406
+yüzüyor!
+
+32
+00:02:58,156 --> 00:03:01,268
+Bulduklarımı gözlem defterime
+kaydediyorum.
+
+33
+00:03:07,656 --> 00:03:14,525
+Sıra sende! Suda çözünmeyen üç cismin
+yoğunluğunu hesapla, suda konumlarını
+
+34
+00:03:14,525 --> 00:03:16,174
+tahmin et ve dene.
+
+35
+00:03:17,224 --> 00:03:21,958
+Sıradaki gözlemim: Buz neden suyun üstünde
+yüzer?
+

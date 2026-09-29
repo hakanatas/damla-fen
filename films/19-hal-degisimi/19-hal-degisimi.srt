@@ -1,0 +1,135 @@
+1
+00:00:05,550 --> 00:00:11,794
+Günaydın! Bu sabah pencerede donmuş olarak
+uyandım. Buz olmuşum!
+
+2
+00:00:12,644 --> 00:00:18,888
+Güneş beni ısıttı. Isı aldım ve yeniden
+sıvı oldum!
+
+3
+00:00:20,138 --> 00:00:28,147
+Buradan bir önerme çıkardım: Maddeler ısı
+alınca ya da verince hâl değiştirebilir.
+
+4
+00:00:28,997 --> 00:00:35,829
+Ama bu önerim yalnızca günlük deneyimime
+dayanıyor. Hiç ölçüm yapmadım.
+
+5
+00:00:36,679 --> 00:00:42,335
+Bilimsel gözlem için ölçmeli, kaydetmeli
+ve deneyi tekrarlayabilmeliyim.
+
+6
+00:00:43,585 --> 00:00:49,829
+Sınıfta bir gösteri deneyi izleyeceğiz.
+Isıtıcıyı yalnızca öğretmenim kullanacak!
+
+7
+00:00:50,479 --> 00:00:56,135
+Isıtıcı, sıcak kap ve buhar yakar. Asla
+dokunmayız!
+
+8
+00:00:57,185 --> 00:01:03,130
+Beherdeki buzu ısıtıyoruz. Her iki
+dakikada sıcaklığı ölçüp tabloya
+
+9
+00:01:03,130 --> 00:01:04,017
+yazıyorum.
+
+10
+00:01:04,867 --> 00:01:10,523
+Buz ısınıyor: eksi on derece... eksi
+beş... sıfır!
+
+11
+00:01:11,173 --> 00:01:19,182
+Buz eriyor. Isı almaya devam ediyor ama
+sıcaklık 0 °C’de sabit kalıyor!
+
+12
+00:01:20,232 --> 00:01:27,775
+Buz bitti, su ısınıyor. Yüzeyden buhar
+yükseliyor: buharlaşma. Bu, her sıcaklıkta
+
+13
+00:01:27,775 --> 00:01:28,241
+olur.
+
+14
+00:01:29,291 --> 00:01:37,300
+Yaklaşık 100 °C’de su kaynıyor. Isı almaya
+devam ediyor, sıcaklık yine sabit!
+
+15
+00:01:38,750 --> 00:01:45,582
+Verilerimi grafiğe döktüm. Erime ve
+kaynama boyunca sıcaklık sabit kalıyor.
+
+16
+00:01:48,750 --> 00:01:57,347
+Tersi de olur: Su ısı verince 0 °C’de
+donar. Donarken sıcaklık sabit kalır.
+
+17
+00:01:58,197 --> 00:02:06,206
+Su buharı soğuk bir yüzeye değip ısı
+verince su damlacıklarına döner: yoğuşma.
+
+18
+00:02:07,056 --> 00:02:14,246
+Bazı katılar sıvı olmadan doğrudan gaza
+dönüşür: süblimleşme. Naftalin buna bir
+
+19
+00:02:14,246 --> 00:02:15,065
+örnektir.
+
+20
+00:02:15,915 --> 00:02:22,747
+Soğuk gecelerde su buharı da doğrudan buza
+dönüşebilir. Bu, kırağılaşmadır.
+
+21
+00:02:23,597 --> 00:02:31,018
+İşte akış şemam: Isı alınca bir yöne, ısı
+verince ters yöne!
+
+22
+00:02:32,468 --> 00:02:40,477
+Gözlemlemediğim bir durumu tahmin edeyim:
+Serin bir günde ıslak çamaşır kurur mu?
+
+23
+00:02:41,127 --> 00:02:48,548
+Tahminim: Kurur! Çünkü buharlaşma her
+sıcaklıkta olur. Ama daha yavaş kurur.
+
+24
+00:02:49,398 --> 00:02:57,407
+Tahminim geçerli mi? İki ıslak bezi serin
+ve ılık yerde kurutup karşılaştırmalıyım.
+
+25
+00:02:58,657 --> 00:03:01,960
+Bulgularımı gözlem defterime kaydedeyim.
+
+26
+00:03:09,657 --> 00:03:17,394
+Sıra sende! Buzdolabından çıkan şişenin
+dışı neden ıslanır? Önce tahmin et, sonra
+
+27
+00:03:17,394 --> 00:03:18,254
+gözlemle.
+
+28
+00:03:19,504 --> 00:03:24,572
+Sıradaki gözlemim: Hangi maddeler ısıyı
+iyi iletir?
+

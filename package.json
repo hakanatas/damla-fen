@@ -1,0 +1,13 @@
+{
+  "name": "damla-fen",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Damla'nın Gözlem Defteri — Maarif Modeli Fen Bilimleri için prosedürel mürekkep animasyonları",
+  "scripts": {
+    "tts": "python3 tools/tts.py films/01-gunes",
+    "audio": "python3 tools/audio.py films/01-gunes",
+    "export": "node tools/export.js films/01-gunes",
+    "preview": "npx http-server -p 8080 -c-1 ."
+  },
+  "dependencies": { "playwright": "^1.56.0" }
+}

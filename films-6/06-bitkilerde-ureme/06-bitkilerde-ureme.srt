@@ -1,0 +1,174 @@
+1
+00:00:05,550 --> 00:00:11,905
+Merhaba! Bir çiçek nasıl olur da meyveye
+ve tohuma dönüşür?
+
+2
+00:00:12,555 --> 00:00:18,757
+Bitkileri çiçekli ve çiçeksiz diye
+ayırabiliriz. Eğrelti otu ve kara yosunu
+
+3
+00:00:18,757 --> 00:00:21,073
+çiçeksiz bitkilere örnektir.
+
+4
+00:00:21,923 --> 00:00:28,278
+Çiçekli bir bitkinin temel kısımları kök,
+gövde, yaprak ve çiçektir.
+
+5
+00:00:29,923 --> 00:00:35,829
+Çanak yapraklar tomurcuğu korur, taç
+yapraklar böcekleri çeker. Erkek organın
+
+6
+00:00:35,829 --> 00:00:37,900
+başçığında polenler oluşur.
+
+7
+00:00:38,550 --> 00:00:44,544
+Dişi organ; tepecik, dişicik borusu ve
+yumurtalıktan oluşur. Yumurtalıkta tohum
+
+8
+00:00:44,544 --> 00:00:45,986
+taslakları bulunur.
+
+9
+00:00:46,836 --> 00:00:54,278
+Polenlerin tepeciğe taşınmasına tozlaşma
+denir. Rüzgâr, su ya da arı gibi hayvanlar
+
+10
+00:00:54,278 --> 00:00:55,354
+polen taşır.
+
+11
+00:00:56,836 --> 00:01:03,191
+Sonra döllenme olur. Yumurtalık meyveye,
+tohum taslakları da tohuma dönüşür.
+
+12
+00:01:05,836 --> 00:01:13,323
+Tohum çimlenir, fide olur, büyür, çiçek
+açar ve yeniden tohum verir. Bu, bitkinin
+
+13
+00:01:13,323 --> 00:01:14,894
+yaşam döngüsüdür.
+
+14
+00:01:16,836 --> 00:01:24,071
+Büyüme ve gelişme için su, ışık, uygun
+sıcaklık, hava ve topraktaki mineraller
+
+15
+00:01:24,071 --> 00:01:24,813
+gerekir.
+
+16
+00:01:25,463 --> 00:01:31,914
+Bir hafta boyunca iki fasulye fidesinin
+boyunu ölçtüm: biri ışıkta, biri
+
+17
+00:01:31,914 --> 00:01:32,899
+karanlıkta.
+
+18
+00:01:35,463 --> 00:01:43,139
+Şaşırtıcı! Karanlıktaki fide daha uzun,
+ama soluk ve cılız. Işıktaki fide yeşil ve
+
+19
+00:01:43,139 --> 00:01:43,981
+sağlıklı.
+
+20
+00:01:44,831 --> 00:01:51,138
+Çiçek koparmak, ağaç kesmek, kirlilik
+bitkilere zarar verir. Doğaya duyarlı
+
+21
+00:01:51,138 --> 00:01:51,727
+olalım!
+
+22
+00:01:52,777 --> 00:01:59,673
+Tohumun çimlenmesi için ne gerekir?
+Hipotezlerim: Su gerekir. Işık da gerekir.
+
+23
+00:02:01,777 --> 00:02:09,752
+Üç kap hazırladım. A: ıslak pamuk, ışıkta.
+B: kuru pamuk, ışıkta. C: ıslak pamuk,
+
+24
+00:02:09,752 --> 00:02:10,835
+karanlıkta.
+
+25
+00:02:11,777 --> 00:02:17,157
+Değiştirdiğim su ve ışık, bağımsız
+değişkendir. Gözlediğim çimlenme ise
+
+26
+00:02:17,157 --> 00:02:18,673
+bağımlı değişkendir.
+
+27
+00:02:20,777 --> 00:02:27,950
+Tohum cinsi ve sayısı, pamuk miktarı ve
+sıcaklık hep aynı. Bunlar kontrol edilen
+
+28
+00:02:27,950 --> 00:02:29,295
+değişkenlerdir.
+
+29
+00:02:30,145 --> 00:02:35,419
+Her gün aynı saatte gözledim, çizdim ve
+kaydettim.
+
+30
+00:02:38,645 --> 00:02:43,379
+A ve C çimlendi, kuru B çimlenmedi.
+
+31
+00:02:44,029 --> 00:02:50,495
+Su hipotezim doğrulandı. Işık hipotezim
+ise çürütüldü: fasulye tohumu karanlıkta
+
+32
+00:02:50,495 --> 00:02:51,465
+da çimlenir!
+
+33
+00:02:52,515 --> 00:02:57,632
+Oksijen de gerekir; bunu sınıfta
+deneyemediğimiz için öğretmenimiz
+
+34
+00:02:57,632 --> 00:02:58,330
+açıkladı.
+
+35
+00:02:59,180 --> 00:03:06,616
+Önermem: Fasulye tohumu su, uygun sıcaklık
+ve oksijen olunca çimlenir; ışık gerekmez.
+
+36
+00:03:08,180 --> 00:03:15,709
+Sıra sende! Grubunla bir düzenek kur.
+Yalnızca sıcaklığı değiştir, gerisini aynı
+
+37
+00:03:15,709 --> 00:03:17,779
+tut ve her gün kaydet.
+
+38
+00:03:18,629 --> 00:03:23,363
+Sıradaki gözlemim: hayvanlarda üreme,
+büyüme ve gelişme.
+

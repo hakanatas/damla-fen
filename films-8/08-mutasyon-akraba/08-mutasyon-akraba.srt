@@ -1,0 +1,199 @@
+1
+00:00:05,550 --> 00:00:09,964
+Büyüklerimizden bize genlerle pek çok
+özellik aktarılır. Peki akraba
+
+2
+00:00:09,964 --> 00:00:12,690
+evliliklerinin genetik sonuçları nelerdir?
+
+3
+00:00:13,550 --> 00:00:19,262
+Sınıfta üç fikir çıktı. Hepsini not
+ediyorum; sonra kanıtlarla sınayacağım.
+
+4
+00:00:22,050 --> 00:00:28,714
+Bazı kalıtsal hastalıklara çekinik bir
+alel yol açar. Ona küçük "a" diyelim.
+
+5
+00:00:29,264 --> 00:00:34,056
+Aa genotipli kişi sağlıklı ama
+taşıyıcıdır. Hastalık yalnızca aa
+
+6
+00:00:34,056 --> 00:00:35,928
+genotipinde ortaya çıkar.
+
+7
+00:00:37,764 --> 00:00:43,000
+Bir aile ağacı çizelim. En üstteki
+büyükbaba taşıyıcı olsun.
+
+8
+00:00:43,450 --> 00:00:49,638
+Alel çocuklara ve torunlara geçebilir. İki
+kuzen aynı aleli almış olabilir.
+
+9
+00:00:50,950 --> 00:00:56,963
+Akrabalar ortak atalardan gen aldığı için
+aynı çekinik aleli taşıma olasılıkları
+
+10
+00:00:56,963 --> 00:00:58,090
+daha yüksektir.
+
+11
+00:00:58,940 --> 00:01:04,652
+İki taşıyıcı ebeveyn düşünelim: Aa ile Aa.
+Çaprazlama tablosunu dolduralım.
+
+12
+00:01:06,940 --> 00:01:13,333
+Her çocuk için aa olma olasılığı dörtte
+birdir. Dörtte üç olasılıkla hastalık
+
+13
+00:01:13,333 --> 00:01:14,080
+görülmez.
+
+14
+00:01:14,930 --> 00:01:20,053
+Fikirleri sınayalım. Birinci fikir
+tutarsız: olasılık, her çocukta görüleceği
+
+15
+00:01:20,053 --> 00:01:21,118
+anlamına gelmez.
+
+16
+00:01:21,768 --> 00:01:27,050
+İkinci fikir de tutarsız: akraba
+olmayanlarda da daha düşük olasılıkla
+
+17
+00:01:27,050 --> 00:01:27,956
+görülebilir.
+
+18
+00:01:28,606 --> 00:01:33,327
+Araştırmalar da akraba evliliklerinde bazı
+kalıtsal hastalıkların daha sık
+
+19
+00:01:33,327 --> 00:01:34,794
+görüldüğünü gösteriyor.
+
+20
+00:01:36,106 --> 00:01:41,018
+Üçüncü fikir geçerli: Akraba evliliği,
+çekinik kalıtsal hastalıkların görülme
+
+21
+00:01:41,018 --> 00:01:42,294
+olasılığını artırır.
+
+22
+00:01:42,944 --> 00:01:48,779
+Bu bir olasılık bilgisidir, kimseyi
+suçlamaz. Kalıtsal hastalığı olan herkes
+
+23
+00:01:48,779 --> 00:01:50,084
+saygıyı hak eder.
+
+24
+00:01:50,934 --> 00:01:56,474
+Bir belgeselde bembeyaz bir sincap gördüm.
+Kardeşleri kahverengiydi. Bu nasıl
+
+25
+00:01:56,474 --> 00:01:57,122
+olabilir?
+
+26
+00:01:58,434 --> 00:02:04,471
+Araç seçiyorum: güvenilir genel ağ
+adresleri, basılı kaynaklar ve bir uzmanla
+
+27
+00:02:04,471 --> 00:02:05,098
+görüşme.
+
+28
+00:02:06,434 --> 00:02:11,127
+İlk bulgum: DNA’da oluşan kalıcı
+değişikliklere mutasyon denir. Beyaz
+
+29
+00:02:11,127 --> 00:02:14,527
+sincapta renk genlerinden birinde mutasyon
+vardır.
+
+30
+00:02:15,434 --> 00:02:20,512
+Mutasyon kendiliğinden de olabilir.
+Radyasyon, aşırı güneş ışığı ve bazı
+
+31
+00:02:20,512 --> 00:02:23,051
+kimyasallar ise olasılığını artırır.
+
+32
+00:02:24,434 --> 00:02:28,241
+Vücut hücresinde oluşan mutasyon yavruya
+aktarılmaz.
+
+33
+00:02:28,691 --> 00:02:33,927
+Üreme hücresinde oluşan mutasyon ise
+kalıtsaldır; yavru bireye aktarılabilir.
+
+34
+00:02:34,977 --> 00:02:39,757
+Mutasyonların etkisi farklıdır: bazıları
+zararlıdır, birçoğunun belirgin etkisi
+
+35
+00:02:39,757 --> 00:02:42,117
+olmaz, bazıları ise yarar sağlayabilir.
+
+36
+00:02:43,977 --> 00:02:47,597
+Bulduklarımı farklı kaynaklarla
+karşılaştırıp arkadaşlarımla tartışarak
+
+37
+00:02:47,597 --> 00:02:48,260
+doğruluyorum.
+
+38
+00:02:48,910 --> 00:02:53,052
+Dengeli beslenmek, güneşten korunmak,
+zararlı maddeler kullanmamak ve
+
+39
+00:02:53,052 --> 00:02:55,574
+kimyasallardan korunmak sağlığımızı korur.
+
+40
+00:02:57,410 --> 00:03:00,265
+Bulduklarımı gözlem defterime
+kaydediyorum.
+
+41
+00:03:06,410 --> 00:03:12,439
+Sıra sende! Güvenilir kaynaklardan
+mutasyon hakkında bilgi topla ve bir afiş
+
+42
+00:03:12,439 --> 00:03:13,074
+hazırla.
+
+43
+00:03:14,410 --> 00:03:19,170
+Sıradaki gözlemim: Canlılar yaşadıkları
+çevreye nasıl uyum sağlar?
+

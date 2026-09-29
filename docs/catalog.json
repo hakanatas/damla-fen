@@ -1,0 +1,992 @@
+[
+ {
+  "g": 5,
+  "n": 1,
+  "slug": "01-gunes",
+  "title": "Gökyüzündeki Komşumuz: Güneş",
+  "outcome": "FB.5.1.1 Güneş'in yapısı ve dönme hareketi ile ilgili bilgi toplayabilme",
+  "dur": 273,
+  "file": "videolar/Damla_01-gunes.mp4",
+  "srt": "videolar/Damla_01-gunes.srt"
+ },
+ {
+  "g": 5,
+  "n": 2,
+  "slug": "02-ay",
+  "title": "Gökyüzündeki Komşumuz: Ay",
+  "outcome": "FB.5.1.2 Ay'ın özellikleri, dönme ve dolanma hareketleri ile ilgili bilimsel çıkarım yapabilme",
+  "dur": 209,
+  "file": "videolar/Damla_02-ay.mp4",
+  "srt": "videolar/Damla_02-ay.srt"
+ },
+ {
+  "g": 5,
+  "n": 3,
+  "slug": "03-ay-evreleri",
+  "title": "Ay’ın Evreleri",
+  "outcome": "FB.5.1.3 Ay'ın evrelerini temsil eden bilimsel model oluşturabilme",
+  "dur": 184,
+  "file": "videolar/Damla_03-ay-evreleri.mp4",
+  "srt": "videolar/Damla_03-ay-evreleri.srt"
+ },
+ {
+  "g": 5,
+  "n": 4,
+  "slug": "04-gunes-dunya-ay",
+  "title": "Güneş, Dünya ve Ay",
+  "outcome": "FB.5.1.4 Güneş, Dünya ve Ay'ın birbirlerine göre hareketlerini ve hacimsel büyüklüklerini temsil eden bilimsel model oluşturabilme",
+  "dur": 199,
+  "file": "videolar/Damla_04-gunes-dunya-ay.mp4",
+  "srt": "videolar/Damla_04-gunes-dunya-ay.srt"
+ },
+ {
+  "g": 5,
+  "n": 5,
+  "slug": "05-kuvvet-olcme",
+  "title": "Kuvveti Ölçelim: Dinamometre",
+  "outcome": "FB.5.2.1 Kuvveti büyüklüğü ile operasyonel tanımlayabilme",
+  "dur": 209,
+  "file": "videolar/Damla_05-kuvvet-olcme.mp4",
+  "srt": "videolar/Damla_05-kuvvet-olcme.srt"
+ },
+ {
+  "g": 5,
+  "n": 6,
+  "slug": "06-dinamometre-modeli",
+  "title": "Kendi Dinamometremi Tasarlıyorum",
+  "outcome": "FB.5.2.2 Basit araç gereçle bilimsel bir dinamometre modeli oluşturabilme",
+  "dur": 190,
+  "file": "videolar/Damla_06-dinamometre-modeli.mp4",
+  "srt": "videolar/Damla_06-dinamometre-modeli.srt"
+ },
+ {
+  "g": 5,
+  "n": 7,
+  "slug": "07-kutle-agirlik",
+  "title": "Kütle ve Ağırlık",
+  "outcome": "FB.5.2.3 Kütle ve ağırlık kavramlarını karşılaştırabilme",
+  "dur": 195,
+  "file": "videolar/Damla_07-kutle-agirlik.mp4",
+  "srt": "videolar/Damla_07-kutle-agirlik.srt"
+ },
+ {
+  "g": 5,
+  "n": 8,
+  "slug": "08-surtunme",
+  "title": "Sürtünme Kuvveti",
+  "outcome": "FB.5.2.4 Sürtünme kuvvetinin çeşitli ortamlardaki etkilerine yönelik tümevarımsal akıl yürütebilme",
+  "dur": 196,
+  "file": "videolar/Damla_08-surtunme.mp4",
+  "srt": "videolar/Damla_08-surtunme.srt"
+ },
+ {
+  "g": 5,
+  "n": 9,
+  "slug": "09-hucre",
+  "title": "Canlıların Yapı Taşı: Hücre",
+  "outcome": "FB.5.3.1 Bitki ve hayvan hücrelerini temel kısımları ve özellikleri açısından karşılaştırabilme",
+  "dur": 210,
+  "file": "videolar/Damla_09-hucre.mp4",
+  "srt": "videolar/Damla_09-hucre.srt"
+ },
+ {
+  "g": 5,
+  "n": 10,
+  "slug": "10-hucreden-organizmaya",
+  "title": "Hücreden Organizmaya",
+  "outcome": "FB.5.3.2 Hücre-doku-organ-sistem-organizma kavramlarını yapılandırabilme",
+  "dur": 177,
+  "file": "videolar/Damla_10-hucreden-organizmaya.mp4",
+  "srt": "videolar/Damla_10-hucreden-organizmaya.srt"
+ },
+ {
+  "g": 5,
+  "n": 11,
+  "slug": "11-destek-hareket",
+  "title": "Destek ve Hareket Sistemi",
+  "outcome": "FB.5.3.3 Destek ve hareket sistemine ait yapıları sınıflandırabilme",
+  "dur": 186,
+  "file": "videolar/Damla_11-destek-hareket.mp4",
+  "srt": "videolar/Damla_11-destek-hareket.srt"
+ },
+ {
+  "g": 5,
+  "n": 12,
+  "slug": "12-destek-hareket-saglik",
+  "title": "Destek ve Hareket Sistemimizin Sağlığı",
+  "outcome": "FB.5.3.4 Destek ve hareket sisteminin sağlığı için yapılması gerekenler konusunda bilgi toplayabilme",
+  "dur": 168,
+  "file": "videolar/Damla_12-destek-hareket-saglik.mp4",
+  "srt": "videolar/Damla_12-destek-hareket-saglik.srt"
+ },
+ {
+  "g": 5,
+  "n": 13,
+  "slug": "13-isigin-yayilmasi",
+  "title": "Işığın Yolculuğu",
+  "outcome": "FB.5.4.1 Bir kaynaktan çıkan ışığın her yönde doğrusal bir yol izlediğini bilimsel olarak gözlemleyebilme",
+  "dur": 210,
+  "file": "videolar/Damla_13-isigin-yayilmasi.mp4",
+  "srt": "videolar/Damla_13-isigin-yayilmasi.srt"
+ },
+ {
+  "g": 5,
+  "n": 14,
+  "slug": "14-isigi-gecirme",
+  "title": "Işık Geçer mi?",
+  "outcome": "FB.5.4.2 Maddeleri ışığı geçirme durumlarına göre sınıflandırabilme",
+  "dur": 172,
+  "file": "videolar/Damla_14-isigi-gecirme.mp4",
+  "srt": "videolar/Damla_14-isigi-gecirme.srt"
+ },
+ {
+  "g": 5,
+  "n": 15,
+  "slug": "15-tam-golge",
+  "title": "Tam Gölge",
+  "outcome": "FB.5.4.3 Tam gölgeyi bilimsel olarak gözlemleyebilme",
+  "dur": 170,
+  "file": "videolar/Damla_15-tam-golge.mp4",
+  "srt": "videolar/Damla_15-tam-golge.srt"
+ },
+ {
+  "g": 5,
+  "n": 16,
+  "slug": "16-tanecikli-yapi",
+  "title": "Maddenin Tanecikli Yapısı",
+  "outcome": "FB.5.5.1 Maddeleri tanecikli, boşluklu ve hareketli yapısına göre sınıflandırabilme",
+  "dur": 210,
+  "file": "videolar/Damla_16-tanecikli-yapi.mp4",
+  "srt": "videolar/Damla_16-tanecikli-yapi.srt"
+ },
+ {
+  "g": 5,
+  "n": 17,
+  "slug": "17-isi-sicaklik",
+  "title": "Isı ve Sıcaklık Aynı Şey mi?",
+  "outcome": "FB.5.5.2 Isı ve sıcaklık kavramlarını karşılaştırabilme",
+  "dur": 202,
+  "file": "videolar/Damla_17-isi-sicaklik.mp4",
+  "srt": "videolar/Damla_17-isi-sicaklik.srt"
+ },
+ {
+  "g": 5,
+  "n": 18,
+  "slug": "18-isi-alisverisi",
+  "title": "Karışınca Ne Olur? Isı Alışverişi",
+  "outcome": "FB.5.5.3 Sıcaklığı farklı olan sıvıların karıştırılması sonucu ısı alışverişi olduğuna yönelik bilimsel çıkarım yapabilme",
+  "dur": 184,
+  "file": "videolar/Damla_18-isi-alisverisi.mp4",
+  "srt": "videolar/Damla_18-isi-alisverisi.srt"
+ },
+ {
+  "g": 5,
+  "n": 19,
+  "slug": "19-hal-degisimi",
+  "title": "Buzdan Buhara: Hâl Değişimi",
+  "outcome": "FB.5.5.4 Maddenin ısı etkisiyle hâl değiştirebileceğini bilimsel gözleme dayalı tahmin edebilme",
+  "dur": 210,
+  "file": "videolar/Damla_19-hal-degisimi.mp4",
+  "srt": "videolar/Damla_19-hal-degisimi.srt"
+ },
+ {
+  "g": 5,
+  "n": 20,
+  "slug": "20-isi-iletimi",
+  "title": "Isıyı İleten, İletmeyen",
+  "outcome": "FB.5.5.5 Maddeleri ısı iletimi bakımından sınıflandırabilme",
+  "dur": 177,
+  "file": "videolar/Damla_20-isi-iletimi.mp4",
+  "srt": "videolar/Damla_20-isi-iletimi.srt"
+ },
+ {
+  "g": 5,
+  "n": 21,
+  "slug": "21-isi-yalitimi",
+  "title": "Sıcaklığı Koruyan Ev: Isı Yalıtımı",
+  "outcome": "FB.5.5.6 Isı yalıtımını gösteren bilimsel model oluşturabilme",
+  "dur": 195,
+  "file": "videolar/Damla_21-isi-yalitimi.mp4",
+  "srt": "videolar/Damla_21-isi-yalitimi.srt"
+ },
+ {
+  "g": 5,
+  "n": 22,
+  "slug": "22-devre-elemanlari",
+  "title": "Devrenin Ortak Dili: Semboller",
+  "outcome": "FB.5.6.1 Bir elektrik devresindeki elemanları sembollerinin olup olmamasına göre sınıflandırabilme",
+  "dur": 210,
+  "file": "videolar/Damla_22-devre-elemanlari.mp4",
+  "srt": "videolar/Damla_22-devre-elemanlari.srt"
+ },
+ {
+  "g": 5,
+  "n": 23,
+  "slug": "23-devre-deneyi",
+  "title": "Şemadan Devreye: Deney Zamanı",
+  "outcome": "FB.5.6.2 Şemasını çizdiği elektrik devresine uygun deney yapabilme",
+  "dur": 187,
+  "file": "videolar/Damla_23-devre-deneyi.mp4",
+  "srt": "videolar/Damla_23-devre-deneyi.srt"
+ },
+ {
+  "g": 5,
+  "n": 24,
+  "slug": "24-ampul-parlakligi",
+  "title": "Ampulün Parlaklığı: Hipotez Kuralım",
+  "outcome": "FB.5.6.3 Bir elektrik devresindeki ampul parlaklığını etkileyen değişkenlerin neler olduğuna ilişkin hipotez oluşturabilme",
+  "dur": 178,
+  "file": "videolar/Damla_24-ampul-parlakligi.mp4",
+  "srt": "videolar/Damla_24-ampul-parlakligi.srt"
+ },
+ {
+  "g": 5,
+  "n": 25,
+  "slug": "25-geri-donusum",
+  "title": "Atıklarımızı Tanıyalım",
+  "outcome": "FB.5.7.1 Evsel atıklarda geri dönüştürülebilen ve dönüştürülemeyen maddeleri sınıflandırabilme",
+  "dur": 209,
+  "file": "videolar/Damla_25-geri-donusum.mp4",
+  "srt": "videolar/Damla_25-geri-donusum.srt"
+ },
+ {
+  "g": 5,
+  "n": 26,
+  "slug": "26-geri-donusumun-onemi",
+  "title": "Geri Dönüşüm Neden Önemli?",
+  "outcome": "FB.5.7.2 Kaynakların etkili kullanımı konusunda geri dönüşümün önemli olduğuna yönelik bilimsel çıkarım yapabilme",
+  "dur": 189,
+  "file": "videolar/Damla_26-geri-donusumun-onemi.mp4",
+  "srt": "videolar/Damla_26-geri-donusumun-onemi.srt"
+ },
+ {
+  "g": 5,
+  "n": 27,
+  "slug": "27-atik-yonetimi",
+  "title": "Atık Yönetimi ve Sıfır Atık",
+  "outcome": "FB.5.7.3 Yakın çevresinde atık yönetiminin uygulanabilirliğine ilişkin deneyimlerini yansıtabilme",
+  "dur": 205,
+  "file": "videolar/Damla_27-atik-yonetimi.mp4",
+  "srt": "videolar/Damla_27-atik-yonetimi.srt"
+ },
+ {
+  "g": 6,
+  "n": 1,
+  "slug": "01-gunes-sistemi",
+  "title": "Güneş Sistemi ve Gezegenler",
+  "outcome": "FB.6.1.1 · FB.6.1.2",
+  "dur": 195,
+  "file": "videolar-6/Damla_6sinif_01-gunes-sistemi.mp4",
+  "srt": "videolar-6/Damla_6sinif_01-gunes-sistemi.srt"
+ },
+ {
+  "g": 6,
+  "n": 2,
+  "slug": "02-tutulmalar",
+  "title": "Güneş ve Ay Tutulmaları",
+  "outcome": "FB.6.1.3 · FB.6.1.4",
+  "dur": 195,
+  "file": "videolar-6/Damla_6sinif_02-tutulmalar.mp4",
+  "srt": "videolar-6/Damla_6sinif_02-tutulmalar.srt"
+ },
+ {
+  "g": 6,
+  "n": 3,
+  "slug": "03-bileske-kuvvet",
+  "title": "Kuvvetler Bir Araya Gelince: Bileşke Kuvvet",
+  "outcome": "FB.6.2.1 · FB.6.2.2",
+  "dur": 206,
+  "file": "videolar-6/Damla_6sinif_03-bileske-kuvvet.mp4",
+  "srt": "videolar-6/Damla_6sinif_03-bileske-kuvvet.srt"
+ },
+ {
+  "g": 6,
+  "n": 4,
+  "slug": "04-surat-hiz",
+  "title": "Ne Kadar Hızlı, Hangi Yöne? Sürat ve Hız",
+  "outcome": "FB.6.2.3",
+  "dur": 182,
+  "file": "videolar-6/Damla_6sinif_04-surat-hiz.mp4",
+  "srt": "videolar-6/Damla_6sinif_04-surat-hiz.srt"
+ },
+ {
+  "g": 6,
+  "n": 5,
+  "slug": "05-ureme-cesitleri",
+  "title": "Canlılar Nasıl Çoğalır?",
+  "outcome": "FB.6.3.1 Eşeyli ve eşeysiz üremeyi karşılaştırabilme",
+  "dur": 202,
+  "file": "videolar-6/Damla_6sinif_05-ureme-cesitleri.mp4",
+  "srt": "videolar-6/Damla_6sinif_05-ureme-cesitleri.srt"
+ },
+ {
+  "g": 6,
+  "n": 6,
+  "slug": "06-bitkilerde-ureme",
+  "title": "Çiçekten Tohuma, Tohumdan Fideye",
+  "outcome": "FB.6.3.2 Bitkilerde üreme, büyüme ve gelişme hakkında bilimsel çıkarım yapabilme · FB.6.3.3 Tohumun çimlenmesine etki eden faktörlere ilişkin hipotez oluşturabilme",
+  "dur": 210,
+  "file": "videolar-6/Damla_6sinif_06-bitkilerde-ureme.mp4",
+  "srt": "videolar-6/Damla_6sinif_06-bitkilerde-ureme.srt"
+ },
+ {
+  "g": 6,
+  "n": 7,
+  "slug": "07-hayvanlarda-ureme",
+  "title": "Yumurtadan Kelebeğe: Hayvanlarda Üreme",
+  "outcome": "FB.6.3.4 Hayvanlarda üreme, büyüme ve gelişme hakkında bilimsel çıkarım yapabilme",
+  "dur": 163,
+  "file": "videolar-6/Damla_6sinif_07-hayvanlarda-ureme.mp4",
+  "srt": "videolar-6/Damla_6sinif_07-hayvanlarda-ureme.srt"
+ },
+ {
+  "g": 6,
+  "n": 8,
+  "slug": "08-insanda-ureme-ergenlik",
+  "title": "İnsanda Üreme ve Ergenlik",
+  "outcome": "FB.6.3.5 · FB.6.3.8",
+  "dur": 213,
+  "file": "videolar-6/Damla_6sinif_08-insanda-ureme-ergenlik.mp4",
+  "srt": "videolar-6/Damla_6sinif_08-insanda-ureme-ergenlik.srt"
+ },
+ {
+  "g": 6,
+  "n": 9,
+  "slug": "09-sinir-sistemi",
+  "title": "Vücudumuzun Haberleşme Ağı: Sinir Sistemi",
+  "outcome": "FB.6.3.6",
+  "dur": 170,
+  "file": "videolar-6/Damla_6sinif_09-sinir-sistemi.mp4",
+  "srt": "videolar-6/Damla_6sinif_09-sinir-sistemi.srt"
+ },
+ {
+  "g": 6,
+  "n": 10,
+  "slug": "10-ic-salgi-bezleri",
+  "title": "Kimyasal Haberciler: İç Salgı Bezleri",
+  "outcome": "FB.6.3.7 · FB.6.3.9",
+  "dur": 180,
+  "file": "videolar-6/Damla_6sinif_10-ic-salgi-bezleri.mp4",
+  "srt": "videolar-6/Damla_6sinif_10-ic-salgi-bezleri.srt"
+ },
+ {
+  "g": 6,
+  "n": 11,
+  "slug": "11-yansima",
+  "title": "Işığın Yansıması",
+  "outcome": "FB.6.4.1 · FB.6.4.2",
+  "dur": 202,
+  "file": "videolar-6/Damla_6sinif_11-yansima.mp4",
+  "srt": "videolar-6/Damla_6sinif_11-yansima.srt"
+ },
+ {
+  "g": 6,
+  "n": 12,
+  "slug": "12-aynalar",
+  "title": "Aynalar",
+  "outcome": "FB.6.4.3",
+  "dur": 172,
+  "file": "videolar-6/Damla_6sinif_12-aynalar.mp4",
+  "srt": "videolar-6/Damla_6sinif_12-aynalar.srt"
+ },
+ {
+  "g": 6,
+  "n": 13,
+  "slug": "13-sogurma-renkler",
+  "title": "Renklerin Sırrı: Soğurma ve Renkler",
+  "outcome": "FB.6.4.4 · FB.6.4.5 · FB.6.4.6 Işığın soğurulması; beyaz ışığın bileşimi; cisimlerin siyah, beyaz ve renkli görünmesi",
+  "dur": 206,
+  "file": "videolar-6/Damla_6sinif_13-sogurma-renkler.mp4",
+  "srt": "videolar-6/Damla_6sinif_13-sogurma-renkler.srt"
+ },
+ {
+  "g": 6,
+  "n": 14,
+  "slug": "14-gunes-enerjisi",
+  "title": "Güneş Enerjisinden Yararlanma",
+  "outcome": "FB.6.4.7 Güneş enerjisinin günlük hayat ve teknolojideki yenilikçi uygulamalarına ilişkin eleştirel düşünebilme",
+  "dur": 163,
+  "file": "videolar-6/Damla_6sinif_14-gunes-enerjisi.mp4",
+  "srt": "videolar-6/Damla_6sinif_14-gunes-enerjisi.srt"
+ },
+ {
+  "g": 6,
+  "n": 15,
+  "slug": "15-genlesme-buzulme",
+  "title": "Genleşme ve Büzülme",
+  "outcome": "FB.6.5.1 Isı etkisiyle maddelerin genleşip büzüleceğine yönelik bilimsel gözleme dayalı tahmin edebilme",
+  "dur": 200,
+  "file": "videolar-6/Damla_6sinif_15-genlesme-buzulme.mp4",
+  "srt": "videolar-6/Damla_6sinif_15-genlesme-buzulme.srt"
+ },
+ {
+  "g": 6,
+  "n": 16,
+  "slug": "16-erime-kaynama-noktasi",
+  "title": "Erime, Donma ve Kaynama Noktası",
+  "outcome": "FB.6.5.2 Maddelerin erime, donma ve kaynama noktasını gösteren deney yapabilme",
+  "dur": 189,
+  "file": "videolar-6/Damla_6sinif_16-erime-kaynama-noktasi.mp4",
+  "srt": "videolar-6/Damla_6sinif_16-erime-kaynama-noktasi.srt"
+ },
+ {
+  "g": 6,
+  "n": 17,
+  "slug": "17-yogunluk",
+  "title": "Aynı Hacim, Farklı Kütle: Yoğunluk",
+  "outcome": "FB.6.5.3 · FB.6.5.4",
+  "dur": 208,
+  "file": "videolar-6/Damla_6sinif_17-yogunluk.mp4",
+  "srt": "videolar-6/Damla_6sinif_17-yogunluk.srt"
+ },
+ {
+  "g": 6,
+  "n": 18,
+  "slug": "18-buz-ve-su",
+  "title": "Buz Neden Yüzer?",
+  "outcome": "FB.6.5.5 · FB.6.5.6",
+  "dur": 201,
+  "file": "videolar-6/Damla_6sinif_18-buz-ve-su.mp4",
+  "srt": "videolar-6/Damla_6sinif_18-buz-ve-su.srt"
+ },
+ {
+  "g": 6,
+  "n": 19,
+  "slug": "19-iletken-yalitkan",
+  "title": "İletken mi, Yalıtkan mı?",
+  "outcome": "FB.6.6.1 Maddelerin elektriği iletme durumlarını gösteren deney yapabilme",
+  "dur": 186,
+  "file": "videolar-6/Damla_6sinif_19-iletken-yalitkan.mp4",
+  "srt": "videolar-6/Damla_6sinif_19-iletken-yalitkan.srt"
+ },
+ {
+  "g": 6,
+  "n": 20,
+  "slug": "20-direnc",
+  "title": "Elektriksel Direnç ve Reosta",
+  "outcome": "FB.6.6.2 · FB.6.6.3 Ampulün parlaklığının bağlı olduğu değişkenler; ayarlanabilir direncin ampulün parlaklığına etkisi",
+  "dur": 197,
+  "file": "videolar-6/Damla_6sinif_20-direnc.mp4",
+  "srt": "videolar-6/Damla_6sinif_20-direnc.srt"
+ },
+ {
+  "g": 6,
+  "n": 21,
+  "slug": "21-biyocesitlilik",
+  "title": "Canlıların Zenginliği: Biyoçeşitlilik",
+  "outcome": "FB.6.7.1 · FB.6.7.2",
+  "dur": 213,
+  "file": "videolar-6/Damla_6sinif_21-biyocesitlilik.mp4",
+  "srt": "videolar-6/Damla_6sinif_21-biyocesitlilik.srt"
+ },
+ {
+  "g": 6,
+  "n": 22,
+  "slug": "22-yakitlar-cevre",
+  "title": "Isınma Yakıtları ve Çevre",
+  "outcome": "FB.6.7.3 · FB.6.7.4",
+  "dur": 213,
+  "file": "videolar-6/Damla_6sinif_22-yakitlar-cevre.mp4",
+  "srt": "videolar-6/Damla_6sinif_22-yakitlar-cevre.srt"
+ },
+ {
+  "g": 7,
+  "n": 1,
+  "slug": "01-uzay-teknolojileri",
+  "title": "Uzayı Keşfeden Teknolojiler",
+  "outcome": "FB.7.1.1 · FB.7.1.2",
+  "dur": 202,
+  "file": "videolar-7/Damla_7sinif_01-uzay-teknolojileri.mp4",
+  "srt": "videolar-7/Damla_7sinif_01-uzay-teknolojileri.srt"
+ },
+ {
+  "g": 7,
+  "n": 2,
+  "slug": "02-uzay-kirliligi",
+  "title": "Uzay Kirliliği",
+  "outcome": "FB.7.1.3",
+  "dur": 183,
+  "file": "videolar-7/Damla_7sinif_02-uzay-kirliligi.mp4",
+  "srt": "videolar-7/Damla_7sinif_02-uzay-kirliligi.srt"
+ },
+ {
+  "g": 7,
+  "n": 3,
+  "slug": "03-yildizlar-evren",
+  "title": "Yıldızlar, Galaksiler ve Evren",
+  "outcome": "FB.7.1.4 · FB.7.1.5",
+  "dur": 184,
+  "file": "videolar-7/Damla_7sinif_03-yildizlar-evren.mp4",
+  "srt": "videolar-7/Damla_7sinif_03-yildizlar-evren.srt"
+ },
+ {
+  "g": 7,
+  "n": 4,
+  "slug": "04-fiziksel-is",
+  "title": "Her Çaba İş mi? Fiziksel Anlamda İş",
+  "outcome": "FB.7.2.1",
+  "dur": 197,
+  "file": "videolar-7/Damla_7sinif_04-fiziksel-is.mp4",
+  "srt": "videolar-7/Damla_7sinif_04-fiziksel-is.srt"
+ },
+ {
+  "g": 7,
+  "n": 5,
+  "slug": "05-kinetik-potansiyel",
+  "title": "Hareket ve Konum: Kinetik ve Potansiyel Enerji",
+  "outcome": "FB.7.2.2",
+  "dur": 204,
+  "file": "videolar-7/Damla_7sinif_05-kinetik-potansiyel.mp4",
+  "srt": "videolar-7/Damla_7sinif_05-kinetik-potansiyel.srt"
+ },
+ {
+  "g": 7,
+  "n": 6,
+  "slug": "06-enerji-korunumu",
+  "title": "Enerji Kaybolur mu? Enerjinin Korunumu",
+  "outcome": "FB.7.2.3",
+  "dur": 175,
+  "file": "videolar-7/Damla_7sinif_06-enerji-korunumu.mp4",
+  "srt": "videolar-7/Damla_7sinif_06-enerji-korunumu.srt"
+ },
+ {
+  "g": 7,
+  "n": 7,
+  "slug": "07-sindirim",
+  "title": "Besinlerin Yolculuğu: Sindirim Sistemi",
+  "outcome": "FB.7.3.1 · FB.7.3.2",
+  "dur": 182,
+  "file": "videolar-7/Damla_7sinif_07-sindirim.mp4",
+  "srt": "videolar-7/Damla_7sinif_07-sindirim.srt"
+ },
+ {
+  "g": 7,
+  "n": 8,
+  "slug": "08-dolasim",
+  "title": "Vücudumuzun Taşıma Ağı: Dolaşım Sistemi",
+  "outcome": "FB.7.3.3",
+  "dur": 176,
+  "file": "videolar-7/Damla_7sinif_08-dolasim.mp4",
+  "srt": "videolar-7/Damla_7sinif_08-dolasim.srt"
+ },
+ {
+  "g": 7,
+  "n": 9,
+  "slug": "09-kan-bagisi-saglik",
+  "title": "Kan Bağışı ve Dolaşım Sağlığı",
+  "outcome": "FB.7.3.4 · FB.7.3.5",
+  "dur": 189,
+  "file": "videolar-7/Damla_7sinif_09-kan-bagisi-saglik.mp4",
+  "srt": "videolar-7/Damla_7sinif_09-kan-bagisi-saglik.srt"
+ },
+ {
+  "g": 7,
+  "n": 10,
+  "slug": "10-solunum",
+  "title": "Her Nefeste Bir Yolculuk: Solunum Sistemi",
+  "outcome": "FB.7.3.6 · FB.7.3.7",
+  "dur": 218,
+  "file": "videolar-7/Damla_7sinif_10-solunum.mp4",
+  "srt": "videolar-7/Damla_7sinif_10-solunum.srt"
+ },
+ {
+  "g": 7,
+  "n": 11,
+  "slug": "11-bosaltim",
+  "title": "Vücudumuzun Temizlik Ekibi: Boşaltım Sistemi",
+  "outcome": "FB.7.3.8 · FB.7.3.9",
+  "dur": 195,
+  "file": "videolar-7/Damla_7sinif_11-bosaltim.mp4",
+  "srt": "videolar-7/Damla_7sinif_11-bosaltim.srt"
+ },
+ {
+  "g": 7,
+  "n": 12,
+  "slug": "12-kirilma",
+  "title": "Işığın Kırılması",
+  "outcome": "FB.7.4.1",
+  "dur": 208,
+  "file": "videolar-7/Damla_7sinif_12-kirilma.mp4",
+  "srt": "videolar-7/Damla_7sinif_12-kirilma.srt"
+ },
+ {
+  "g": 7,
+  "n": 13,
+  "slug": "13-mercekler",
+  "title": "Mercekler",
+  "outcome": "FB.7.4.2 · FB.7.4.3",
+  "dur": 204,
+  "file": "videolar-7/Damla_7sinif_13-mercekler.mp4",
+  "srt": "videolar-7/Damla_7sinif_13-mercekler.srt"
+ },
+ {
+  "g": 7,
+  "n": 14,
+  "slug": "14-atom",
+  "title": "Atomun İçine Yolculuk",
+  "outcome": "FB.7.5.1 · FB.7.5.2",
+  "dur": 206,
+  "file": "videolar-7/Damla_7sinif_14-atom.mp4",
+  "srt": "videolar-7/Damla_7sinif_14-atom.srt"
+ },
+ {
+  "g": 7,
+  "n": 15,
+  "slug": "15-element-bilesik",
+  "title": "Molekül Modelleri: Element mi, Bileşik mi?",
+  "outcome": "FB.7.5.3 · FB.7.5.4",
+  "dur": 155,
+  "file": "videolar-7/Damla_7sinif_15-element-bilesik.mp4",
+  "srt": "videolar-7/Damla_7sinif_15-element-bilesik.srt"
+ },
+ {
+  "g": 7,
+  "n": 16,
+  "slug": "16-ilk-18-element",
+  "title": "İlk 18 Element ve Periyodik Tablo",
+  "outcome": "FB.7.5.5 · FB.7.5.6",
+  "dur": 212,
+  "file": "videolar-7/Damla_7sinif_16-ilk-18-element.mp4",
+  "srt": "videolar-7/Damla_7sinif_16-ilk-18-element.srt"
+ },
+ {
+  "g": 7,
+  "n": 17,
+  "slug": "17-bilesik-formulleri",
+  "title": "Bileşiklerin Dili: Formüller",
+  "outcome": "FB.7.5.7 Bileşiklerin isimlerini formülleriyle yapılandırabilme",
+  "dur": 200,
+  "file": "videolar-7/Damla_7sinif_17-bilesik-formulleri.mp4",
+  "srt": "videolar-7/Damla_7sinif_17-bilesik-formulleri.srt"
+ },
+ {
+  "g": 7,
+  "n": 18,
+  "slug": "18-karisimlar",
+  "title": "Karışımlar ve Çözünme Hızı",
+  "outcome": "FB.7.5.8 Karışımları homojen ve heterojen olarak sınıflandırabilme · FB.7.5.9 Çözünme hızına etki eden faktörler ile ilgili hipotez oluşturabilme",
+  "dur": 203,
+  "file": "videolar-7/Damla_7sinif_18-karisimlar.mp4",
+  "srt": "videolar-7/Damla_7sinif_18-karisimlar.srt"
+ },
+ {
+  "g": 7,
+  "n": 19,
+  "slug": "19-karisim-ayirma",
+  "title": "Karışımları Ayırma",
+  "outcome": "FB.7.5.10 Karışımları ayırmak için çeşitli deney yapabilme",
+  "dur": 174,
+  "file": "videolar-7/Damla_7sinif_19-karisim-ayirma.mp4",
+  "srt": "videolar-7/Damla_7sinif_19-karisim-ayirma.srt"
+ },
+ {
+  "g": 7,
+  "n": 20,
+  "slug": "20-elektriklenme",
+  "title": "Elektriklenme",
+  "outcome": "FB.7.6.1 · FB.7.6.2",
+  "dur": 195,
+  "file": "videolar-7/Damla_7sinif_20-elektriklenme.mp4",
+  "srt": "videolar-7/Damla_7sinif_20-elektriklenme.srt"
+ },
+ {
+  "g": 7,
+  "n": 21,
+  "slug": "21-elektrik-yukleri",
+  "title": "Elektrik Yükleri",
+  "outcome": "FB.7.6.3",
+  "dur": 185,
+  "file": "videolar-7/Damla_7sinif_21-elektrik-yukleri.mp4",
+  "srt": "videolar-7/Damla_7sinif_21-elektrik-yukleri.srt"
+ },
+ {
+  "g": 7,
+  "n": 22,
+  "slug": "22-besin-zinciri",
+  "title": "Besin Zinciri",
+  "outcome": "FB.7.7.1",
+  "dur": 188,
+  "file": "videolar-7/Damla_7sinif_22-besin-zinciri.mp4",
+  "srt": "videolar-7/Damla_7sinif_22-besin-zinciri.srt"
+ },
+ {
+  "g": 7,
+  "n": 23,
+  "slug": "23-kaynak-tasarrufu",
+  "title": "Kaynakların Tasarruflu Kullanımı",
+  "outcome": "FB.7.7.2",
+  "dur": 175,
+  "file": "videolar-7/Damla_7sinif_23-kaynak-tasarrufu.mp4",
+  "srt": "videolar-7/Damla_7sinif_23-kaynak-tasarrufu.srt"
+ },
+ {
+  "g": 8,
+  "n": 1,
+  "slug": "01-mevsimler",
+  "title": "Mevsimler Nasıl Oluşur?",
+  "outcome": "FB.8.1.1",
+  "dur": 201,
+  "file": "videolar-8/Damla_8sinif_01-mevsimler.mp4",
+  "srt": "videolar-8/Damla_8sinif_01-mevsimler.srt"
+ },
+ {
+  "g": 8,
+  "n": 2,
+  "slug": "02-iklim-hava",
+  "title": "İklim ve Hava Olayları",
+  "outcome": "FB.8.1.2",
+  "dur": 194,
+  "file": "videolar-8/Damla_8sinif_02-iklim-hava.mp4",
+  "srt": "videolar-8/Damla_8sinif_02-iklim-hava.srt"
+ },
+ {
+  "g": 8,
+  "n": 3,
+  "slug": "03-basit-makineler",
+  "title": "İşi Kolaylaştıran Sırlar: Basit Makineler",
+  "outcome": "FB.8.2.1",
+  "dur": 201,
+  "file": "videolar-8/Damla_8sinif_03-basit-makineler.mp4",
+  "srt": "videolar-8/Damla_8sinif_03-basit-makineler.srt"
+ },
+ {
+  "g": 8,
+  "n": 4,
+  "slug": "04-is-kolayligi-modeli",
+  "title": "Kendi Makinemi Tasarlıyorum: İş Kolaylığı Modeli",
+  "outcome": "FB.8.2.2",
+  "dur": 155,
+  "file": "videolar-8/Damla_8sinif_04-is-kolayligi-modeli.mp4",
+  "srt": "videolar-8/Damla_8sinif_04-is-kolayligi-modeli.srt"
+ },
+ {
+  "g": 8,
+  "n": 5,
+  "slug": "05-dna",
+  "title": "Yaşamın Şifresi: DNA",
+  "outcome": "FB.8.3.1 · FB.8.3.2",
+  "dur": 198,
+  "file": "videolar-8/Damla_8sinif_05-dna.mp4",
+  "srt": "videolar-8/Damla_8sinif_05-dna.srt"
+ },
+ {
+  "g": 8,
+  "n": 6,
+  "slug": "06-mitoz-mayoz",
+  "title": "Hücreler Bölünüyor: Mitoz ve Mayoz",
+  "outcome": "FB.8.3.3",
+  "dur": 161,
+  "file": "videolar-8/Damla_8sinif_06-mitoz-mayoz.mp4",
+  "srt": "videolar-8/Damla_8sinif_06-mitoz-mayoz.srt"
+ },
+ {
+  "g": 8,
+  "n": 7,
+  "slug": "07-kalitim",
+  "title": "Aslı Ne İse Nesli Odur: Kalıtım",
+  "outcome": "FB.8.3.4 · FB.8.3.5",
+  "dur": 217,
+  "file": "videolar-8/Damla_8sinif_07-kalitim.mp4",
+  "srt": "videolar-8/Damla_8sinif_07-kalitim.srt"
+ },
+ {
+  "g": 8,
+  "n": 8,
+  "slug": "08-mutasyon-akraba",
+  "title": "Akraba Evliliği ve Mutasyon",
+  "outcome": "FB.8.3.6 · FB.8.3.7",
+  "dur": 205,
+  "file": "videolar-8/Damla_8sinif_08-mutasyon-akraba.mp4",
+  "srt": "videolar-8/Damla_8sinif_08-mutasyon-akraba.srt"
+ },
+ {
+  "g": 8,
+  "n": 9,
+  "slug": "09-adaptasyon",
+  "title": "Canlıların Çevreye Uyumu",
+  "outcome": "FB.8.3.8",
+  "dur": 187,
+  "file": "videolar-8/Damla_8sinif_09-adaptasyon.mp4",
+  "srt": "videolar-8/Damla_8sinif_09-adaptasyon.srt"
+ },
+ {
+  "g": 8,
+  "n": 10,
+  "slug": "10-sesin-olusumu",
+  "title": "Sesin Oluşumu ve Yayılması",
+  "outcome": "FB.8.4.1 · FB.8.4.2",
+  "dur": 200,
+  "file": "videolar-8/Damla_8sinif_10-sesin-olusumu.mp4",
+  "srt": "videolar-8/Damla_8sinif_10-sesin-olusumu.srt"
+ },
+ {
+  "g": 8,
+  "n": 11,
+  "slug": "11-ses-ozellikleri",
+  "title": "Sesin Özellikleri: Frekans ve Şiddet",
+  "outcome": "FB.8.4.3 · FB.8.4.4",
+  "dur": 189,
+  "file": "videolar-8/Damla_8sinif_11-ses-ozellikleri.mp4",
+  "srt": "videolar-8/Damla_8sinif_11-ses-ozellikleri.srt"
+ },
+ {
+  "g": 8,
+  "n": 12,
+  "slug": "12-ses-yalitimi",
+  "title": "Sesin Madde ile Etkileşimi ve Ses Kirliliği",
+  "outcome": "FB.8.4.5 · FB.8.4.6",
+  "dur": 189,
+  "file": "videolar-8/Damla_8sinif_12-ses-yalitimi.mp4",
+  "srt": "videolar-8/Damla_8sinif_12-ses-yalitimi.srt"
+ },
+ {
+  "g": 8,
+  "n": 13,
+  "slug": "13-periyodik-tablo",
+  "title": "Periyodik Tablonun Haritası: Metal, Ametal, Yarımetal, Soy Gaz",
+  "outcome": "FB.8.5.1",
+  "dur": 204,
+  "file": "videolar-8/Damla_8sinif_13-periyodik-tablo.mp4",
+  "srt": "videolar-8/Damla_8sinif_13-periyodik-tablo.srt"
+ },
+ {
+  "g": 8,
+  "n": 14,
+  "slug": "14-kimyasal-degisim",
+  "title": "Değişimin İzleri: Fiziksel ve Kimyasal Değişim",
+  "outcome": "FB.8.5.2 · FB.8.5.3",
+  "dur": 213,
+  "file": "videolar-8/Damla_8sinif_14-kimyasal-degisim.mp4",
+  "srt": "videolar-8/Damla_8sinif_14-kimyasal-degisim.srt"
+ },
+ {
+  "g": 8,
+  "n": 15,
+  "slug": "15-tepkimeler-yasam",
+  "title": "Hayatın İçindeki Tepkimeler",
+  "outcome": "FB.8.5.4",
+  "dur": 154,
+  "file": "videolar-8/Damla_8sinif_15-tepkimeler-yasam.mp4",
+  "srt": "videolar-8/Damla_8sinif_15-tepkimeler-yasam.srt"
+ },
+ {
+  "g": 8,
+  "n": 16,
+  "slug": "16-asit-baz",
+  "title": "Asitler ve Bazlar: Renklerin Dili",
+  "outcome": "FB.8.5.5 · FB.8.5.6",
+  "dur": 206,
+  "file": "videolar-8/Damla_8sinif_16-asit-baz.mp4",
+  "srt": "videolar-8/Damla_8sinif_16-asit-baz.srt"
+ },
+ {
+  "g": 8,
+  "n": 17,
+  "slug": "17-ph",
+  "title": "pH Cetveli ve Asit-Bazların Etkileri",
+  "outcome": "FB.8.5.7 · FB.8.5.8",
+  "dur": 196,
+  "file": "videolar-8/Damla_8sinif_17-ph.mp4",
+  "srt": "videolar-8/Damla_8sinif_17-ph.srt"
+ },
+ {
+  "g": 8,
+  "n": 18,
+  "slug": "18-seri-paralel",
+  "title": "Seri mi, Paralel mi?",
+  "outcome": "FB.8.6.1",
+  "dur": 187,
+  "file": "videolar-8/Damla_8sinif_18-seri-paralel.mp4",
+  "srt": "videolar-8/Damla_8sinif_18-seri-paralel.srt"
+ },
+ {
+  "g": 8,
+  "n": 19,
+  "slug": "19-akim-gerilim",
+  "title": "Akım ve Gerilim",
+  "outcome": "FB.8.6.2 · FB.8.6.3 · FB.8.6.4",
+  "dur": 207,
+  "file": "videolar-8/Damla_8sinif_19-akim-gerilim.mp4",
+  "srt": "videolar-8/Damla_8sinif_19-akim-gerilim.srt"
+ },
+ {
+  "g": 8,
+  "n": 20,
+  "slug": "20-aydinlatma-modeli",
+  "title": "Aydınlatma Aracı Tasarlıyorum",
+  "outcome": "FB.8.6.5",
+  "dur": 178,
+  "file": "videolar-8/Damla_8sinif_20-aydinlatma-modeli.mp4",
+  "srt": "videolar-8/Damla_8sinif_20-aydinlatma-modeli.srt"
+ },
+ {
+  "g": 8,
+  "n": 21,
+  "slug": "21-enerji-donusumu",
+  "title": "Elektrik Enerjisi Neye Dönüşür?",
+  "outcome": "FB.8.6.6 · FB.8.6.7",
+  "dur": 194,
+  "file": "videolar-8/Damla_8sinif_21-enerji-donusumu.mp4",
+  "srt": "videolar-8/Damla_8sinif_21-enerji-donusumu.srt"
+ },
+ {
+  "g": 8,
+  "n": 22,
+  "slug": "22-santraller",
+  "title": "Elektrik Nerede Üretilir? Santraller",
+  "outcome": "FB.8.6.8 · FB.8.6.9",
+  "dur": 205,
+  "file": "videolar-8/Damla_8sinif_22-santraller.mp4",
+  "srt": "videolar-8/Damla_8sinif_22-santraller.srt"
+ },
+ {
+  "g": 8,
+  "n": 23,
+  "slug": "23-elektrik-tasarrufu",
+  "title": "Elektriği Bilinçli Kullanalım",
+  "outcome": "FB.8.6.10",
+  "dur": 181,
+  "file": "videolar-8/Damla_8sinif_23-elektrik-tasarrufu.mp4",
+  "srt": "videolar-8/Damla_8sinif_23-elektrik-tasarrufu.srt"
+ },
+ {
+  "g": 8,
+  "n": 24,
+  "slug": "24-fotosentez",
+  "title": "Işıktan Besine: Fotosentez",
+  "outcome": "FB.8.7.1 · FB.8.7.2",
+  "dur": 207,
+  "file": "videolar-8/Damla_8sinif_24-fotosentez.mp4",
+  "srt": "videolar-8/Damla_8sinif_24-fotosentez.srt"
+ },
+ {
+  "g": 8,
+  "n": 25,
+  "slug": "25-solunum",
+  "title": "Besinden Enerjiye: Canlılarda Solunum",
+  "outcome": "FB.8.7.3",
+  "dur": 187,
+  "file": "videolar-8/Damla_8sinif_25-solunum.mp4",
+  "srt": "videolar-8/Damla_8sinif_25-solunum.srt"
+ },
+ {
+  "g": 8,
+  "n": 26,
+  "slug": "26-madde-donguleri",
+  "title": "Hiçbir Şey Kaybolmaz: Madde Döngüleri",
+  "outcome": "FB.8.7.4 · FB.8.7.5",
+  "dur": 214,
+  "file": "videolar-8/Damla_8sinif_26-madde-donguleri.mp4",
+  "srt": "videolar-8/Damla_8sinif_26-madde-donguleri.srt"
+ },
+ {
+  "g": 8,
+  "n": 27,
+  "slug": "27-iklim-degisikligi",
+  "title": "Isınan Dünya: Küresel İklim Değişikliği",
+  "outcome": "FB.8.7.6 · FB.8.7.7",
+  "dur": 230,
+  "file": "videolar-8/Damla_8sinif_27-iklim-degisikligi.mp4",
+  "srt": "videolar-8/Damla_8sinif_27-iklim-degisikligi.srt"
+ }
+]

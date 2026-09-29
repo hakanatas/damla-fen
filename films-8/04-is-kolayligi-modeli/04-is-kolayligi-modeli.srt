@@ -1,0 +1,117 @@
+1
+00:00:05,550 --> 00:00:10,786
+Merhaba! Okulumuzun balkon bahçesine
+toprak torbası taşımak çok yorucu.
+
+2
+00:00:11,550 --> 00:00:17,262
+Bu işi kolaylaştıracak bir basit makine
+modeli tasarlamaya karar verdim!
+
+3
+00:00:18,112 --> 00:00:22,872
+Arşimet’ten Cezeri’ye, bilim insanları işi
+kolaylaştıran makineler tasarladı.
+
+4
+00:00:23,322 --> 00:00:29,034
+Cezeri, 1206’da bitirdiği kitabında suyu
+yükselten, dişli çarklı makineler çizdi.
+
+5
+00:00:30,322 --> 00:00:35,818
+Mühendisler tasarım döngüsünü kullanır:
+tanımla, araştır, tasarla, yap, test et,
+
+6
+00:00:35,818 --> 00:00:36,986
+geliştir, paylaş.
+
+7
+00:00:39,322 --> 00:00:44,558
+Ölçütüm: Model, 10 N’luk yükü yarısından
+az kuvvetle kaldırmalı.
+
+8
+00:00:45,208 --> 00:00:51,396
+Sınırlılığım: Yalnızca iplik makarası, ip,
+karton ve çubuk gibi atık malzemeler.
+
+9
+00:00:52,046 --> 00:00:57,758
+Kesici aletleri bir yetişkin eşliğinde
+kullan. Asılı yükün altında durma!
+
+10
+00:00:58,608 --> 00:01:05,068
+İlk modelim: Balkona bir sabit makara
+bağladım. İpi aşağı çekince yük yukarı
+
+11
+00:01:05,068 --> 00:01:05,748
+çıkıyor.
+
+12
+00:01:06,398 --> 00:01:12,110
+Dinamometre yaklaşık 10 N gösteriyor. Yön
+değişti ama kuvvet azalmadı.
+
+13
+00:01:12,760 --> 00:01:17,520
+Bu yeni kanıt, ölçütümü karşılamadığımı
+gösteriyor. Modelimi yenilemeliyim.
+
+14
+00:01:18,370 --> 00:01:24,082
+Yüke hareketli bir makara ekledim. Artık
+yükü iki ip taşıyor.
+
+15
+00:01:24,732 --> 00:01:32,349
+Kuvvet yaklaşık 6 N. Neden tam 5 değil?
+Makaranın ağırlığı ve sürtünme de var!
+
+16
+00:01:33,199 --> 00:01:37,959
+Modelleri karşılaştırdık. Arkadaşımın
+çıkrığı çok az kuvvet istiyordu.
+
+17
+00:01:39,699 --> 00:01:45,887
+İpi bir çıkrığa sardım. Makara sistemi ve
+çıkrık birlikte: bileşik makine!
+
+18
+00:01:46,537 --> 00:01:52,249
+Kuvvet yaklaşık 2 N’a indi. Ama kolu epey
+çevirmem gerekiyor.
+
+19
+00:01:53,037 --> 00:02:00,330
+İşten kazanç yok; sürtünme yüzünden biraz
+fazla iş bile yapıyorum. Ama çok daha az
+
+20
+00:02:00,330 --> 00:02:01,130
+kuvvetle!
+
+21
+00:02:02,180 --> 00:02:05,987
+Son olarak kontrol listesiyle modelimi
+değerlendiriyorum.
+
+22
+00:02:11,180 --> 00:02:18,320
+Sıra sende! Grubunla evde ya da okulda bir
+işi kolaylaştıracak bir model tasarla.
+
+23
+00:02:18,970 --> 00:02:24,206
+Ölçütlerini yaz, modelini test et,
+arkadaşlarınınkiyle karşılaştır ve yenile.
+
+24
+00:02:25,056 --> 00:02:29,339
+Sıradaki sayfa: Yaşamın gizemi!
+Hücrelerimizdeki DNA’yı tanıyacağız.
+

@@ -1,0 +1,158 @@
+1
+00:00:05,550 --> 00:00:12,000
+Merhaba! Ben Damla. Bugün tam iki saat
+ders çalıştım, çok yoruldum.
+
+2
+00:00:12,850 --> 00:00:20,800
+Annem “Bugün çok iş yaptın!” dedi. Peki
+bir fizikçi de aynı şeyi söyler mi?
+
+3
+00:00:21,650 --> 00:00:26,987
+Önce kuvvetin etkilerini hatırlayalım:
+Kuvvet bir cismi hareket ettirir,
+
+4
+00:00:26,987 --> 00:00:30,100
+durdurur, yönünü ya da şeklini değiştirir.
+
+5
+00:00:30,750 --> 00:00:35,200
+Günlük yaşamdan dört durumu gözlemleyip
+verileri kaydedeyim.
+
+6
+00:00:35,850 --> 00:00:42,300
+Birinci durum: Kutuyu sağa itiyorum.
+Kuvvet sağa, kutu da sağa kayıyor.
+
+7
+00:00:42,950 --> 00:00:48,837
+İkinci durum: Duvarı var gücümle itiyorum.
+Kuvvet var ama duvar yerinden
+
+8
+00:00:48,837 --> 00:00:49,900
+kıpırdamıyor.
+
+9
+00:00:50,550 --> 00:00:57,000
+Üçüncü durum: Çantayı yerden kaldırıyorum.
+Kuvvet yukarı, çanta da yukarı çıkıyor.
+
+10
+00:00:57,650 --> 00:01:03,082
+Dördüncü durum: Çantayı hep aynı
+yükseklikte tutup yürüyorum. Kuvvetim
+
+11
+00:01:03,082 --> 00:01:05,100
+yukarı, hareket ise yatay.
+
+12
+00:01:05,950 --> 00:01:11,200
+Her durumda kuvvetin yönünü ve cismin
+hareketini tabloya yazdım. Şimdi
+
+13
+00:01:11,200 --> 00:01:12,400
+karşılaştıralım.
+
+14
+00:01:14,950 --> 00:01:20,900
+Birinci ve üçüncü durumda cisim, kuvvetle
+aynı doğrultuda yer değiştirdi.
+
+15
+00:01:21,550 --> 00:01:27,991
+İkinci durumda duvar hiç yer değiştirmedi.
+Dördüncüde çanta, kuvvete dik doğrultuda
+
+16
+00:01:27,991 --> 00:01:29,000
+hareket etti.
+
+17
+00:01:29,850 --> 00:01:36,255
+Fiziksel anlamda iş için iki şart var:
+Kuvvet uygulanmalı ve cisim bu kuvvetin
+
+18
+00:01:36,255 --> 00:01:38,800
+doğrultusunda yer değiştirmeli.
+
+19
+00:01:39,650 --> 00:01:46,069
+Şartlardan biri eksikse iş yapılmaz.
+Duvarı iten kuvvet de yatay taşınan
+
+20
+00:01:46,069 --> 00:01:49,100
+çantayı tutan kuvvet de iş yapmaz.
+
+21
+00:01:49,950 --> 00:01:56,900
+Ders çalışmak günlük dilde bir iştir. Ama
+fizikteki iş kavramı bundan farklıdır.
+
+22
+00:01:57,950 --> 00:02:06,400
+Peki iş neye bağlı? Aynı kuvvetle aynı
+kutuyu önce 2 metre, sonra 4 metre itelim.
+
+23
+00:02:07,050 --> 00:02:14,000
+Kuvvet aynı, yol daha uzun. Yer değiştirme
+arttıkça yapılan iş de artar.
+
+24
+00:02:14,850 --> 00:02:21,214
+Şimdi hafif ve ağır çantayı aynı
+yüksekliğe kaldıralım. Ağır çanta daha
+
+25
+00:02:21,214 --> 00:02:24,800
+büyük kuvvet ister, daha çok iş yapılır.
+
+26
+00:02:25,650 --> 00:02:31,440
+Sonuç: Yapılan iş, uygulanan kuvvete ve
+kuvvet doğrultusundaki yer değiştirmeye
+
+27
+00:02:31,440 --> 00:02:32,100
+bağlıdır.
+
+28
+00:02:32,950 --> 00:02:39,694
+Fiziksel anlamda işin birimi joule’dür ve
+J harfiyle gösterilir. Adını bilim insanı
+
+29
+00:02:39,694 --> 00:02:41,400
+James Joule’den alır.
+
+30
+00:02:42,450 --> 00:02:45,400
+Bulduklarımı gözlem defterime
+kaydediyorum.
+
+31
+00:02:54,450 --> 00:03:00,748
+Sıra sende! Evde beş durum gözlemle,
+tabloya yaz ve hangisinde fiziksel anlamda
+
+32
+00:03:00,748 --> 00:03:02,900
+iş yapıldığını değerlendir.
+
+33
+00:03:03,750 --> 00:03:09,295
+Sıradaki gözlemim: İş yapabilmek için
+enerji gerekir. Kinetik ve potansiyel
+
+34
+00:03:09,295 --> 00:03:10,700
+enerjiyi tanıyalım!
+

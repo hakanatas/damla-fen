@@ -1,0 +1,155 @@
+1
+00:00:05,550 --> 00:00:11,500
+Ece’nin saçına sürttüğümüz iki balonu yan
+yana astık. Birbirlerinden kaçıyorlar!
+
+2
+00:00:12,150 --> 00:00:18,639
+Balonu Ece’nin saçına yaklaştırınca ise
+saçlar balona uzanıyor. Neden bazen iter,
+
+3
+00:00:18,639 --> 00:00:19,600
+bazen çeker?
+
+4
+00:00:20,450 --> 00:00:25,623
+Cevap atomlarda. Çekirdekte pozitif yüklü
+protonlar, çevresinde negatif yüklü
+
+5
+00:00:25,623 --> 00:00:26,900
+elektronlar vardır.
+
+6
+00:00:27,550 --> 00:00:31,997
+Protonlar çekirdekte sıkıca durur.
+Cisimler arasında yer değiştirebilen
+
+7
+00:00:31,997 --> 00:00:33,500
+yalnızca elektronlardır.
+
+8
+00:00:34,350 --> 00:00:40,300
+Bir cisimde pozitif ve negatif yük sayısı
+eşitse cisim nötrdür.
+
+9
+00:00:40,950 --> 00:00:47,400
+Cisim elektron alırsa negatif yükü fazla
+olur. Negatif yüklü cisim oldu!
+
+10
+00:00:48,050 --> 00:00:54,000
+Cisim elektron verirse pozitif yükü fazla
+kalır. Artık pozitif yüklü!
+
+11
+00:00:54,650 --> 00:00:59,600
+Dikkat: Pozitif yüklenen cisim proton
+kazanmaz, elektron kaybeder.
+
+12
+00:01:00,450 --> 00:01:07,900
+İki balon da elektron aldı, ikisi de
+negatif. Aynı cins yükler birbirini iter.
+
+13
+00:01:08,550 --> 00:01:15,000
+Ece’nin saçı elektron verdi, pozitif oldu.
+Zıt cins yükler birbirini çeker.
+
+14
+00:01:15,650 --> 00:01:22,824
+Ama yüklü balon nötr kâğıdı da çeker. Bu
+yüzden çekme tek başına yük cinsini
+
+15
+00:01:22,824 --> 00:01:26,600
+göstermez; itme ise aynı cinsi kanıtlar.
+
+16
+00:01:27,450 --> 00:01:33,129
+Elektroskop bir cismin yüklü olup
+olmadığını gösterir. Yaprakları aynı cins
+
+17
+00:01:33,129 --> 00:01:35,400
+yükle yüklenip birbirini iter.
+
+18
+00:01:36,250 --> 00:01:40,921
+Şimdi sınıflandıralım. Farklı cisimleri
+birbirine sürtüp yük durumlarını
+
+19
+00:01:40,921 --> 00:01:41,700
+inceliyorum.
+
+20
+00:01:42,350 --> 00:01:49,228
+Cam çubuk ipeğe sürtülünce elektron verir;
+ipek alır. Plastik çubuk yüne sürtülünce
+
+21
+00:01:49,228 --> 00:01:51,300
+elektron alır; yün verir.
+
+22
+00:01:51,950 --> 00:01:58,267
+Elektron verenleri bir gruba, alanları
+diğer gruba koyuyorum. Hiç sürtülmemiş
+
+23
+00:01:58,267 --> 00:02:00,400
+kalem ise ayrı bir grupta.
+
+24
+00:02:01,050 --> 00:02:06,000
+Son olarak gruplarımı etiketliyorum:
+pozitif, negatif ve nötr.
+
+25
+00:02:09,050 --> 00:02:15,000
+Birbirine sürtülen iki cisim her zaman zıt
+cins yükle yüklenir.
+
+26
+00:02:15,850 --> 00:02:21,348
+Doğada da yükler birikir. Bulutlar
+arasındaki elektrik boşalmasına şimşek
+
+27
+00:02:21,348 --> 00:02:21,800
+denir.
+
+28
+00:02:22,450 --> 00:02:26,900
+Bulut ile yer arasındaki boşalma ise
+yıldırımdır.
+
+29
+00:02:27,550 --> 00:02:34,607
+Yıldırımlı havada açık alanda ve ağaç
+altında durma. Güvenli bir binaya gir,
+
+30
+00:02:34,607 --> 00:02:36,000
+sudan uzak dur.
+
+31
+00:02:36,850 --> 00:02:39,800
+Bulduklarımı gözlem defterime
+kaydediyorum.
+
+32
+00:02:45,350 --> 00:02:52,300
+Sıra sende! Evindeki cisimleri sürterek
+yüklerini tahmin et ve bir tabloda grupla.
+
+33
+00:02:53,150 --> 00:02:59,100
+Sıradaki gözlemim: Besin zinciri. Kim kimi
+yer, enerji nereye akar?
+
