@@ -12,6 +12,23 @@ Filmin tüm karelerini JavaScript + Canvas 2D kodu çiziyor. Harici görsel, vid
 |---|------|---------------|-----------------|------|
 | 1 | Gökyüzündeki Komşumuz: Güneş | 5 · Ünite 1 | FB.5.1.1 | ≈ 4:35 (sessiz, altyazılı) |
 
+## Öğretmen sayfası ve öğrenci bağlantıları (GitHub Pages)
+
+Depo GitHub Pages ile yayınlandığında (Settings → Pages → *Deploy from a branch*, `main`, `/ (root)`):
+
+| Sayfa | Kime | Ne işe yarar |
+|---|---|---|
+| `ogretmen-cd3e6a91e7.html` | Yalnızca öğretmen | 5–8. sınıf filmlerinin tablosu (sınıf filtresi, arama); her film için öğrenci bağlantısını kopyalama |
+| `films…/<film>/` | Öğrenci | Yalnızca o filmi oynatır, başka filmlere bağlantı yoktur |
+| `index.html` | Herkes | Boş kapak sayfası; film listesi içermez |
+
+Öğretmen bağlantısı: `https://hakanatas.github.io/damla-fen/ogretmen-cd3e6a91e7.html`
+
+- Tablo `docs/catalog.json` dosyasından okunur; yeni film eklendiğinde kataloğa eklemek yeterlidir.
+- Sayfalar arama motorlarına kapalıdır (`robots.txt`, `noindex`) ve siteden öğretmen sayfasına bağlantı yoktur.
+  Ancak depo herkese açık olduğu için dosya adı GitHub'da görülebilir; bu "bağlantıyı bilen görür" düzeyinde bir gizliliktir.
+  Bağlantı yayılırsa dosyayı yeni bir rastgele adla yeniden adlandırın; öğrenci bağlantıları etkilenmez.
+
 ## Çalıştırma
 
 ```bash

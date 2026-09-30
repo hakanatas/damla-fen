@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Damla'nın Gözlem Defteri · Öğretmen</title>
+  <link rel="stylesheet" href="lib/fonts.css">
+  <style>
+    :root {
+      --kagit: #F1EADB; --kart: #FBF7EE; --murekkep: #1C1B22; --soluk: #6a6456;
+      --cizgi: #ddd3bf; --kehribar: #B97714; --kehribar-acik: #F4E2BF; --su: #2E6A8C;
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; background: var(--kagit); color: var(--murekkep); }
+    body { font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+    .sayfa { max-width: 1080px; margin: 0 auto; padding: 32px 16px 64px; }
+    h1 { font: 600 2rem/1.2 'Fraunces', Georgia, serif; margin: 0; }
+    .ust p { margin: 4px 0 0; color: var(--soluk); font-family: 'Kalam', cursive; font-size: 1.15rem; }
+    .kart { background: var(--kart); border: 1px solid var(--cizgi); border-radius: 12px; }
+    .bilgi { padding: 14px 16px; margin: 20px 0; color: var(--soluk); font-size: .95rem; }
+    .bilgi b { color: var(--murekkep); }
+    .arac { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin: 20px 0 16px; }
+    .sekmeler { display: flex; gap: 6px; flex-wrap: wrap; }
+    .sekme { font: inherit; padding: 7px 14px; border-radius: 999px; border: 1px solid var(--cizgi); background: var(--kart); color: var(--murekkep); cursor: pointer; }
+    .sekme[aria-pressed="true"] { background: var(--murekkep); color: var(--kagit); border-color: var(--murekkep); }
+    .arac input { flex: 1 1 220px; padding: 9px 12px; border: 1px solid var(--cizgi); border-radius: 8px; background: var(--kart); color: var(--murekkep); font: inherit; }
+    h2 { font: 600 1.35rem 'Fraunces', Georgia, serif; margin: 28px 0 10px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+    h2 small { font: 400 .9rem system-ui, sans-serif; color: var(--soluk); }
+    h2 .btn { margin-left: auto; font: 400 .9rem system-ui, -apple-system, "Segoe UI", sans-serif; }
+    table { width: 100%; border-collapse: collapse; }
+    td, th { padding: 11px 14px; border-bottom: 1px solid var(--cizgi); text-align: left; vertical-align: middle; }
+    th { font-size: .78rem; letter-spacing: .04em; text-transform: uppercase; color: var(--soluk); font-weight: 600; }
+    tr:last-child td { border-bottom: 0; }
+    td.no { width: 1%; color: var(--soluk); font-variant-numeric: tabular-nums; }
+    td.sure { width: 1%; white-space: nowrap; font-variant-numeric: tabular-nums; color: var(--soluk); }
+    .baslik { font-weight: 600; }
+    .kazanim { display: block; font-size: .85rem; color: var(--soluk); }
+    .etiket { display: inline-block; font-size: .75rem; padding: 1px 7px; margin-right: 6px; border-radius: 999px; background: var(--kehribar-acik); color: #7a4d06; font-weight: 600; }
+    .islem { display: flex; gap: 6px; justify-content: flex-end; }
+    .btn { font: inherit; font-size: .9rem; padding: 6px 12px; border-radius: 8px; border: 1px solid var(--su); background: var(--su); color: #fff; cursor: pointer; text-decoration: none; white-space: nowrap; }
+    .btn.ikincil { background: transparent; color: var(--su); }
+    .btn.kopyalandi { background: #3d7a4f; border-color: #3d7a4f; color: #fff; }
+    .bos { padding: 32px; text-align: center; color: var(--soluk); }
+    .bildirim { position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%); background: var(--murekkep); color: var(--kagit); padding: 10px 16px; border-radius: 8px; opacity: 0; transition: opacity .2s; pointer-events: none; }
+    .bildirim.gorunur { opacity: 1; }
+    @media (max-width: 680px) {
+      thead { display: none; }
+      table, tbody, tr, td { display: block; width: 100%; }
+      tr { padding: 8px 0; border-bottom: 1px solid var(--cizgi); }
+      tr:last-child { border-bottom: 0; }
+      td { border: 0; padding: 4px 14px; }
+      td.no { display: none; }
+      td.sure { width: auto; }
+      .islem { justify-content: flex-start; }
+      h2 .btn { margin-left: 0; }
+    }
+  </style>
+</head>
+<body>
+  <main class="sayfa">
+    <header class="ust">
+      <h1>Damla'nın Gözlem Defteri</h1>
+      <p>Fen Bilimleri özet filmleri · Öğretmen sayfası</p>
+    </header>
+
+    <div class="kart bilgi">
+      Bir filmi öğrencinizle paylaşmak için <b>Bağlantıyı kopyala</b> düğmesine basın ve bağlantıyı gönderin.
+      Öğrenci yalnızca o filmi görür; bu sayfayı ve film listesini görmez.
+      <b>Bu sayfanın adresini öğrencilerle paylaşmayın.</b>
+    </div>
+
+    <div class="arac">
+      <div class="sekmeler" id="sekmeler" role="group" aria-label="Sınıf"></div>
+      <input id="ara" type="search" placeholder="Konu veya kazanım ara (ör. FB.6.2)" aria-label="Ara">
+    </div>
+
+    <div id="liste"><div class="kart bos">Filmler yükleniyor…</div></div>
+  </main>
+
+  <div id="bildirim" class="bildirim" role="status" aria-live="polite"></div>
+
+  <script>
+    var filmler = [];
+    var secili = "hepsi";
+    try { secili = localStorage.getItem("sinif") || "hepsi"; } catch (e) {}
+
+    function yazi(s) { var d = document.createElement("div"); d.textContent = s == null ? "" : String(s); return d.innerHTML; }
+    function sure(sn) { sn = Math.round(sn || 0); return Math.floor(sn / 60) + ":" + String(sn % 60).padStart(2, "0"); }
+    function klasor(f) { return (f.g === 5 ? "films" : "films-" + f.g) + "/" + f.slug + "/"; }
+    function baglanti(f) { return new URL(klasor(f), location.href).href; }
+    function kazanimKodu(f) { var m = (f.outcome || "").match(/^(FB\.\d+\.\d+\.\d+)\s*(.*)$/); return m ? [m[1], m[2]] : ["", f.outcome || ""]; }
+    function unite(f) { var m = (f.outcome || "").match(/^FB\.\d+\.(\d+)\./); return m ? +m[1] : null; }
+
+    function sekmeleriCiz() {
+      var siniflar = Array.from(new Set(filmler.map(function (f) { return f.g; }))).sort();
+      var html = '<button class="sekme" data-sinif="hepsi">Tümü</button>';
+      siniflar.forEach(function (g) { html += '<button class="sekme" data-sinif="' + g + '">' + g + '. Sınıf</button>'; });
+      var kutu = document.getElementById("sekmeler");
+      kutu.innerHTML = html;
+      if (secili !== "hepsi" && siniflar.indexOf(+secili) === -1) secili = "hepsi";
+      Array.prototype.forEach.call(kutu.children, function (b) { b.setAttribute("aria-pressed", String(b.dataset.sinif === String(secili))); });
+    }
+
+    function listeyiCiz() {
+      var q = document.getElementById("ara").value.trim().toLocaleLowerCase("tr");
+      var gorunen = filmler.filter(function (f) {
+        if (secili !== "hepsi" && f.g !== +secili) return false;
+        return !q || (f.title + " " + f.outcome).toLocaleLowerCase("tr").indexOf(q) !== -1;
+      });
+      var kutu = document.getElementById("liste");
+      if (!gorunen.length) { kutu.innerHTML = '<div class="kart bos">Aramanızla eşleşen film yok.</div>'; return; }
+
+      var gruplar = {};
+      gorunen.forEach(function (f) { (gruplar[f.g] = gruplar[f.g] || []).push(f); });
+      var html = "";
+      Object.keys(gruplar).sort(function (a, b) { return a - b; }).forEach(function (g) {
+        var liste = gruplar[g].sort(function (a, b) { return a.n - b.n; });
+        var toplam = liste.reduce(function (t, f) { return t + (f.dur || 0); }, 0);
+        html += '<h2>' + g + '. Sınıf <small>' + liste.length + ' film · ' + Math.round(toplam / 60) + ' dk</small>' +
+          '<button class="btn ikincil" type="button" data-hepsi="' + g + '">Bu listedeki bağlantıları kopyala</button></h2>';
+        html += '<div class="kart"><table><thead><tr><th>#</th><th>Film</th><th>Süre</th><th></th></tr></thead><tbody>';
+        liste.forEach(function (f) {
+          var k = kazanimKodu(f), u = unite(f);
+          html += '<tr>' +
+            '<td class="no">' + f.n + '</td>' +
+            '<td><span class="baslik">' + yazi(f.title) + '</span>' +
+              '<span class="kazanim">' + (u ? '<span class="etiket">Ünite ' + u + '</span>' : '') + yazi(k[0]) + (k[1] ? ' · ' + yazi(k[1]) : '') + '</span></td>' +
+            '<td class="sure">' + sure(f.dur) + '</td>' +
+            '<td><div class="islem">' +
+              '<button class="btn" type="button" data-kopyala="' + yazi(f.g + "/" + f.slug) + '">Bağlantıyı kopyala</button>' +
+              '<a class="btn ikincil" href="' + yazi(klasor(f)) + '" target="_blank" rel="noopener">İzle</a>' +
+            '</div></td></tr>';
+        });
+        html += '</tbody></table></div>';
+      });
+      kutu.innerHTML = html;
+    }
+
+    function bildir(m) {
+      var b = document.getElementById("bildirim");
+      b.textContent = m; b.classList.add("gorunur");
+      clearTimeout(bildir.t); bildir.t = setTimeout(function () { b.classList.remove("gorunur"); }, 2000);
+    }
+
+    function kopyala(metin, mesaj, dugme) {
+      function tamam() {
+        bildir(mesaj);
+        if (dugme) {
+          var eski = dugme.textContent; dugme.textContent = "Kopyalandı ✓"; dugme.classList.add("kopyalandi");
+          setTimeout(function () { dugme.textContent = eski; dugme.classList.remove("kopyalandi"); }, 1500);
+        }
+      }
+      function eskiYol() {
+        var t = document.createElement("textarea");
+        t.value = metin; t.style.position = "fixed"; t.style.opacity = "0";
+        document.body.appendChild(t); t.select();
+        var ok = false; try { ok = document.execCommand("copy"); } catch (e) {}
+        document.body.removeChild(t);
+        ok ? tamam() : window.prompt("Bağlantıyı kopyalayın:", metin);
+      }
+      if (navigator.clipboard && window.isSecureContext) navigator.clipboard.writeText(metin).then(tamam, eskiYol);
+      else eskiYol();
+    }
+
+    document.getElementById("sekmeler").addEventListener("click", function (e) {
+      var b = e.target.closest("[data-sinif]"); if (!b) return;
+      secili = b.dataset.sinif;
+      try { localStorage.setItem("sinif", secili); } catch (err) {}
+      sekmeleriCiz(); listeyiCiz();
+    });
+    document.getElementById("ara").addEventListener("input", listeyiCiz);
+    document.getElementById("liste").addEventListener("click", function (e) {
+      var b = e.target.closest("[data-kopyala]");
+      if (b) {
+        var p = b.dataset.kopyala.split("/"), f = filmler.filter(function (x) { return x.g === +p[0] && x.slug === p[1]; })[0];
+        if (f) kopyala(baglanti(f), "“" + f.title + "” bağlantısı kopyalandı", b);
+        return;
+      }
+      var h = e.target.closest("[data-hepsi]");
+      if (h) {
+        var q = document.getElementById("ara").value.trim().toLocaleLowerCase("tr");
+        var satirlar = filmler
+          .filter(function (f) { return f.g === +h.dataset.hepsi && (!q || (f.title + " " + f.outcome).toLocaleLowerCase("tr").indexOf(q) !== -1); })
+          .sort(function (a, b) { return a.n - b.n; })
+          .map(function (f) { return f.title + ": " + baglanti(f); });
+        kopyala(satirlar.join("\n"), satirlar.length + " bağlantı kopyalandı", h);
+      }
+    });
+
+    fetch("docs/catalog.json")
+      .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(function (d) { filmler = d; sekmeleriCiz(); listeyiCiz(); })
+      .catch(function () {
+        document.getElementById("liste").innerHTML = '<div class="kart bos">Film listesi yüklenemedi. Sayfayı yenileyip tekrar deneyin.</div>';
+      });
+  </script>
+</body>
+</html>
