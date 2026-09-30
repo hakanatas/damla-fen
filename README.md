@@ -18,13 +18,14 @@ Depo GitHub Pages ile yayınlandığında (Settings → Pages → *Deploy from a
 
 | Sayfa | Kime | Ne işe yarar |
 |---|---|---|
-| `ogretmen-cd3e6a91e7.html` | Yalnızca öğretmen | 5–8. sınıf filmlerinin tablosu (sınıf filtresi, arama); her film için öğrenci bağlantısını kopyalama |
+| `ogretmen-cd3e6a91e7.html` | Yalnızca öğretmen | 5–8. sınıf filmleri; sınıf ve ünite sırasıyla, önizleme görseli, kazanım metni, arama; her film için öğrenci bağlantısını kopyalama ve sayfada önizleme |
 | `films…/<film>/` | Öğrenci | Yalnızca o filmi oynatır, başka filmlere bağlantı yoktur |
 | `index.html` | Herkes | Boş kapak sayfası; film listesi içermez |
 
 Öğretmen bağlantısı: `https://hakanatas.github.io/damla-fen/ogretmen-cd3e6a91e7.html`
 
-- Tablo `docs/catalog.json` dosyasından okunur; yeni film eklendiğinde kataloğa eklemek yeterlidir.
+- Film listesi `docs/catalog.json` dosyasından okunur. Kazanım metinleri ve ünite adları `docs/kazanimlar.json` dosyasındadır (`python3 tools/kazanimlar.py` program metinlerinden üretir).
+- Yeni film ekledikten sonra önizleme görselini üretin: `npm run preview` açıkken `node tools/thumbs.js` (yalnızca eksik görselleri üretir → `img/filmler/`).
 - Sayfalar arama motorlarına kapalıdır (`robots.txt`, `noindex`) ve siteden öğretmen sayfasına bağlantı yoktur.
   Ancak depo herkese açık olduğu için dosya adı GitHub'da görülebilir; bu "bağlantıyı bilen görür" düzeyinde bir gizliliktir.
   Bağlantı yayılırsa dosyayı yeni bir rastgele adla yeniden adlandırın; öğrenci bağlantıları etkilenmez.
